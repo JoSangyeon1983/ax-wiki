@@ -10,6 +10,8 @@ updated: 2026-09-08
 
 > CaveBall의 실행 구조를 핵심 게임 플로우와 세 개의 사전 프로세스로 분리한 문서임. 핵심 플로우는 사용자 경험과 게임 규칙만 보여 주고, 콘텐츠 준비, 손 입력 처리와 바닥 입력 처리는 같은 계약 ID를 가진 별도 Mermaid 흐름도로 연결함. 코드 근거와 정적 분석의 한계는 [[CaveBall 클라이언트 코드 구조 분석]]을 따름.
 
+편집 가능한 원본은 [CaveBall 계층형 플로우 FigJam](https://www.figma.com/board/8QtXlUMWgfliVSidvriefF)에서 확인할 수 있음. 각 Mermaid 바로 아래의 네 PNG는 같은 FigJam의 내보내기 영역에서 생성한 정적 사본임.
+
 # 1. 핵심 게임 플로우
 
 핵심 플로우는 게임이 실행된 뒤 반복되는 사건과 결과만 표시함. 이 흐름에 입력을 공급하는 준비 과정은 호출형 노드로 접어 둠.
@@ -56,6 +58,8 @@ flowchart TD
     class applyColor,redirectBall,breakBrick action
     class scoreTeam,resetRound outcome
 ```
+
+![[CaveBall 핵심 게임 플로우.png]]
 
 ## 1.1 사전 프로세스 연결 계약
 
@@ -104,6 +108,8 @@ flowchart TD
     class pInitOut success
     class pInitStop,bgError,ballError failure
 ```
+
+![[CaveBall P-INIT 콘텐츠 준비.png]]
 
 ## 2.1 콘텐츠 준비의 경계
 
@@ -160,6 +166,8 @@ flowchart TD
     class hideEffects inactive
 ```
 
+![[CaveBall P-HAND 손 입력 처리.png]]
+
 ## 3.1 손 입력의 계약
 
 - **입력**:
@@ -212,6 +220,8 @@ flowchart TD
     class pFloorOut success
     class noBounce inactive
 ```
+
+![[CaveBall P-FLOOR 바닥 입력 처리.png]]
 
 ## 4.1 바닥 입력의 계약
 
