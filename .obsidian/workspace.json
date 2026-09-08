@@ -1,0 +1,313 @@
+{
+  "main": {
+    "id": "dd24a5367a272328",
+    "type": "split",
+    "children": [
+      {
+        "id": "f344f9ef365fe8ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d295f54f54d8834d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_작업노트/위키 규칙 정비/CONVENTIONS와 HowTo 역할 분리 계획.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CONVENTIONS와 HowTo 역할 분리 계획"
+            }
+          },
+          {
+            "id": "d52a964c4aaca532",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_산출물/시범콘텐츠/06_덜미 - 나만의 유람기/덜미 - 나만의 유람기 기획서.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "덜미 - 나만의 유람기 기획서"
+            }
+          },
+          {
+            "id": "4f6fd8d76db06336",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07_작업노트/위키 규칙 정비/CONVENTIONS와 HowTo 역할 분리 계획.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CONVENTIONS와 HowTo 역할 분리 계획"
+            }
+          },
+          {
+            "id": "332dc35a921fb805",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_산출물/시범콘텐츠/05_덧뵈기 - 탈놀음 한바탕/덧뵈기 - 탈놀음 한바탕 기획서.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "덧뵈기 - 탈놀음 한바탕 기획서"
+            }
+          },
+          {
+            "id": "9b502d6723c9d0bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05_Articles/Cave Super Ball 기획서.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cave Super Ball 기획서"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d057a72264361598",
+    "type": "split",
+    "children": [
+      {
+        "id": "54ce542b89bd794e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ec1addbba8ee37b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "6261ddc3590c79c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "b2927a6f927a8251",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 393.5
+  },
+  "right": {
+    "id": "62a1eae5bac1239b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a86024750ffd382a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64094cad260c8849",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04_Projects/시범콘텐츠/덧뵈기 - 나만의 탈춤/덧뵈기 - 나만의 탈춤 기획서.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "덧뵈기 - 나만의 탈춤 기획서 의 백링크"
+            }
+          },
+          {
+            "id": "ddc1da303f21e0e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "6444c9c23e3c3911",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "0d4d2bd6c73e54ed",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "2d33f39e5624aff8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "05_Articles/Cave Super Ball 기획서.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          },
+          {
+            "id": "f67fc4f9aa0023ed",
+            "type": "leaf",
+            "state": {
+              "type": "live-pdf-preview-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "live-pdf-preview-view"
+            }
+          },
+          {
+            "id": "1f912cc04def4700",
+            "type": "leaf",
+            "state": {
+              "type": "live-pdf-preview-view",
+              "state": {},
+              "icon": "document",
+              "title": "Live PDF preview"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "9b502d6723c9d0bc",
+  "lastOpenFiles": [
+    "scripts/__pycache__/md_to_docx.cpython-313.pyc",
+    "scripts/__pycache__",
+    "scripts/hooks/stale_line_reminder.mjs",
+    "scripts/hooks/pre-commit",
+    "scripts/hooks",
+    "scripts/wiki_number.mjs",
+    "scripts/wiki_lint.mjs",
+    "scripts/quote_check.mjs",
+    "scripts/migrate_secref.mjs",
+    "scripts/md_to_docx.py",
+    "scripts/make_pictograms.py",
+    "01_HowTo/클라이언트 데이터 번역 규칙.md",
+    "01_HowTo/절 참조 오변환 점검 절차.md",
+    "01_HowTo/인포그래픽 생성 지침.md",
+    "01_HowTo/위키 운영 워크플로.md",
+    "01_HowTo/외부 검수 포커스.md",
+    "01_HowTo/반복 결함 카탈로그.md",
+    "01_HowTo/문서 작성 세부 규칙.md",
+    "01_HowTo/PDF 읽기 절차.md",
+    "01_HowTo/docx 변환 파이프라인.md",
+    "CONVENTIONS.md",
+    "05_Articles/Cave Super Ball 기획서.md",
+    "07_작업노트/위키 규칙 정비/CONVENTIONS와 HowTo 역할 분리 2단계 외부 검수 지시문.md",
+    "AGENTS.md",
+    "04_Projects/시범콘텐츠/00_공통/디바이스 사양.md",
+    "07_작업노트/위키 규칙 정비/CONVENTIONS와 HowTo 역할 분리 1단계 외부 검수 지시문.md",
+    "07_작업노트/위키 규칙 정비/CONVENTIONS와 HowTo 역할 분리 실행 기준선.md",
+    "07_작업노트/탈춤/덧뵈기 2D 캐릭터 스타일 가이드.md",
+    "05_산출물/시범콘텐츠/05_덧뵈기 - 탈놀음 한바탕/덧뵈기 - 탈놀음 한바탕 기획서.md",
+    "07_작업노트/위키 규칙 정비/CONVENTIONS와 HowTo 역할 분리 계획.md",
+    "07_작업노트/인공지능 활용 내역/연구내용 추진현황.md",
+    "assets/시범콘텐츠/탈놀음/2026-09-07_덧뵈기_피격_옴탈_투명_v1.png",
+    "05_산출물/시범콘텐츠/06_덜미 - 나만의 유람기/덜미 - 나만의 유람기 기획서.md",
+    "assets/보고서/2026-09-07_프로젝트_위키_구축_운영_활용_개념도_v2.png",
+    "07_작업노트/이미지 생성 테스트/이미지 생성 테스트 기록.md",
+    "07_작업노트/인공지능 활용 내역/인공지능 활용 결과물 분류.md",
+    "assets/시범콘텐츠/탈놀음/2026-09-07_덧뵈기_마당_배경_v2.png",
+    "assets/시범콘텐츠/유람기/플로우_개요.png",
+    "assets/시범콘텐츠/유람기/플로우.drawio.png",
+    "assets/보고서/2026-09-07_프로젝트_위키_구축_개념도_v1.png",
+    "07_작업노트/인공지능 활용 내역/인공지능 활용 내역 원시 목록.md",
+    "07_작업노트/인공지능 활용 내역/연구내용 추진현황 외부 검수 결과.md",
+    "prototype/덜미-나만의유람기/결과물/유람기 런 2026-09-04-1/2_전개_페이지_초기.png",
+    "prototype/덜미-나만의유람기/결과물/유람기 런 2026-09-04-1/2_전개_텍스트_초기.png",
+    "prototype/덜미-나만의유람기/결과물/유람기 런 2026-09-04-1/1_도입_페이지_초기.png",
+    "prototype/덜미-나만의유람기/결과물/유람기 런 2026-09-04-1/1_도입_텍스트_초기.png"
+  ]
+}

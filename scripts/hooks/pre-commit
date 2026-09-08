@@ -1,0 +1,119 @@
+#!/bin/sh
+# 커밋 전 위키 정합 점검. 어긋나면 커밋을 막고 고치는 명령을 알려줌.
+#
+# 설치 (클론마다 한 번):
+#   git config core.hooksPath scripts/hooks
+#
+# 점검 항목:
+#   1. 헤딩 넘버링 (wiki_number --check): CONVENTIONS 4.2 규칙과 어긋나는 헤딩
+#   2. 위키 정합 (wiki_lint): 깨진 anchor, 가운뎃점, em dash, 폐기된 절 기호, 폐기 어휘, MOC 미등록
+#   3. 원전 인용 (quote_check): 행 번호를 단 인용이 전사본 원문과 다른 것, 범위 밖 행 참조
+#   4. frontmatter updated (2026-08-21 이관): 변경된 .md의 updated가 오늘 날짜인지.
+#      AGENTS 셀프체크의 자기보고 항목("updated가 오늘과 일치하는가")을 기계로 옮긴 자리임
+#   5. 파생 텍스트 동반 알림 (2026-08-21 MECH-4): 본문이 바뀌었는데 헤딩과 TL;DR이
+#      그대로인 절을 확인 요구 목록으로 출력함. 알림만 하고 커밋은 막지 않음
+#
+# 무엇을 검사하는가:
+#   워킹트리가 아니라 인덱스(스테이징된 내용)를 검사함 (2026-08-20 변경).
+#   전에는 워킹트리를 검사해서, 위반이 든 판을 스테이징한 뒤 워킹트리만 고치면
+#   위반이 그대로 커밋됐음(실측 확인). 지금은 인덱스에서 .md와 스크립트만 꺼내
+#   임시 폴더에 펼친 뒤 거기서 검사하므로 커밋될 내용 그대로를 봄.
+#
+#   임시 폴더는 `.git/` 안에 만들고 끝나면 지움. 저장소 밖에는 아무것도 안 만듦.
+#   추적 파일 전체는 525MB지만 .md와 스크립트만 3MB라 복사 비용이 작음.
+#
+# 파일을 자동으로 고치지는 않음. 고치는 것은 사람이나 에이전트가 실제 저장소에서
+# 명령을 직접 돌리게 함.
+
+set -e
+
+if ! command -v node > /dev/null 2>&1; then
+	echo "pre-commit: node를 찾지 못해 위키 점검을 건너뜀"
+	exit 0
+fi
+
+GIT_DIR_PATH=$(git rev-parse --git-dir)
+WORK="$GIT_DIR_PATH/precommit-index"
+
+rm -rf "$WORK"
+mkdir -p "$WORK"
+trap 'rm -rf "$WORK"' EXIT INT TERM
+
+# 인덱스에서 검사에 필요한 것만 꺼냄. 스테이징된 판이 그대로 나옴
+if ! git ls-files -z -- '*.md' 'scripts/*.mjs' 'scripts/*.txt' | git checkout-index --stdin -z --prefix="$WORK/"; then
+	echo ""
+	echo "✗ 스테이징된 내용을 꺼내지 못해 점검을 건너뜁니다"
+	echo "  커밋은 막지 않으나, 커밋 뒤 다음을 직접 돌리세요:"
+	echo "    node scripts/wiki_number.mjs --check && node scripts/wiki_lint.mjs && node scripts/quote_check.mjs"
+	exit 0
+fi
+
+# 스테이징된 스크립트가 없으면 검사할 수단이 없음
+if [ ! -d "$WORK/scripts" ]; then
+	exit 0
+fi
+
+# 이미지 등 바이너리 자산은 임시 폴더에 안 꺼내므로(용량) 진짜 저장소 루트를 알려 줌.
+# 자산 존재는 워킹트리 사실이라 인덱스 기준으로 볼 필요가 없음
+WIKI_ASSET_ROOT=$(git rev-parse --show-toplevel)
+export WIKI_ASSET_ROOT
+
+fail=0
+
+if ! ( cd "$WORK" && node scripts/wiki_number.mjs --check > /dev/null 2>&1 ); then
+	echo ""
+	echo "✗ 헤딩 넘버링이 규칙과 어긋납니다 (CONVENTIONS 4.2 헤딩 넘버링)"
+	( cd "$WORK" && node scripts/wiki_number.mjs --check 2>&1 ) | sed 's/^/    /'
+	echo ""
+	echo "  고치기:  node scripts/wiki_number.mjs --write"
+	echo "  (헤딩 번호와 그걸 가리키는 anchor를 함께 고칩니다. 고친 뒤 다시 add 하세요)"
+	fail=1
+fi
+
+if ! ( cd "$WORK" && node scripts/wiki_lint.mjs > /dev/null 2>&1 ); then
+	echo ""
+	echo "✗ 위키 정합성 error"
+	( cd "$WORK" && node scripts/wiki_lint.mjs 2>&1 ) | sed 's/^/    /'
+	fail=1
+fi
+
+if ! ( cd "$WORK" && node scripts/quote_check.mjs > /dev/null 2>&1 ); then
+	echo ""
+	echo "✗ 원전 인용이 전사본과 어긋납니다 (AGENTS 셀프체크 [인용 재대조])"
+	( cd "$WORK" && node scripts/quote_check.mjs 2>&1 ) | sed 's/^/    /'
+	echo ""
+	echo "  인용문을 원문대로 고치거나, 행 번호를 맞는 행으로 고치세요."
+	echo "  인용이 아니라 개념어에 따옴표를 쓴 것이면 따옴표를 벗기세요."
+	fail=1
+fi
+
+# 4. frontmatter updated 날짜. 스테이징에서 내용이 바뀐 .md만 보고, updated 필드가 없는 파일은 건너뜀
+TODAY=$(date +%Y-%m-%d)
+STALE="$WORK/.updated-stale"
+git -c core.quotepath=false diff --cached --name-only --diff-filter=ACM -- '*.md' | while IFS= read -r f; do
+	u=$(git show ":$f" 2>/dev/null | awk '{ sub(/\r$/,"") } f==1 && /^---$/{exit} /^---$/{f=1; next} f==1 && sub(/^updated:[ \t]*/, ""){print; exit}')
+	[ -z "$u" ] && continue
+	if [ "$u" != "$TODAY" ]; then
+		printf '    %s: updated: %s\n' "$f" "$u" >> "$STALE"
+	fi
+done
+if [ -s "$STALE" ]; then
+	echo ""
+	echo "✗ 변경된 문서의 frontmatter updated가 오늘($TODAY)이 아닙니다 (CONVENTIONS 3.2)"
+	cat "$STALE"
+	echo ""
+	echo "  updated를 오늘 날짜로 고친 뒤 다시 add 하세요."
+	fail=1
+fi
+
+# 5. 파생 텍스트 동반 알림. 실제 저장소 인덱스를 읽으므로 $WORK 밖에서 돌림
+node scripts/diff_companion.mjs 2>/dev/null || true
+
+if [ "$fail" -ne 0 ]; then
+	echo ""
+	echo "  위 위치는 스테이징된 내용 기준입니다. 워킹트리에서 이미 고쳤다면 add 하세요."
+	echo "  점검을 건너뛰고 커밋하려면: git commit --no-verify"
+	exit 1
+fi
+
+exit 0
