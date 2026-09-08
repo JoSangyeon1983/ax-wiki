@@ -1,3 +1,12 @@
+## [2026-09-08] create | CaveBall 계층형 Mermaid 플로우 작성
+
+- 핵심 게임 플로우와 콘텐츠 준비, 손 입력 처리, 바닥 입력 처리의 세 사전 프로세스를 별도 Mermaid 흐름도로 작성함
+- 핵심 플로우의 `P-INIT`, `P-HAND`, `P-FLOOR` 호출형 노드를 계약표의 wikilink anchor로 상세 절에 연결함
+- 각 상세 플로우의 입력, 출력, 포함 범위와 제외 범위를 문서화함
+- 자기검수 정정: `P-INIT`의 준비 중단 출력을 핵심 플로우 분기에 연결하고, 바닥 접촉 만료가 매 프레임 처리임을 라벨에 명시함
+- 생성/수정 파일: `04_Syntheses/CaveBall 계층형 플로우.md`, `04_Syntheses/CaveBall 클라이언트 코드 구조 분석.md`, `00_Index/MOC.md`, `99_Logs/log.md`
+- 새 wikilink: [[CaveBall 계층형 플로우]]
+
 ## [2026-09-08] create | CaveBall 코드 기반 인터랙션 구성도 생성
 
 - 기존 `assets/예시 이미지/케이브구성.png`와 `04_Syntheses/CaveBall 클라이언트 코드 구조 분석.md`를 비교해 코드 구현에 맞는 새 인포그래픽을 생성함

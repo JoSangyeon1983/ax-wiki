@@ -249,6 +249,7 @@ CaveBallContent
 
 # 8. 참고
 
+- [[CaveBall 계층형 플로우]]: 핵심 게임 흐름과 콘텐츠, 손, 바닥 사전 프로세스를 분리한 Mermaid 문서
 - 외부 클라이언트 코드: `D:\Sangyeon\02_Task\2026\03_KOCCA\AX\02_Client\00_Caveball\Assets\Scripts\CaveBall`
 - 분석 방법: 정적 소스 읽기와 분석 범위 내부의 선언, 호출 참조 전수 검색
 - 분석 제한: 외부 소스는 수정하지 않았고 Unity 실행 검증을 수행하지 않았음
