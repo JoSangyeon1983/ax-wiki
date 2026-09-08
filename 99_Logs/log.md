@@ -1,3 +1,10 @@
+## [2026-09-08] update | Cave Super Ball 기획서 프론트매터 추가
+
+- 빈 원고 파일에 제목, 문서 유형, 상태, 태그, 작성일과 갱신일을 추가함
+- 수정 파일: `05_Articles/Cave Super Ball 기획서.md`, `99_Logs/log.md`
+- 새 wikilink: 없음
+- `(cycle-exempt)` 프론트매터만 수정한 작은 변경이므로 외부 검토를 면제함
+
 ## [2026-09-08] update | 루트 운영 문서의 디렉토리 구조 정합화
 
 - `AGENTS.md`, `CLAUDE.md`, `CONVENTIONS.md`를 현재 번호 폴더의 책임에 맞게 갱신함
