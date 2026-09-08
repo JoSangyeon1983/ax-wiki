@@ -8,63 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d295f54f54d8834d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07_작업노트/위키 규칙 정비/CONVENTIONS와 HowTo 역할 분리 계획.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CONVENTIONS와 HowTo 역할 분리 계획"
-            }
-          },
-          {
-            "id": "d52a964c4aaca532",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_산출물/시범콘텐츠/06_덜미 - 나만의 유람기/덜미 - 나만의 유람기 기획서.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "덜미 - 나만의 유람기 기획서"
-            }
-          },
-          {
-            "id": "4f6fd8d76db06336",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07_작업노트/위키 규칙 정비/CONVENTIONS와 HowTo 역할 분리 계획.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CONVENTIONS와 HowTo 역할 분리 계획"
-            }
-          },
-          {
-            "id": "332dc35a921fb805",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "05_산출물/시범콘텐츠/05_덧뵈기 - 탈놀음 한바탕/덧뵈기 - 탈놀음 한바탕 기획서.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "덧뵈기 - 탈놀음 한바탕 기획서"
-            }
-          },
-          {
-            "id": "9b502d6723c9d0bc",
+            "id": "b52353010effa581",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,8 +21,7 @@
               "title": "Cave Super Ball 기획서"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05_Articles/Cave Super Ball 기획서.md",
+                "file": "04_Syntheses/CaveBall 계층형 플로우.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -261,8 +204,80 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "9b502d6723c9d0bc",
+  "floating": {
+    "id": "1bcbace3f7539af5",
+    "type": "floating",
+    "children": [
+      {
+        "id": "dbf0fbe765a70c8c",
+        "type": "window",
+        "children": [
+          {
+            "id": "b7a142d6d9b26726",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "632846c72e77c3d5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "04_Syntheses/CaveBall 계층형 플로우.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "CaveBall 계층형 플로우"
+                }
+              },
+              {
+                "id": "9b502d6723c9d0bc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "04_Syntheses/Cave Super Ball 기획서 초안.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Cave Super Ball 기획서 초안"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1001,
+        "y": 507,
+        "width": 1184,
+        "height": 992,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "632846c72e77c3d5",
   "lastOpenFiles": [
+    "05_Articles/Cave Super Ball 기획서.md",
+    "04_Syntheses/CaveBall 계층형 플로우.md",
+    "04_Syntheses/Cave Super Ball 기획서 초안.md",
+    "assets/예시 이미지/CaveBall P-FLOOR 바닥 입력 처리.png",
+    "assets/예시 이미지/CaveBall P-HAND 손 입력 처리.png",
+    "assets/예시 이미지/CaveBall 핵심 게임 플로우.png",
+    "assets/예시 이미지/CaveBall P-INIT 콘텐츠 준비.png",
+    "assets/예시 이미지/핵심플로우.png",
+    "90_Temp/Cave Super Ball 개요 근거 추출.md",
+    "04_Syntheses/2026-07-15 컨소시엄 킥오프 회의록.md",
+    "02_References/_locked/ref 1. 연구개발의 필요성.md",
+    "04_Syntheses/CaveBall 클라이언트 코드 구조 분석.md",
+    "assets/예시 이미지/sprite_side_red.png",
+    "assets/예시 이미지/sprite_side_blue.png",
+    "assets/예시 이미지/sprite_front.png",
+    "assets/예시 이미지/sprite_floor.png",
+    "assets/예시 이미지/cave_floor_plan.png",
+    "assets/예시 이미지",
+    "assets/새 폴더",
     "scripts/__pycache__/md_to_docx.cpython-313.pyc",
     "scripts/__pycache__",
     "scripts/hooks/stale_line_reminder.mjs",
@@ -271,9 +286,6 @@
     "scripts/wiki_number.mjs",
     "scripts/wiki_lint.mjs",
     "scripts/quote_check.mjs",
-    "scripts/migrate_secref.mjs",
-    "scripts/md_to_docx.py",
-    "scripts/make_pictograms.py",
     "01_HowTo/클라이언트 데이터 번역 규칙.md",
     "01_HowTo/절 참조 오변환 점검 절차.md",
     "01_HowTo/인포그래픽 생성 지침.md",
@@ -284,7 +296,6 @@
     "01_HowTo/PDF 읽기 절차.md",
     "01_HowTo/docx 변환 파이프라인.md",
     "CONVENTIONS.md",
-    "05_Articles/Cave Super Ball 기획서.md",
     "07_작업노트/위키 규칙 정비/CONVENTIONS와 HowTo 역할 분리 2단계 외부 검수 지시문.md",
     "AGENTS.md",
     "04_Projects/시범콘텐츠/00_공통/디바이스 사양.md",
@@ -292,22 +303,6 @@
     "07_작업노트/위키 규칙 정비/CONVENTIONS와 HowTo 역할 분리 실행 기준선.md",
     "07_작업노트/탈춤/덧뵈기 2D 캐릭터 스타일 가이드.md",
     "05_산출물/시범콘텐츠/05_덧뵈기 - 탈놀음 한바탕/덧뵈기 - 탈놀음 한바탕 기획서.md",
-    "07_작업노트/위키 규칙 정비/CONVENTIONS와 HowTo 역할 분리 계획.md",
-    "07_작업노트/인공지능 활용 내역/연구내용 추진현황.md",
-    "assets/시범콘텐츠/탈놀음/2026-09-07_덧뵈기_피격_옴탈_투명_v1.png",
-    "05_산출물/시범콘텐츠/06_덜미 - 나만의 유람기/덜미 - 나만의 유람기 기획서.md",
-    "assets/보고서/2026-09-07_프로젝트_위키_구축_운영_활용_개념도_v2.png",
-    "07_작업노트/이미지 생성 테스트/이미지 생성 테스트 기록.md",
-    "07_작업노트/인공지능 활용 내역/인공지능 활용 결과물 분류.md",
-    "assets/시범콘텐츠/탈놀음/2026-09-07_덧뵈기_마당_배경_v2.png",
-    "assets/시범콘텐츠/유람기/플로우_개요.png",
-    "assets/시범콘텐츠/유람기/플로우.drawio.png",
-    "assets/보고서/2026-09-07_프로젝트_위키_구축_개념도_v1.png",
-    "07_작업노트/인공지능 활용 내역/인공지능 활용 내역 원시 목록.md",
-    "07_작업노트/인공지능 활용 내역/연구내용 추진현황 외부 검수 결과.md",
-    "prototype/덜미-나만의유람기/결과물/유람기 런 2026-09-04-1/2_전개_페이지_초기.png",
-    "prototype/덜미-나만의유람기/결과물/유람기 런 2026-09-04-1/2_전개_텍스트_초기.png",
-    "prototype/덜미-나만의유람기/결과물/유람기 런 2026-09-04-1/1_도입_페이지_초기.png",
-    "prototype/덜미-나만의유람기/결과물/유람기 런 2026-09-04-1/1_도입_텍스트_초기.png"
+    "07_작업노트/위키 규칙 정비/CONVENTIONS와 HowTo 역할 분리 계획.md"
   ]
 }

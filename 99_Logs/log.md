@@ -1,10 +1,27 @@
-## [2026-09-08] update | CaveBall ??? ??? FigJam? PNG ??
+## [2026-09-08] update | CaveBall 플레이 예시 이미지 재생성
 
-- Mermaid ??? ???? ?? ?? ???? `P-INIT`, `P-HAND`, `P-FLOOR` ?? ????? ?? ??? ?? FigJam? ???
-- ? ???? ?? FigJam ??? ???? ???? ?? PNG ? ??? ???
-- FigJam ?? ??? ??? PNG ???? `CaveBall ??? ???`? ???
-- ??/?? ??: `04_Syntheses/CaveBall ??? ???.md`, `assets/?? ???/CaveBall ?? ?? ???.png`, `assets/?? ???/CaveBall P-INIT ??? ??.png`, `assets/?? ???/CaveBall P-HAND ? ?? ??.png`, `assets/?? ???/CaveBall P-FLOOR ?? ?? ??.png`, `99_Logs/log.md`
-- ? wikilink: ??
+- `CaveBall 코드 기반 인터랙션 구성도.png`와 CaveBall 화면 스프라이트 6종을 참고해 플레이 장면을 재생성함
+- 기존 이미지의 발차기, 중앙 타이머와 P1/P2 표기를 제거하고, 왼손 RED와 오른손 BLUE 손목 접촉 및 바닥 반사를 표현함
+- 좌측 RED 벽면, 우측 BLUE 벽면, 전면 점수판과 보라색 양분 바닥 화면을 하나의 플레이 공간으로 구성함
+- 수정 파일: `assets/예시 이미지/플레이_예시.png`, `99_Logs/log.md`
+- 생성 방식: 기본 제공 이미지 생성 도구
+- 새 wikilink: 없음
+
+## [2026-09-08] update | CaveBall 계층형 플로우 FigJam과 PNG 연결
+
+- Mermaid 정본을 바탕으로 핵심 게임 플로우와 `P-INIT`, `P-HAND`, `P-FLOOR` 사전 프로세스를 편집 가능한 단일 FigJam에 생성함
+- 각 플로우를 별도 FigJam 섹션과 내보내기 영역으로 묶고 PNG 네 장으로 변환함
+- FigJam 편집 링크와 흐름별 PNG 임베드를 `CaveBall 계층형 플로우`에 추가함
+- 생성/수정 파일: `04_Syntheses/CaveBall 계층형 플로우.md`, `assets/예시 이미지/CaveBall 핵심 게임 플로우.png`, `assets/예시 이미지/CaveBall P-INIT 콘텐츠 준비.png`, `assets/예시 이미지/CaveBall P-HAND 손 입력 처리.png`, `assets/예시 이미지/CaveBall P-FLOOR 바닥 입력 처리.png`, `99_Logs/log.md`
+- 새 wikilink: 없음
+
+## [2026-09-08] update | CaveBall 코드 기반 인터랙션 구성도 재생성
+
+- `cave.png`, `cave_floor_plan.png`, `sprite_floor.png`, `sprite_front.png`, `sprite_side_blue.png`, `sprite_side_red.png`를 참고해 구성도를 재생성함
+- 기존 정보 구조와 게임 동작 흐름을 유지하고, 중앙 공간에 CaveBall의 정면 화면, 좌우 벽면 화면과 바닥 화면을 재구성함
+- 수정 파일: `assets/예시 이미지/CaveBall 코드 기반 인터랙션 구성도.png`, `99_Logs/log.md`
+- 생성 방식: 기본 제공 이미지 생성 도구
+- 새 wikilink: 없음
 
 ## [2026-09-08] update | Cave Super Ball 기획서 초안 개요 작성
 
