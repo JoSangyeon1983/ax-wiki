@@ -1,0 +1,2467 @@
+[
+  {
+    "path": "00_System/00_Index/Index.md",
+    "sha256": "49426d39d0d127683333c58eb72760e64d6ff451015618d2fba325e5c7aeb454",
+    "frontmatter": "---\ntitle: 위키 색인\ntype: system\ncreated: \"2026-10-06\"\nupdated: \"2026-10-12\"\n---\n",
+    "headings": [
+      {
+        "line": 8,
+        "level": 1,
+        "text": "1 목적"
+      },
+      {
+        "line": 13,
+        "level": 1,
+        "text": "2 운영 문서"
+      },
+      {
+        "line": 15,
+        "level": 2,
+        "text": "2.1 지침과 규정"
+      },
+      {
+        "line": 24,
+        "level": 2,
+        "text": "2.2 기록과 도구"
+      },
+      {
+        "line": 31,
+        "level": 1,
+        "text": "3 폴더 안내"
+      },
+      {
+        "line": 52,
+        "level": 1,
+        "text": "4 정식 산출물 목록"
+      },
+      {
+        "line": 54,
+        "level": 2,
+        "text": "4.1 References"
+      },
+      {
+        "line": 56,
+        "level": 3,
+        "text": "4.1.1 제안요청서"
+      },
+      {
+        "line": 60,
+        "level": 3,
+        "text": "4.1.2 컨소시엄"
+      },
+      {
+        "line": 64,
+        "level": 3,
+        "text": "4.1.3 연구개발계획서"
+      },
+      {
+        "line": 72,
+        "level": 3,
+        "text": "4.1.4 남사당놀이"
+      },
+      {
+        "line": 80,
+        "level": 3,
+        "text": "4.1.5 콘텐츠 기획 요구사항"
+      },
+      {
+        "line": 84,
+        "level": 3,
+        "text": "4.1.6 회의록"
+      },
+      {
+        "line": 90,
+        "level": 2,
+        "text": "4.2 Articles"
+      },
+      {
+        "line": 92,
+        "level": 3,
+        "text": "4.2.1 버나 - 버나잡이 한 판"
+      },
+      {
+        "line": 96,
+        "level": 3,
+        "text": "4.2.2 덧뵈기 - 탈놀음 한바탕"
+      },
+      {
+        "line": 101,
+        "level": 3,
+        "text": "4.2.3 덜미 - 나만의 꼭두각시"
+      },
+      {
+        "line": 106,
+        "level": 3,
+        "text": "4.2.4 발표"
+      },
+      {
+        "line": 110,
+        "level": 3,
+        "text": "4.2.5 공통 사양"
+      },
+      {
+        "line": 114,
+        "level": 2,
+        "text": "4.3 Assets"
+      },
+      {
+        "line": 123,
+        "level": 2,
+        "text": "4.4 미등록 산출물"
+      },
+      {
+        "line": 128,
+        "level": 2,
+        "text": "4.5 등록 안내"
+      }
+    ],
+    "heading_issues": []
+  },
+  {
+    "path": "00_System/01_Rules/문서 작성 규칙.md",
+    "sha256": "126f611a6756b0785ddd2fed0c9b13f53769893d8fe634e36b6f643b623e84d6",
+    "frontmatter": "---\ntitle: \"문서 작성 규칙\"\ntype: system\ncreated: \"2026-10-06\"\nupdated: \"2026-10-08\"\n---\n",
+    "headings": [
+      {
+        "line": 8,
+        "level": 1,
+        "text": "1 적용 범위"
+      },
+      {
+        "line": 10,
+        "level": 2,
+        "text": "1.1 적용 대상"
+      },
+      {
+        "line": 15,
+        "level": 2,
+        "text": "1.2 원형 보존"
+      },
+      {
+        "line": 20,
+        "level": 2,
+        "text": "1.3 적용 규정"
+      },
+      {
+        "line": 25,
+        "level": 1,
+        "text": "2 작성 순서"
+      },
+      {
+        "line": 31,
+        "level": 2,
+        "text": "2.1 목적 설정과 자료 확인"
+      },
+      {
+        "line": 36,
+        "level": 2,
+        "text": "2.2 원자료 추출"
+      },
+      {
+        "line": 38,
+        "level": 3,
+        "text": "2.2.1 적용 조건과 최초 추출"
+      },
+      {
+        "line": 45,
+        "level": 3,
+        "text": "2.2.2 추출 단위 식별과 변경"
+      },
+      {
+        "line": 51,
+        "level": 3,
+        "text": "2.2.3 원문 대응과 개수 구분"
+      },
+      {
+        "line": 57,
+        "level": 2,
+        "text": "2.3 정보 분류, 구조 설계와 검토"
+      },
+      {
+        "line": 64,
+        "level": 1,
+        "text": "3 서술 방식"
+      },
+      {
+        "line": 70,
+        "level": 2,
+        "text": "3.1 두괄식"
+      },
+      {
+        "line": 76,
+        "level": 2,
+        "text": "3.2 개조식"
+      },
+      {
+        "line": 80,
+        "level": 3,
+        "text": "3.2.1 간결성과 종결"
+      },
+      {
+        "line": 86,
+        "level": 3,
+        "text": "3.2.2 항목 계층과 그룹화"
+      },
+      {
+        "line": 94,
+        "level": 3,
+        "text": "3.2.3 의미 전달"
+      },
+      {
+        "line": 100,
+        "level": 2,
+        "text": "3.3 가운뎃점 사용 금지"
+      },
+      {
+        "line": 106,
+        "level": 2,
+        "text": "3.4 슬래시 사용 제한"
+      },
+      {
+        "line": 113,
+        "level": 2,
+        "text": "3.5 em dash 사용 금지"
+      },
+      {
+        "line": 118,
+        "level": 1,
+        "text": "4 정보 배열"
+      },
+      {
+        "line": 120,
+        "level": 2,
+        "text": "4.1 배열과 분류"
+      },
+      {
+        "line": 127,
+        "level": 2,
+        "text": "4.2 표현과 검토"
+      },
+      {
+        "line": 134,
+        "level": 1,
+        "text": "5 근거와 판단의 표시"
+      },
+      {
+        "line": 136,
+        "level": 2,
+        "text": "5.1 출처와 참조"
+      },
+      {
+        "line": 142,
+        "level": 2,
+        "text": "5.2 주장과 확인 상태"
+      },
+      {
+        "line": 150,
+        "level": 1,
+        "text": "6 최종 정리"
+      },
+      {
+        "line": 152,
+        "level": 2,
+        "text": "6.1 내용과 문체"
+      },
+      {
+        "line": 160,
+        "level": 2,
+        "text": "6.2 형식과 작업 기록"
+      }
+    ],
+    "heading_issues": []
+  },
+  {
+    "path": "00_System/01_Rules/문서 형식.md",
+    "sha256": "1c46a11c6bdc4bea53d79a32356f1324c325faaad8f0d7d7961a8267e94229d1",
+    "frontmatter": "---\ntitle: \"문서 형식\"\ntype: system\ncreated: \"2026-10-06\"\nupdated: \"2026-10-12\"\n---\n",
+    "headings": [
+      {
+        "line": 8,
+        "level": 1,
+        "text": "1 기본 형식"
+      },
+      {
+        "line": 16,
+        "level": 1,
+        "text": "2 문서 제목과 파일명"
+      },
+      {
+        "line": 24,
+        "level": 1,
+        "text": "3 헤더 넘버링"
+      },
+      {
+        "line": 26,
+        "level": 2,
+        "text": "3.1 번호 형식"
+      },
+      {
+        "line": 41,
+        "level": 2,
+        "text": "3.2 번호 초기화와 갱신"
+      },
+      {
+        "line": 43,
+        "level": 3,
+        "text": "3.2.1 레벨별 번호 부여"
+      },
+      {
+        "line": 50,
+        "level": 3,
+        "text": "3.2.2 절 변경과 참조"
+      },
+      {
+        "line": 56,
+        "level": 2,
+        "text": "3.3 Article 문서 정보의 번호 예외"
+      },
+      {
+        "line": 64,
+        "level": 1,
+        "text": "4 프론트매터"
+      },
+      {
+        "line": 80,
+        "level": 2,
+        "text": "4.1 출처 기록"
+      },
+      {
+        "line": 86,
+        "level": 2,
+        "text": "4.2 상태와 대조 범위"
+      },
+      {
+        "line": 93,
+        "level": 1,
+        "text": "5 References"
+      },
+      {
+        "line": 111,
+        "level": 1,
+        "text": "6 Syntheses"
+      },
+      {
+        "line": 128,
+        "level": 1,
+        "text": "7 Articles"
+      },
+      {
+        "line": 149,
+        "level": 1,
+        "text": "8 Assets"
+      },
+      {
+        "line": 151,
+        "level": 2,
+        "text": "8.1 적용 대상과 프론트매터"
+      },
+      {
+        "line": 170,
+        "level": 2,
+        "text": "8.2 본문과 검토 기록"
+      },
+      {
+        "line": 178,
+        "level": 2,
+        "text": "8.3 이미지 삽입과 링크 경로"
+      },
+      {
+        "line": 185,
+        "level": 1,
+        "text": "9 Prototypes"
+      },
+      {
+        "line": 187,
+        "level": 2,
+        "text": "9.1 적용 대상과 기본 구성"
+      },
+      {
+        "line": 195,
+        "level": 2,
+        "text": "9.2 프론트매터"
+      },
+      {
+        "line": 218,
+        "level": 2,
+        "text": "9.3 입력 근거와 검토 기록"
+      },
+      {
+        "line": 226,
+        "level": 1,
+        "text": "10 System과 Logs"
+      },
+      {
+        "line": 244,
+        "level": 1,
+        "text": "11 Workspace와 파일 이동"
+      }
+    ],
+    "heading_issues": []
+  },
+  {
+    "path": "00_System/01_Rules/위키 작업 절차.md",
+    "sha256": "323fccc98c78e02b9ebd88810101b39709707bb347a6732a5c6e7f492e2b872a",
+    "frontmatter": "---\ntitle: \"위키 작업 절차\"\ntype: system\ncreated: \"2026-10-06\"\nupdated: \"2026-10-12\"\n---\n",
+    "headings": [
+      {
+        "line": 8,
+        "level": 1,
+        "text": "1 작업 정의"
+      },
+      {
+        "line": 15,
+        "level": 1,
+        "text": "2 자료 선정"
+      },
+      {
+        "line": 22,
+        "level": 1,
+        "text": "3 작성과 수정"
+      },
+      {
+        "line": 24,
+        "level": 2,
+        "text": "3.1 작업 공간과 초안"
+      },
+      {
+        "line": 32,
+        "level": 2,
+        "text": "3.2 구조와 검증 준비"
+      },
+      {
+        "line": 37,
+        "level": 2,
+        "text": "3.3 헤더 번호 도구 실행"
+      },
+      {
+        "line": 39,
+        "level": 3,
+        "text": "3.3.1 실행 환경과 첫 번호 부여"
+      },
+      {
+        "line": 51,
+        "level": 3,
+        "text": "3.3.2 기존 번호 재계산과 제목 보존"
+      },
+      {
+        "line": 63,
+        "level": 3,
+        "text": "3.3.3 적용 후 검사와 실행 범위"
+      },
+      {
+        "line": 74,
+        "level": 3,
+        "text": "3.3.4 오류 처리와 인식 범위"
+      },
+      {
+        "line": 80,
+        "level": 3,
+        "text": "3.3.5 종료 상태와 도구 검증"
+      },
+      {
+        "line": 89,
+        "level": 1,
+        "text": "4 검증"
+      },
+      {
+        "line": 95,
+        "level": 2,
+        "text": "4.1 공통 검토"
+      },
+      {
+        "line": 97,
+        "level": 3,
+        "text": "4.1.1 출처와 내용 상태"
+      },
+      {
+        "line": 104,
+        "level": 3,
+        "text": "4.1.2 서술과 문서 형식"
+      },
+      {
+        "line": 112,
+        "level": 3,
+        "text": "4.1.3 리소스와 재검증"
+      },
+      {
+        "line": 118,
+        "level": 2,
+        "text": "4.2 프로토타입 실행과 구현 검토"
+      },
+      {
+        "line": 125,
+        "level": 2,
+        "text": "4.3 프로토타입 검증 기록"
+      },
+      {
+        "line": 131,
+        "level": 1,
+        "text": "5 확정과 반영"
+      },
+      {
+        "line": 133,
+        "level": 2,
+        "text": "5.1 반영 대상과 상태"
+      },
+      {
+        "line": 140,
+        "level": 2,
+        "text": "5.2 이동과 색인"
+      },
+      {
+        "line": 148,
+        "level": 2,
+        "text": "5.3 프로토타입 반영"
+      },
+      {
+        "line": 154,
+        "level": 1,
+        "text": "6 월별 로그"
+      },
+      {
+        "line": 156,
+        "level": 2,
+        "text": "6.1 기록 범위"
+      },
+      {
+        "line": 164,
+        "level": 2,
+        "text": "6.2 날짜와 항목 형식"
+      },
+      {
+        "line": 170,
+        "level": 2,
+        "text": "6.3 삽입과 정렬"
+      },
+      {
+        "line": 177,
+        "level": 2,
+        "text": "6.4 기록 내용과 색인"
+      }
+    ],
+    "heading_issues": []
+  },
+  {
+    "path": "00_System/01_Rules/이미지 생성 규칙.md",
+    "sha256": "06c824d69e76fefb75deabc4f510cca65d65c3acc433270365e785768a26c2bd",
+    "frontmatter": "---\ntitle: \"이미지 생성 규칙\"\ntype: system\ncreated: \"2026-10-08\"\nupdated: \"2026-10-12\"\n---\n",
+    "headings": [
+      {
+        "line": 8,
+        "level": 1,
+        "text": "1 목적과 기본 원칙"
+      },
+      {
+        "line": 14,
+        "level": 1,
+        "text": "2 내용 분석"
+      },
+      {
+        "line": 16,
+        "level": 2,
+        "text": "2.1 표시 정보 선택과 분류"
+      },
+      {
+        "line": 23,
+        "level": 2,
+        "text": "2.2 렌더 문자열 확정"
+      },
+      {
+        "line": 31,
+        "level": 1,
+        "text": "3 구성 설계"
+      },
+      {
+        "line": 33,
+        "level": 2,
+        "text": "3.1 레이아웃 선택"
+      },
+      {
+        "line": 41,
+        "level": 2,
+        "text": "3.2 레이아웃 패턴과 장치"
+      },
+      {
+        "line": 57,
+        "level": 2,
+        "text": "3.3 배치와 시각 요소"
+      },
+      {
+        "line": 59,
+        "level": 3,
+        "text": "3.3.1 시각 어휘와 의미 배정"
+      },
+      {
+        "line": 66,
+        "level": 3,
+        "text": "3.3.2 라벨과 시각 위계"
+      },
+      {
+        "line": 72,
+        "level": 3,
+        "text": "3.3.3 시선 흐름과 연결선"
+      },
+      {
+        "line": 78,
+        "level": 2,
+        "text": "3.4 정량 정보"
+      },
+      {
+        "line": 85,
+        "level": 2,
+        "text": "3.5 시각 스타일 선택"
+      },
+      {
+        "line": 92,
+        "level": 1,
+        "text": "4 프롬프트 작성"
+      },
+      {
+        "line": 100,
+        "level": 1,
+        "text": "5 생성과 검수"
+      },
+      {
+        "line": 102,
+        "level": 2,
+        "text": "5.1 생성 경로와 실행 설정"
+      },
+      {
+        "line": 110,
+        "level": 2,
+        "text": "5.2 검수 절차"
+      },
+      {
+        "line": 118,
+        "level": 3,
+        "text": "5.2.1 공식 이미지 판독 지침의 한계"
+      },
+      {
+        "line": 122,
+        "level": 4,
+        "text": "1) 문자와 그래프"
+      },
+      {
+        "line": 129,
+        "level": 4,
+        "text": "2) 위치, 형태와 개수"
+      },
+      {
+        "line": 135,
+        "level": 4,
+        "text": "3) 정확도와 입력 처리"
+      },
+      {
+        "line": 142,
+        "level": 2,
+        "text": "5.3 재생성 기준"
+      },
+      {
+        "line": 154,
+        "level": 2,
+        "text": "5.4 최종 이미지와 통합 작업 기록"
+      },
+      {
+        "line": 156,
+        "level": 3,
+        "text": "5.4.1 관리 단위와 파일 생성"
+      },
+      {
+        "line": 164,
+        "level": 3,
+        "text": "5.4.2 생성, 검수와 보관 순서"
+      },
+      {
+        "line": 172,
+        "level": 3,
+        "text": "5.4.3 기록 내용과 재검증"
+      },
+      {
+        "line": 184,
+        "level": 2,
+        "text": "5.5 문서 이미지 삽입"
+      }
+    ],
+    "heading_issues": []
+  },
+  {
+    "path": "00_System/02_Logs/log.md",
+    "sha256": "dd6c9da433bff2137a781fc33efc805e5db2e6642da1f4da20d63c5d8d3dd2be",
+    "frontmatter": "",
+    "headings": [
+      {
+        "line": 1,
+        "level": 2,
+        "text": "[2026-09-08] update | CaveBall 플레이 예시 이미지 재생성"
+      },
+      {
+        "line": 10,
+        "level": 2,
+        "text": "[2026-09-08] update | CaveBall 계층형 플로우 FigJam과 PNG 연결"
+      },
+      {
+        "line": 18,
+        "level": 2,
+        "text": "[2026-09-08] update | CaveBall 코드 기반 인터랙션 구성도 재생성"
+      },
+      {
+        "line": 26,
+        "level": 2,
+        "text": "[2026-09-08] update | Cave Super Ball 기획서 초안 개요 작성"
+      },
+      {
+        "line": 38,
+        "level": 2,
+        "text": "[2026-09-08] create | CaveBall 계층형 Mermaid 플로우 작성"
+      },
+      {
+        "line": 47,
+        "level": 2,
+        "text": "[2026-09-08] create | CaveBall 코드 기반 인터랙션 구성도 생성"
+      },
+      {
+        "line": 57,
+        "level": 2,
+        "text": "[2026-09-08] create | CaveBall 클라이언트 코드 구조 분석"
+      },
+      {
+        "line": 68,
+        "level": 2,
+        "text": "[2026-09-08] update | Cave Super Ball 기획서 프론트매터 추가"
+      },
+      {
+        "line": 75,
+        "level": 2,
+        "text": "[2026-09-08] update | 루트 운영 문서의 디렉토리 구조 정합화"
+      },
+      {
+        "line": 87,
+        "level": 2,
+        "text": "[2026-07-16] maint | 컨소시엄 킥오프 회의록 카테고리 재구성"
+      },
+      {
+        "line": 97,
+        "level": 2,
+        "text": "[2026-07-16] create | 2026-07-15 컨소시엄 킥오프 회의록 작성"
+      },
+      {
+        "line": 112,
+        "level": 2,
+        "text": "[2026-05-08] update | ref 3. 연구개발의 추진전략과 방법 및 추진일정 — 원본 대조 및 표 보강"
+      },
+      {
+        "line": 128,
+        "level": 2,
+        "text": "[2026-05-08] update | ref 2. 연구개발의 목표 및 내용 — 2.hwpx 원문 대조 후 누락 보강 및 표 재구성"
+      },
+      {
+        "line": 148,
+        "level": 2,
+        "text": "[2026-05-08] lint | 5.hwpx ↔ ref 5. 연구개발성과의 활용방안 및 기대효과 원문 대조 검증"
+      },
+      {
+        "line": 159,
+        "level": 2,
+        "text": "[2026-05-08] lint | 4.hwpx ↔ ref 4. 마일스톤 체계 및 수행계획 원문 대조 검증"
+      },
+      {
+        "line": 170,
+        "level": 2,
+        "text": "[2026-05-08] lint | 1.hwpx ↔ ref 1. 연구개발의 필요성 원문 대조 검증"
+      },
+      {
+        "line": 185,
+        "level": 2,
+        "text": "[2026-05-08] ingest | 3.hwpx → ref 3. 연구개발의 추진전략·방법 및 추진일정"
+      },
+      {
+        "line": 199,
+        "level": 2,
+        "text": "[2026-05-08] ingest | 4.hwpx → ref 4. 마일스톤 체계 및 수행계획"
+      },
+      {
+        "line": 213,
+        "level": 2,
+        "text": "[2026-05-08] ingest | 5.hwpx → ref 5. 연구개발성과의 활용방안 및 기대효과"
+      },
+      {
+        "line": 228,
+        "level": 2,
+        "text": "[2026-05-08] ingest | 1.hwpx → ref 1. 연구개발의 필요성"
+      },
+      {
+        "line": 246,
+        "level": 2,
+        "text": "[2026-05-08] ingest | 2.hwpx → ref 2. 연구개발의 목표 및 내용"
+      }
+    ],
+    "heading_issues": []
+  },
+  {
+    "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+    "sha256": "d5f36d468cf275eb9ce39d850db01ce190df0975ccbf0f82a964a54e30506322",
+    "frontmatter": "---\ntitle: 연구개발의 필요성 (RFP/계획서 1장)\ntags: [reference, locked, RFP, 연구개발의필요성]\ncreated: 2026-05-08\nupdated: 2026-05-08 (원문 대조 검증 후 1-4 구조 수정)\nsource: assets/1.hwpx\n---\n",
+    "headings": [
+      {
+        "line": 9,
+        "level": 1,
+        "text": "연구개발의 필요성"
+      },
+      {
+        "line": 22,
+        "level": 2,
+        "text": "1-1. 연구개발의 개요"
+      },
+      {
+        "line": 28,
+        "level": 3,
+        "text": "AX융합콘텐츠 전문인력 양성 교육과정의 필요성"
+      },
+      {
+        "line": 38,
+        "level": 3,
+        "text": "AX융합콘텐츠 전문인력 양성을 위한 마이크로디그리 운영"
+      },
+      {
+        "line": 50,
+        "level": 4,
+        "text": "시촉각 AX 융합 콘텐츠 마이크로디그리 교과과정"
+      },
+      {
+        "line": 71,
+        "level": 4,
+        "text": "시촉각 AX 융합 콘텐츠 [[비교과]] 과정"
+      },
+      {
+        "line": 77,
+        "level": 3,
+        "text": "인력양성 계획"
+      },
+      {
+        "line": 86,
+        "level": 2,
+        "text": "1-2. 연구개발 대상의 국내외 현황"
+      },
+      {
+        "line": 88,
+        "level": 3,
+        "text": "기술 현황"
+      },
+      {
+        "line": 98,
+        "level": 3,
+        "text": "시장 현황"
+      },
+      {
+        "line": 106,
+        "level": 3,
+        "text": "경쟁 기관 현황 및 예측"
+      },
+      {
+        "line": 116,
+        "level": 3,
+        "text": "지식재산권 현황"
+      },
+      {
+        "line": 127,
+        "level": 3,
+        "text": "표준화 현황 및 예측"
+      },
+      {
+        "line": 137,
+        "level": 2,
+        "text": "1-3. 연구개발의 중요성(필요성)"
+      },
+      {
+        "line": 139,
+        "level": 3,
+        "text": "기술적, 경제적 가치"
+      },
+      {
+        "line": 155,
+        "level": 3,
+        "text": "국내외 현황 및 문제점과 전망 / 국내 연구개발의 필요성"
+      },
+      {
+        "line": 167,
+        "level": 3,
+        "text": "정부 정책과의 연관성"
+      },
+      {
+        "line": 175,
+        "level": 3,
+        "text": "국가개발사업의 근거 법령 및 추진계획과의 부합성"
+      },
+      {
+        "line": 185,
+        "level": 2,
+        "text": "1-4. 선행 연구 내용 및 결과"
+      },
+      {
+        "line": 187,
+        "level": 3,
+        "text": "[[경희대학교 산학협력단]]"
+      },
+      {
+        "line": 191,
+        "level": 4,
+        "text": "[[우탁]] 교수님"
+      },
+      {
+        "line": 203,
+        "level": 4,
+        "text": "[[전석희]] 교수님"
+      },
+      {
+        "line": 218,
+        "level": 4,
+        "text": "[[이상민]] 교수님"
+      },
+      {
+        "line": 226,
+        "level": 4,
+        "text": "[[이신영]] 교수님"
+      },
+      {
+        "line": 237,
+        "level": 4,
+        "text": "[[김정현]] 교수님"
+      },
+      {
+        "line": 248,
+        "level": 4,
+        "text": "[[이원구]] 교수님"
+      },
+      {
+        "line": 261,
+        "level": 4,
+        "text": "[[이원희]] 교수님"
+      },
+      {
+        "line": 272,
+        "level": 4,
+        "text": "[[오승재]] 교수님"
+      },
+      {
+        "line": 283,
+        "level": 3,
+        "text": "㈜[[셀빅]]"
+      },
+      {
+        "line": 290,
+        "level": 3,
+        "text": "㈜[[월러스코]] [[디자인랩]]"
+      }
+    ],
+    "heading_issues": [
+      {
+        "line": 9,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1"
+      },
+      {
+        "line": 22,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.1"
+      },
+      {
+        "line": 28,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.1.1"
+      },
+      {
+        "line": 38,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.1.2"
+      },
+      {
+        "line": 50,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1)"
+      },
+      {
+        "line": 71,
+        "code": "NUMBER",
+        "message": "필요한 번호: 2)"
+      },
+      {
+        "line": 77,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.1.3"
+      },
+      {
+        "line": 86,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.2"
+      },
+      {
+        "line": 88,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.2.1"
+      },
+      {
+        "line": 98,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.2.2"
+      },
+      {
+        "line": 106,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.2.3"
+      },
+      {
+        "line": 116,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.2.4"
+      },
+      {
+        "line": 127,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.2.5"
+      },
+      {
+        "line": 137,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.3"
+      },
+      {
+        "line": 139,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.3.1"
+      },
+      {
+        "line": 155,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.3.2"
+      },
+      {
+        "line": 167,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.3.3"
+      },
+      {
+        "line": 175,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.3.4"
+      },
+      {
+        "line": 185,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.4"
+      },
+      {
+        "line": 187,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.4.1"
+      },
+      {
+        "line": 191,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1)"
+      },
+      {
+        "line": 203,
+        "code": "NUMBER",
+        "message": "필요한 번호: 2)"
+      },
+      {
+        "line": 218,
+        "code": "NUMBER",
+        "message": "필요한 번호: 3)"
+      },
+      {
+        "line": 226,
+        "code": "NUMBER",
+        "message": "필요한 번호: 4)"
+      },
+      {
+        "line": 237,
+        "code": "NUMBER",
+        "message": "필요한 번호: 5)"
+      },
+      {
+        "line": 248,
+        "code": "NUMBER",
+        "message": "필요한 번호: 6)"
+      },
+      {
+        "line": 261,
+        "code": "NUMBER",
+        "message": "필요한 번호: 7)"
+      },
+      {
+        "line": 272,
+        "code": "NUMBER",
+        "message": "필요한 번호: 8)"
+      },
+      {
+        "line": 283,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.4.2"
+      },
+      {
+        "line": 290,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.4.3"
+      }
+    ]
+  },
+  {
+    "path": "01_References/00_프로젝트/02_연구개발계획서/2_연구개발의 목표 및 내용.md",
+    "sha256": "81ac3c12878cc3fb5a543d38a3a56f29076c476281f5edf66e7fa164ace9636e",
+    "frontmatter": "---\ntitle: 연구개발의 목표 및 내용\ntags: [reference, RFP, 연구개발계획서, KOCCA, 실감AX]\ncreated: 2026-05-08\nupdated: 2026-05-08\nsource: assets/2.hwpx\n---\n",
+    "headings": [
+      {
+        "line": 9,
+        "level": 1,
+        "text": "2. 연구개발의 목표 및 내용"
+      },
+      {
+        "line": 15,
+        "level": 2,
+        "text": "2-1. 연구개발 최종목표"
+      },
+      {
+        "line": 17,
+        "level": 3,
+        "text": "최종 목표"
+      },
+      {
+        "line": 51,
+        "level": 3,
+        "text": "End Product"
+      },
+      {
+        "line": 63,
+        "level": 3,
+        "text": "세부 목표 — 주요 성능치 (기술)"
+      },
+      {
+        "line": 87,
+        "level": 3,
+        "text": "단계별 정량적 성과"
+      },
+      {
+        "line": 103,
+        "level": 2,
+        "text": "2-2. 단계별 연구개발 목표 및 내용"
+      },
+      {
+        "line": 108,
+        "level": 3,
+        "text": "1 단계"
+      },
+      {
+        "line": 110,
+        "level": 4,
+        "text": "① 개발 목표"
+      },
+      {
+        "line": 126,
+        "level": 4,
+        "text": "② 개발 내용"
+      },
+      {
+        "line": 128,
+        "level": 5,
+        "text": "주관연구개발기관 : 경희대학교 산학협력단"
+      },
+      {
+        "line": 177,
+        "level": 5,
+        "text": "공동연구개발기관1 : ㈜셀빅"
+      },
+      {
+        "line": 199,
+        "level": 5,
+        "text": "공동연구개발기관2 : ㈜월러스코 디자인랩"
+      },
+      {
+        "line": 212,
+        "level": 3,
+        "text": "2 단계"
+      },
+      {
+        "line": 214,
+        "level": 4,
+        "text": "① 개발 목표"
+      },
+      {
+        "line": 232,
+        "level": 4,
+        "text": "② 개발 내용"
+      },
+      {
+        "line": 234,
+        "level": 5,
+        "text": "주관연구개발기관 : 경희대학교 산학협력단"
+      },
+      {
+        "line": 286,
+        "level": 5,
+        "text": "공동연구개발기관1 : ㈜셀빅"
+      },
+      {
+        "line": 309,
+        "level": 5,
+        "text": "공동연구개발기관2 : ㈜월러스코 디자인랩"
+      },
+      {
+        "line": 330,
+        "level": 3,
+        "text": "3 단계"
+      },
+      {
+        "line": 332,
+        "level": 4,
+        "text": "① 개발 목표"
+      },
+      {
+        "line": 348,
+        "level": 4,
+        "text": "② 개발 내용"
+      },
+      {
+        "line": 350,
+        "level": 5,
+        "text": "주관연구개발기관 : 경희대학교 산학협력단"
+      },
+      {
+        "line": 389,
+        "level": 5,
+        "text": "공동연구개발기관1 : ㈜셀빅"
+      },
+      {
+        "line": 409,
+        "level": 5,
+        "text": "공동연구개발기관2 : ㈜월러스코 디자인랩"
+      },
+      {
+        "line": 426,
+        "level": 2,
+        "text": "2-3. 연구개발의 창의성ㆍ혁신성 등"
+      },
+      {
+        "line": 428,
+        "level": 3,
+        "text": "주관연구개발기관 : 경희대학교 산학협력단"
+      },
+      {
+        "line": 442,
+        "level": 3,
+        "text": "공동연구개발기관 : ㈜셀빅"
+      },
+      {
+        "line": 456,
+        "level": 3,
+        "text": "공동연구개발기관 : ㈜월러스코"
+      },
+      {
+        "line": 465,
+        "level": 2,
+        "text": "2-4. 연구개발 성능지표 및 평가방법"
+      },
+      {
+        "line": 467,
+        "level": 3,
+        "text": "가-1. 결과물의 성능지표"
+      },
+      {
+        "line": 491,
+        "level": 3,
+        "text": "가-2. 평가방법 및 평가환경"
+      },
+      {
+        "line": 515,
+        "level": 3,
+        "text": "나. 성과물 목표"
+      }
+    ],
+    "heading_issues": [
+      {
+        "line": 9,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1"
+      },
+      {
+        "line": 15,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.1"
+      },
+      {
+        "line": 17,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.1.1"
+      },
+      {
+        "line": 51,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.1.2"
+      },
+      {
+        "line": 63,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.1.3"
+      },
+      {
+        "line": 87,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.1.4"
+      },
+      {
+        "line": 103,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.2"
+      },
+      {
+        "line": 108,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.2.1"
+      },
+      {
+        "line": 110,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1)"
+      },
+      {
+        "line": 126,
+        "code": "NUMBER",
+        "message": "필요한 번호: 2)"
+      },
+      {
+        "line": 128,
+        "code": "NUMBER",
+        "message": "필요한 번호: (1)"
+      },
+      {
+        "line": 177,
+        "code": "NUMBER",
+        "message": "필요한 번호: (2)"
+      },
+      {
+        "line": 199,
+        "code": "NUMBER",
+        "message": "필요한 번호: (3)"
+      },
+      {
+        "line": 212,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.2.2"
+      },
+      {
+        "line": 214,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1)"
+      },
+      {
+        "line": 232,
+        "code": "NUMBER",
+        "message": "필요한 번호: 2)"
+      },
+      {
+        "line": 234,
+        "code": "NUMBER",
+        "message": "필요한 번호: (1)"
+      },
+      {
+        "line": 286,
+        "code": "NUMBER",
+        "message": "필요한 번호: (2)"
+      },
+      {
+        "line": 309,
+        "code": "NUMBER",
+        "message": "필요한 번호: (3)"
+      },
+      {
+        "line": 330,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.2.3"
+      },
+      {
+        "line": 332,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1)"
+      },
+      {
+        "line": 348,
+        "code": "NUMBER",
+        "message": "필요한 번호: 2)"
+      },
+      {
+        "line": 350,
+        "code": "NUMBER",
+        "message": "필요한 번호: (1)"
+      },
+      {
+        "line": 389,
+        "code": "NUMBER",
+        "message": "필요한 번호: (2)"
+      },
+      {
+        "line": 409,
+        "code": "NUMBER",
+        "message": "필요한 번호: (3)"
+      },
+      {
+        "line": 426,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.3"
+      },
+      {
+        "line": 428,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.3.1"
+      },
+      {
+        "line": 442,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.3.2"
+      },
+      {
+        "line": 456,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.3.3"
+      },
+      {
+        "line": 465,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.4"
+      },
+      {
+        "line": 467,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.4.1"
+      },
+      {
+        "line": 491,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.4.2"
+      },
+      {
+        "line": 515,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.4.3"
+      }
+    ]
+  },
+  {
+    "path": "01_References/00_프로젝트/02_연구개발계획서/3_연구개발의 추진전략과 방법 및 추진일정.md",
+    "sha256": "aeca95c1544872a816dc91964b68e1366f01530795ab5707f4a1d30c961b2235",
+    "frontmatter": "---\ntitle: 연구개발의 추진전략·방법 및 추진일정\ntags: [reference, RFP, 연구개발계획서, KOCCA, 실감AX]\ncreated: 2026-05-08\nupdated: 2026-05-08\nsource: assets/3.hwpx\n---\n",
+    "headings": [
+      {
+        "line": 9,
+        "level": 1,
+        "text": "3. 연구개발의 추진전략·방법 및 추진일정"
+      },
+      {
+        "line": 20,
+        "level": 2,
+        "text": "3-1. 연구개발 추진전략·방법"
+      },
+      {
+        "line": 69,
+        "level": 2,
+        "text": "3-2. 연구개발 추진체계"
+      },
+      {
+        "line": 81,
+        "level": 2,
+        "text": "3-3. 연구개발 추진일정"
+      }
+    ],
+    "heading_issues": [
+      {
+        "line": 9,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1"
+      },
+      {
+        "line": 20,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.1"
+      },
+      {
+        "line": 69,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.2"
+      },
+      {
+        "line": 81,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.3"
+      }
+    ]
+  },
+  {
+    "path": "01_References/00_프로젝트/02_연구개발계획서/4_마일스톤 체계 및 수행계획.md",
+    "sha256": "f4f0063373ebc57f87ae8583f16b774abba61cd533821bede27c8611aa2ddd2f",
+    "frontmatter": "---\ntitle: 마일스톤 체계 및 수행계획\ntags: [reference, RFP, 연구개발계획서, KOCCA, 실감AX, 마일스톤]\ncreated: 2026-05-08\nupdated: 2026-05-08\nsource: assets/4.hwpx\n---\n",
+    "headings": [
+      {
+        "line": 9,
+        "level": 1,
+        "text": "4. 마일스톤 체계 및 수행계획"
+      },
+      {
+        "line": 23,
+        "level": 2,
+        "text": "4-1. 1단계 (1차년도, 2026.04~2026.12)"
+      },
+      {
+        "line": 51,
+        "level": 2,
+        "text": "4-2. 2단계 (2차년도, 2027.01~2027.12)"
+      },
+      {
+        "line": 86,
+        "level": 2,
+        "text": "4-3. 3단계 (3차년도, 2028.01~2028.12)"
+      }
+    ],
+    "heading_issues": [
+      {
+        "line": 9,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1"
+      },
+      {
+        "line": 23,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.1"
+      },
+      {
+        "line": 51,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.2"
+      },
+      {
+        "line": 86,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.3"
+      }
+    ]
+  },
+  {
+    "path": "01_References/00_프로젝트/02_연구개발계획서/5_연구개발성과의 활용방안 및 기대효과.md",
+    "sha256": "4941b81e093708d147b32443b3771906e9c465b0843b25aae1bc8e21049b2f1a",
+    "frontmatter": "---\ntitle: 연구개발성과의 활용방안 및 기대효과\ntags: [reference, RFP, 연구개발계획서, KOCCA, 실감AX, 활용방안, 기대효과, 사업화]\ncreated: 2026-05-08\nupdated: 2026-05-08\nrevision_note: \"원문 5.hwpx 대조 결과 5-3 표 2 사업화 전략 항목의 '전국 전시·박물관' → '전국 전시, 박물관' 정정 (원문은 '전국 전시 박물관'). 누락된 사실 정보 없음.\"\nsource: assets/5.hwpx\n---\n",
+    "headings": [
+      {
+        "line": 10,
+        "level": 1,
+        "text": "5. 연구개발성과의 활용방안 및 기대효과"
+      },
+      {
+        "line": 16,
+        "level": 2,
+        "text": "5-1. 연구개발성과의 활용방안"
+      },
+      {
+        "line": 20,
+        "level": 3,
+        "text": "기술적 성과의 활용"
+      },
+      {
+        "line": 24,
+        "level": 3,
+        "text": "콘텐츠 성과의 활용"
+      },
+      {
+        "line": 29,
+        "level": 3,
+        "text": "교육 및 인력양성 성과의 활용"
+      },
+      {
+        "line": 33,
+        "level": 3,
+        "text": "개발 콘텐츠를 활용한 사업화 활용 방안"
+      },
+      {
+        "line": 76,
+        "level": 2,
+        "text": "5-2. 기대효과"
+      },
+      {
+        "line": 78,
+        "level": 3,
+        "text": "기술적 기대효과"
+      },
+      {
+        "line": 83,
+        "level": 3,
+        "text": "경제/산업적 기대효과"
+      },
+      {
+        "line": 89,
+        "level": 3,
+        "text": "문화/사회적 기대효과"
+      },
+      {
+        "line": 97,
+        "level": 2,
+        "text": "5-3. 사업화 전략 및 계획"
+      },
+      {
+        "line": 99,
+        "level": 3,
+        "text": "[표 2] 사업화 전략 — ㈜셀빅"
+      },
+      {
+        "line": 166,
+        "level": 3,
+        "text": "[표 3] 사업화 전략 — ㈜월러스코 디자인랩"
+      }
+    ],
+    "heading_issues": [
+      {
+        "line": 10,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1"
+      },
+      {
+        "line": 16,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.1"
+      },
+      {
+        "line": 20,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.1.1"
+      },
+      {
+        "line": 24,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.1.2"
+      },
+      {
+        "line": 29,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.1.3"
+      },
+      {
+        "line": 33,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.1.4"
+      },
+      {
+        "line": 76,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.2"
+      },
+      {
+        "line": 78,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.2.1"
+      },
+      {
+        "line": 83,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.2.2"
+      },
+      {
+        "line": 89,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.2.3"
+      },
+      {
+        "line": 97,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.3"
+      },
+      {
+        "line": 99,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.3.1"
+      },
+      {
+        "line": 166,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1.3.2"
+      }
+    ]
+  },
+  {
+    "path": "01_References/90_회의록/2026-07-15 컨소시엄 킥오프 회의록.md",
+    "sha256": "71e6cb269561f2b098f40caa582fb10681eec944a159ba19f250d3769cf8f83f",
+    "frontmatter": "---\ntitle: 2026-07-15 컨소시엄 킥오프 회의록\ntype: project\nstatus: draft\ntags: [회의록, 컨소시엄, KOCCA, 인력양성, 실감AX]\nsources: [인력양성 컨소회의 회의록.txt]\ncreated: 2026-07-16\nupdated: 2026-07-16\n---\n",
+    "headings": [
+      {
+        "line": 13,
+        "level": 1,
+        "text": "1. 회의 개요"
+      },
+      {
+        "line": 20,
+        "level": 2,
+        "text": "1.1 안건"
+      },
+      {
+        "line": 27,
+        "level": 1,
+        "text": "2. 기관별 1차연도 목표 및 진행상황"
+      },
+      {
+        "line": 29,
+        "level": 2,
+        "text": "2.1 경희대 산학협력단"
+      },
+      {
+        "line": 31,
+        "level": 3,
+        "text": "2.1.1 1차연도 목표"
+      },
+      {
+        "line": 42,
+        "level": 3,
+        "text": "2.1.2 연구 진행상황"
+      },
+      {
+        "line": 53,
+        "level": 3,
+        "text": "2.1.3 정량 성과목표 현황"
+      },
+      {
+        "line": 66,
+        "level": 2,
+        "text": "2.2 셀빅"
+      },
+      {
+        "line": 68,
+        "level": 3,
+        "text": "2.2.1 1차연도 목표"
+      },
+      {
+        "line": 73,
+        "level": 3,
+        "text": "2.2.2 연차별 목표"
+      },
+      {
+        "line": 79,
+        "level": 3,
+        "text": "2.2.3 1차연도 정량 목표"
+      },
+      {
+        "line": 90,
+        "level": 3,
+        "text": "2.2.4 보유 기술 리뷰"
+      },
+      {
+        "line": 100,
+        "level": 3,
+        "text": "2.2.5 사업 방향 전환"
+      },
+      {
+        "line": 110,
+        "level": 2,
+        "text": "2.3 월러스코 디자인랩"
+      },
+      {
+        "line": 112,
+        "level": 3,
+        "text": "2.3.1 1차연도 목표"
+      },
+      {
+        "line": 117,
+        "level": 3,
+        "text": "2.3.2 진행 현황과 포트폴리오"
+      },
+      {
+        "line": 126,
+        "level": 1,
+        "text": "3. 프로젝트 진행 시 주의사항"
+      },
+      {
+        "line": 128,
+        "level": 2,
+        "text": "3.1 공동연구 실적 문서화"
+      },
+      {
+        "line": 138,
+        "level": 2,
+        "text": "3.2 성과 확보와 사사"
+      },
+      {
+        "line": 147,
+        "level": 2,
+        "text": "3.3 기술이전과 사업화 성과 처리"
+      },
+      {
+        "line": 160,
+        "level": 2,
+        "text": "3.4 협약 변경"
+      },
+      {
+        "line": 173,
+        "level": 2,
+        "text": "3.5 IRIS 성과 등록과 공인인증"
+      },
+      {
+        "line": 184,
+        "level": 2,
+        "text": "3.6 연구노트 작성"
+      },
+      {
+        "line": 191,
+        "level": 2,
+        "text": "3.7 사업 방향성과 심사 대응"
+      },
+      {
+        "line": 200,
+        "level": 1,
+        "text": "4. 교육과정: PBL 운영"
+      },
+      {
+        "line": 202,
+        "level": 2,
+        "text": "4.1 PBL 3과목 기관 연계"
+      },
+      {
+        "line": 212,
+        "level": 2,
+        "text": "4.2 강의계획서와 참여 스케줄"
+      },
+      {
+        "line": 225,
+        "level": 2,
+        "text": "4.3 강의 운영과 인계"
+      },
+      {
+        "line": 232,
+        "level": 1,
+        "text": "5. KOCCA 컨설팅 요구: 특강, 워크샵, 해커톤"
+      },
+      {
+        "line": 236,
+        "level": 2,
+        "text": "5.1 특강 및 체험 활동"
+      },
+      {
+        "line": 241,
+        "level": 2,
+        "text": "5.2 워크샵과 해커톤 배정"
+      },
+      {
+        "line": 252,
+        "level": 1,
+        "text": "6. 결정사항"
+      },
+      {
+        "line": 261,
+        "level": 1,
+        "text": "7. 액션 아이템"
+      },
+      {
+        "line": 280,
+        "level": 1,
+        "text": "8. 관련 문서"
+      }
+    ],
+    "heading_issues": [
+      {
+        "line": 13,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1"
+      },
+      {
+        "line": 27,
+        "code": "NUMBER",
+        "message": "필요한 번호: 2"
+      },
+      {
+        "line": 126,
+        "code": "NUMBER",
+        "message": "필요한 번호: 3"
+      },
+      {
+        "line": 200,
+        "code": "NUMBER",
+        "message": "필요한 번호: 4"
+      },
+      {
+        "line": 232,
+        "code": "NUMBER",
+        "message": "필요한 번호: 5"
+      },
+      {
+        "line": 252,
+        "code": "NUMBER",
+        "message": "필요한 번호: 6"
+      },
+      {
+        "line": 261,
+        "code": "NUMBER",
+        "message": "필요한 번호: 7"
+      },
+      {
+        "line": 280,
+        "code": "NUMBER",
+        "message": "필요한 번호: 8"
+      }
+    ]
+  },
+  {
+    "path": "02_Syntheses/CaveBall 계층형 플로우.md",
+    "sha256": "83c6458f2a39e9b70f1a73850704513d7bbd1f3d73970a25c8d9a2129ce07337",
+    "frontmatter": "---\ntitle: CaveBall 계층형 플로우\ntype: overview\nstatus: draft\ntags: [CaveBall, Mermaid, 플로우, 인터랙션]\nsources: [CaveBall 클라이언트 코드 구조 분석]\ncreated: 2026-09-08\nupdated: 2026-09-08\n---\n",
+    "headings": [
+      {
+        "line": 15,
+        "level": 1,
+        "text": "1. 핵심 게임 플로우"
+      },
+      {
+        "line": 64,
+        "level": 2,
+        "text": "1.1 사전 프로세스 연결 계약"
+      },
+      {
+        "line": 76,
+        "level": 1,
+        "text": "2. 사전 프로세스 A 콘텐츠 준비"
+      },
+      {
+        "line": 114,
+        "level": 2,
+        "text": "2.1 콘텐츠 준비의 경계"
+      },
+      {
+        "line": 129,
+        "level": 1,
+        "text": "3. 사전 프로세스 B 손 입력 처리"
+      },
+      {
+        "line": 171,
+        "level": 2,
+        "text": "3.1 손 입력의 계약"
+      },
+      {
+        "line": 186,
+        "level": 1,
+        "text": "4. 사전 프로세스 C 바닥 입력 처리"
+      },
+      {
+        "line": 226,
+        "level": 2,
+        "text": "4.1 바닥 입력의 계약"
+      },
+      {
+        "line": 243,
+        "level": 1,
+        "text": "5. 연결과 확장 규칙"
+      },
+      {
+        "line": 256,
+        "level": 1,
+        "text": "6. 관련 자료"
+      }
+    ],
+    "heading_issues": [
+      {
+        "line": 15,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1"
+      },
+      {
+        "line": 76,
+        "code": "NUMBER",
+        "message": "필요한 번호: 2"
+      },
+      {
+        "line": 129,
+        "code": "NUMBER",
+        "message": "필요한 번호: 3"
+      },
+      {
+        "line": 186,
+        "code": "NUMBER",
+        "message": "필요한 번호: 4"
+      },
+      {
+        "line": 243,
+        "code": "NUMBER",
+        "message": "필요한 번호: 5"
+      },
+      {
+        "line": 256,
+        "code": "NUMBER",
+        "message": "필요한 번호: 6"
+      }
+    ]
+  },
+  {
+    "path": "02_Syntheses/CaveBall 클라이언트 코드 구조 분석.md",
+    "sha256": "445ed07dd8525cfe2817b456ea0159a88acdd05d0f5029a9e1fb36e77ad98cef",
+    "frontmatter": "---\ntitle: CaveBall 클라이언트 코드 구조 분석\ntype: overview\nstatus: draft\ntags: [CaveBall, Unity, 코드 분석, 인터랙션]\nsources: [CaveBall 외부 클라이언트 코드]\ncreated: 2026-09-08\nupdated: 2026-09-08\n---\n",
+    "headings": [
+      {
+        "line": 13,
+        "level": 1,
+        "text": "1. 분석 범위와 판정 기준"
+      },
+      {
+        "line": 15,
+        "level": 2,
+        "text": "1.1 분석 범위"
+      },
+      {
+        "line": 29,
+        "level": 2,
+        "text": "1.2 분절 기준"
+      },
+      {
+        "line": 41,
+        "level": 2,
+        "text": "1.3 판정 규칙"
+      },
+      {
+        "line": 47,
+        "level": 1,
+        "text": "2. 최초 근거 추출표"
+      },
+      {
+        "line": 71,
+        "level": 1,
+        "text": "3. 시스템 구조"
+      },
+      {
+        "line": 73,
+        "level": 2,
+        "text": "3.1 책임 흐름"
+      },
+      {
+        "line": 92,
+        "level": 2,
+        "text": "3.2 계층별 책임"
+      },
+      {
+        "line": 103,
+        "level": 1,
+        "text": "4. 실행 흐름"
+      },
+      {
+        "line": 105,
+        "level": 2,
+        "text": "4.1 로드와 진입"
+      },
+      {
+        "line": 112,
+        "level": 2,
+        "text": "4.2 게임 시작과 라운드"
+      },
+      {
+        "line": 119,
+        "level": 2,
+        "text": "4.3 손 입력과 색 상태"
+      },
+      {
+        "line": 134,
+        "level": 2,
+        "text": "4.4 바닥 입력과 공 반사"
+      },
+      {
+        "line": 147,
+        "level": 2,
+        "text": "4.5 벽돌 파괴와 득점"
+      },
+      {
+        "line": 156,
+        "level": 1,
+        "text": "5. 설정과 런타임 의존성"
+      },
+      {
+        "line": 158,
+        "level": 2,
+        "text": "5.1 설정 체계"
+      },
+      {
+        "line": 171,
+        "level": 2,
+        "text": "5.2 이름과 프로젝트 설정 의존성"
+      },
+      {
+        "line": 184,
+        "level": 1,
+        "text": "6. 코드 기준 확인 사항"
+      },
+      {
+        "line": 186,
+        "level": 2,
+        "text": "6.1 우선 확인"
+      },
+      {
+        "line": 199,
+        "level": 2,
+        "text": "6.2 동작 경계 확인"
+      },
+      {
+        "line": 223,
+        "level": 2,
+        "text": "6.3 범위 내 미사용 후보"
+      },
+      {
+        "line": 235,
+        "level": 1,
+        "text": "7. 근거 단위와 문서 구조 대응"
+      },
+      {
+        "line": 250,
+        "level": 1,
+        "text": "8. 참고"
+      }
+    ],
+    "heading_issues": [
+      {
+        "line": 13,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1"
+      },
+      {
+        "line": 47,
+        "code": "NUMBER",
+        "message": "필요한 번호: 2"
+      },
+      {
+        "line": 71,
+        "code": "NUMBER",
+        "message": "필요한 번호: 3"
+      },
+      {
+        "line": 103,
+        "code": "NUMBER",
+        "message": "필요한 번호: 4"
+      },
+      {
+        "line": 156,
+        "code": "NUMBER",
+        "message": "필요한 번호: 5"
+      },
+      {
+        "line": 184,
+        "code": "NUMBER",
+        "message": "필요한 번호: 6"
+      },
+      {
+        "line": 235,
+        "code": "NUMBER",
+        "message": "필요한 번호: 7"
+      },
+      {
+        "line": 250,
+        "code": "NUMBER",
+        "message": "필요한 번호: 8"
+      }
+    ]
+  },
+  {
+    "path": "03_Articles/기획서/Cave Super Ball 기획서 초안.md",
+    "sha256": "1bdeb303337bdbcfe564701744e80661a4f8caa3cd09fd024930d055fb063c86",
+    "frontmatter": "---\ntitle: Cave Super Ball 기획서 초안\ntype: project\nstatus: draft\ntags: [Cave Super Ball, 기획서, 실감 AX, CAVE]\nsources: [CaveBall 클라이언트 코드 구조 분석, ref 1. 연구개발의 필요성, ref 2. 연구개발의 목표 및 내용, ref 3. 연구개발의 추진전략과 방법 및 추진일정, ref 4. 마일스톤 체계 및 수행계획, ref 5. 연구개발성과의 활용방안 및 기대효과, 2026-07-15 컨소시엄 킥오프 회의록]\ncreated: 2026-09-08\nupdated: 2026-09-08\n---\n",
+    "headings": [
+      {
+        "line": 13,
+        "level": 1,
+        "text": "1. 개요"
+      },
+      {
+        "line": 25,
+        "level": 1,
+        "text": "2. 진행"
+      },
+      {
+        "line": 29,
+        "level": 1,
+        "text": "3. 디바이스"
+      },
+      {
+        "line": 33,
+        "level": 1,
+        "text": "4. 코어 시스템"
+      },
+      {
+        "line": 37,
+        "level": 1,
+        "text": "5. 게임 플레이"
+      }
+    ],
+    "heading_issues": [
+      {
+        "line": 13,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1"
+      },
+      {
+        "line": 25,
+        "code": "NUMBER",
+        "message": "필요한 번호: 2"
+      },
+      {
+        "line": 29,
+        "code": "NUMBER",
+        "message": "필요한 번호: 3"
+      },
+      {
+        "line": 33,
+        "code": "NUMBER",
+        "message": "필요한 번호: 4"
+      },
+      {
+        "line": 37,
+        "code": "NUMBER",
+        "message": "필요한 번호: 5"
+      }
+    ]
+  },
+  {
+    "path": "03_Articles/기획서/Cave Super Ball 기획서.md",
+    "sha256": "1a634469b69aa9e8782043f4a2a18efb0dadf914a500bcaa79d81f6dbe62c588",
+    "frontmatter": "---\ntitle: Cave Super Ball 기획서\ntype: article\nstatus: draft\ntags: [기획서, Cave Super Ball]\ncreated: 2026-09-08\nupdated: 2026-09-08\n---\n",
+    "headings": [
+      {
+        "line": 9,
+        "level": 1,
+        "text": "1. 개요"
+      },
+      {
+        "line": 16,
+        "level": 1,
+        "text": "2. 핵심 게임 플로우"
+      },
+      {
+        "line": 20,
+        "level": 1,
+        "text": "3. 디바이스"
+      },
+      {
+        "line": 34,
+        "level": 1,
+        "text": "4. 코어 시스템"
+      },
+      {
+        "line": 36,
+        "level": 2,
+        "text": "4.1 콘텐츠 준비"
+      },
+      {
+        "line": 38,
+        "level": 3,
+        "text": "4.1.1 개요"
+      },
+      {
+        "line": 43,
+        "level": 3,
+        "text": "4.1.2 콘텐츠 준비 경계 정리"
+      },
+      {
+        "line": 56,
+        "level": 2,
+        "text": "4.2 손 입력 처리"
+      },
+      {
+        "line": 58,
+        "level": 3,
+        "text": "4.2.1 개요"
+      },
+      {
+        "line": 63,
+        "level": 3,
+        "text": "4.2.2 손 입력 계약 처리"
+      },
+      {
+        "line": 76,
+        "level": 2,
+        "text": "4.3 바닥 입력 처리"
+      },
+      {
+        "line": 78,
+        "level": 3,
+        "text": "4.3.1 개요"
+      },
+      {
+        "line": 83,
+        "level": 3,
+        "text": "4.3.2 바닥 입력 계약 처리"
+      },
+      {
+        "line": 98,
+        "level": 1,
+        "text": "5. 게임 플레이"
+      },
+      {
+        "line": 102,
+        "level": 2,
+        "text": "5.1 4면 프로젝션 실행"
+      },
+      {
+        "line": 104,
+        "level": 3,
+        "text": "5.1.1 정면"
+      },
+      {
+        "line": 108,
+        "level": 3,
+        "text": "5.1.2 측면"
+      },
+      {
+        "line": 110,
+        "level": 4,
+        "text": "1) 좌측면"
+      },
+      {
+        "line": 114,
+        "level": 4,
+        "text": "2) 우측면"
+      },
+      {
+        "line": 118,
+        "level": 3,
+        "text": "5.1.3 바닥"
+      }
+    ],
+    "heading_issues": [
+      {
+        "line": 9,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1"
+      },
+      {
+        "line": 16,
+        "code": "NUMBER",
+        "message": "필요한 번호: 2"
+      },
+      {
+        "line": 20,
+        "code": "NUMBER",
+        "message": "필요한 번호: 3"
+      },
+      {
+        "line": 34,
+        "code": "NUMBER",
+        "message": "필요한 번호: 4"
+      },
+      {
+        "line": 98,
+        "code": "NUMBER",
+        "message": "필요한 번호: 5"
+      }
+    ]
+  },
+  {
+    "path": "90_Workspace/CaveSuperBall/Cave Super Ball 개요 근거 추출.md",
+    "sha256": "050a5baeb910846d6f68fdd64c328ea4ccd64158d78f5ba00743caadef9f36e8",
+    "frontmatter": "---\ntitle: Cave Super Ball 개요 근거 추출\ntype: reference\nstatus: draft\ntags: [Cave Super Ball, 기획서, 근거 추출]\nsources: [CaveBall 클라이언트 코드 구조 분석, ref 1. 연구개발의 필요성, ref 2. 연구개발의 목표 및 내용, ref 3. 연구개발의 추진전략과 방법 및 추진일정, ref 4. 마일스톤 체계 및 수행계획, ref 5. 연구개발성과의 활용방안 및 기대효과, 2026-07-15 컨소시엄 킥오프 회의록]\ncreated: 2026-09-08\nupdated: 2026-09-08\n---\n",
+    "headings": [
+      {
+        "line": 13,
+        "level": 1,
+        "text": "1. 분석 범위와 분절 기준"
+      },
+      {
+        "line": 19,
+        "level": 1,
+        "text": "2. 최초 근거 추출표"
+      },
+      {
+        "line": 38,
+        "level": 1,
+        "text": "3. 근거 단위와 초안 구조 대응"
+      }
+    ],
+    "heading_issues": [
+      {
+        "line": 13,
+        "code": "NUMBER",
+        "message": "필요한 번호: 1"
+      },
+      {
+        "line": 19,
+        "code": "NUMBER",
+        "message": "필요한 번호: 2"
+      },
+      {
+        "line": 38,
+        "code": "NUMBER",
+        "message": "필요한 번호: 3"
+      }
+    ]
+  },
+  {
+    "path": "AGENTS.md",
+    "sha256": "47da5ec0529c954c0a799568f58f285c746053454237224e22d52ecb4fe9d886",
+    "frontmatter": "---\ntitle: \"위키 작업 지침\"\ntype: system\ncreated: \"2026-10-06\"\nupdated: \"2026-10-12\"\n---\n",
+    "headings": [
+      {
+        "line": 8,
+        "level": 1,
+        "text": "1 목적"
+      },
+      {
+        "line": 13,
+        "level": 1,
+        "text": "2 작업 전 읽을 문서"
+      },
+      {
+        "line": 15,
+        "level": 2,
+        "text": "2.1 현재 규정 확인"
+      },
+      {
+        "line": 22,
+        "level": 2,
+        "text": "2.2 탐색과 규정 적용"
+      },
+      {
+        "line": 29,
+        "level": 1,
+        "text": "3 자료와 명령의 구분"
+      },
+      {
+        "line": 36,
+        "level": 1,
+        "text": "4 영역과 참조 범위"
+      },
+      {
+        "line": 38,
+        "level": 2,
+        "text": "4.1 영역 구분"
+      },
+      {
+        "line": 46,
+        "level": 2,
+        "text": "4.2 허용 입력 출처"
+      },
+      {
+        "line": 59,
+        "level": 2,
+        "text": "4.3 출처 적용 기준"
+      },
+      {
+        "line": 67,
+        "level": 2,
+        "text": "4.4 프로토타입 프로젝트와 리소스"
+      },
+      {
+        "line": 73,
+        "level": 1,
+        "text": "5 작업 원칙"
+      },
+      {
+        "line": 75,
+        "level": 2,
+        "text": "5.1 작성과 근거 확인"
+      },
+      {
+        "line": 81,
+        "level": 2,
+        "text": "5.2 헤더와 로그 형식"
+      },
+      {
+        "line": 88,
+        "level": 2,
+        "text": "5.3 문서 상태와 작업 기록"
+      }
+    ],
+    "heading_issues": []
+  }
+]

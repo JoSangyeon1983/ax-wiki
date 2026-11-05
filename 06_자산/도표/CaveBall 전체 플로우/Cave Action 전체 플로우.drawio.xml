@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mxfile host="app.diagrams.net">
+  <diagram id="action" name="Cave Action 전체 플로우">
+    <mxGraphModel dx="1120" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1120" pageHeight="1100" math="0" shadow="0" background="#FFFFFF">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="panel" value="" style="rounded=1;arcSize=3;fillColor=#F8FAFC;strokeColor=#CBD5E1;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="32" y="84" width="1056" height="984" />
+        </mxCell>
+        <mxCell id="title" value="Cave Action 전체 플로우" style="whiteSpace=wrap;html=1;fontFamily=Malgun Gothic;fontSize=20;align=center;verticalAlign=middle;spacing=7;strokeWidth=1.6;text;fillColor=none;strokeColor=none;fontSize=26;fontStyle=1;fontColor=#0F172A;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="40" y="24" width="1040" height="44" />
+        </mxCell>
+        <mxCell id="start" value="&lt;b&gt;콘텐츠 진입&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Malgun Gothic;fontSize=20;align=center;verticalAlign=middle;spacing=7;strokeWidth=1.6;rounded=1;arcSize=50;absoluteArcSize=1;fillColor=#E2E8F0;strokeColor=#334155;fontColor=#0F172A;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="350" y="100" width="240" height="52" />
+        </mxCell>
+        <mxCell id="prepare" value="&lt;b&gt;게임 준비&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:16px&quot;&gt;체력, 공격과 소행성 초기화&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Malgun Gothic;fontSize=20;align=center;verticalAlign=middle;spacing=7;strokeWidth=1.6;rounded=1;arcSize=12;fillColor=#FFFFFF;strokeColor=#64748B;fontColor=#0F172A;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="320" y="200" width="300" height="76" />
+        </mxCell>
+        <mxCell id="assign" value="&lt;b&gt;첫 턴 배정&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:16px&quot;&gt;첫 공격자와 공격 방식 결정&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Malgun Gothic;fontSize=20;align=center;verticalAlign=middle;spacing=7;strokeWidth=1.6;rounded=1;arcSize=12;fillColor=#FFFFFF;strokeColor=#64748B;fontColor=#0F172A;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="320" y="326" width="300" height="76" />
+        </mxCell>
+        <mxCell id="play" value="&lt;b&gt;공격과 방어 플레이&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:16px&quot;&gt;배정된 방식으로 공격과 회피&lt;br&gt;피격 시 체력 감소&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Malgun Gothic;fontSize=20;align=center;verticalAlign=middle;spacing=7;strokeWidth=1.6;rounded=1;arcSize=12;fillColor=#EFF6FF;strokeColor=#2563EB;fontColor=#1E3A8A;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="320" y="452" width="300" height="100" />
+        </mxCell>
+        <mxCell id="health" value="&lt;b&gt;한쪽 체력&lt;br&gt;소진?&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Malgun Gothic;fontSize=20;align=center;verticalAlign=middle;spacing=7;strokeWidth=1.6;rhombus;spacing=2;fillColor=#FFFBEB;strokeColor=#D97706;fontColor=#92400E;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="350" y="602" width="240" height="116" />
+        </mxCell>
+        <mxCell id="turn" value="&lt;b&gt;턴 시간&lt;br&gt;종료?&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Malgun Gothic;fontSize=20;align=center;verticalAlign=middle;spacing=7;strokeWidth=1.6;rhombus;spacing=2;fillColor=#FFFBEB;strokeColor=#D97706;fontColor=#92400E;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="350" y="776" width="240" height="116" />
+        </mxCell>
+        <mxCell id="swap" value="&lt;b&gt;공수 교대&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:16px&quot;&gt;체력 유지, 다음 공격 방식 배정&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Malgun Gothic;fontSize=20;align=center;verticalAlign=middle;spacing=7;strokeWidth=1.6;rounded=1;arcSize=12;fillColor=#EFF6FF;strokeColor=#2563EB;fontColor=#1E3A8A;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="320" y="946" width="300" height="76" />
+        </mxCell>
+        <mxCell id="finish" value="&lt;b&gt;게임 종료&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;font-size:16px&quot;&gt;패배 연출과 GAME OVER&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontFamily=Malgun Gothic;fontSize=20;align=center;verticalAlign=middle;spacing=7;strokeWidth=1.6;rounded=1;arcSize=12;fillColor=#FEF2F2;strokeColor=#DC2626;fontColor=#991B1B;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="730" y="618" width="320" height="84" />
+        </mxCell>
+        <mxCell id="restart" value="&lt;b&gt;재시작 대기&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontFamily=Malgun Gothic;fontSize=20;align=center;verticalAlign=middle;spacing=7;strokeWidth=1.6;rounded=1;arcSize=12;fillColor=#FFFFFF;strokeColor=#64748B;fontColor=#0F172A;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="730" y="794" width="320" height="76" />
+        </mxCell>
+        <mxCell id="enter" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.7;strokeColor=#64748B;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;" edge="1" parent="1" source="start" target="prepare">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="ready" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.7;strokeColor=#64748B;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;" edge="1" parent="1" source="prepare" target="assign">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="first" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.7;strokeColor=#64748B;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;" edge="1" parent="1" source="assign" target="play">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="hit" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.7;strokeColor=#64748B;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;" edge="1" parent="1" source="play" target="health">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="alive" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.7;strokeColor=#64748B;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;" edge="1" parent="1" source="health" target="turn">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="alive-label" value="아니오" style="whiteSpace=wrap;html=1;fontFamily=Malgun Gothic;fontSize=20;align=center;verticalAlign=middle;spacing=7;strokeWidth=1.6;text;fillColor=none;strokeColor=none;fontSize=17;fontStyle=1;fontColor=#64748B;spacing=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="470" y="730" width="80" height="30" />
+        </mxCell>
+        <mxCell id="timeup" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.7;strokeColor=#16A34A;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;" edge="1" parent="1" source="turn" target="swap">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="timeup-label" value="예" style="whiteSpace=wrap;html=1;fontFamily=Malgun Gothic;fontSize=20;align=center;verticalAlign=middle;spacing=7;strokeWidth=1.6;text;fillColor=none;strokeColor=none;fontSize=17;fontStyle=1;fontColor=#16A34A;spacing=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="456" y="904" width="80" height="30" />
+        </mxCell>
+        <mxCell id="continue" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.7;strokeColor=#64748B;exitX=0;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.68;entryPerimeter=0;" edge="1" parent="1" source="turn" target="play">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="240" y="834" />
+              <mxPoint x="240" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="continue-label" value="아니오" style="whiteSpace=wrap;html=1;fontFamily=Malgun Gothic;fontSize=20;align=center;verticalAlign=middle;spacing=7;strokeWidth=1.6;text;fillColor=none;strokeColor=none;fontSize=17;fontStyle=1;fontColor=#64748B;spacing=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="254" y="797" width="80" height="30" />
+        </mxCell>
+        <mxCell id="nextturn" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.7;strokeColor=#2563EB;exitX=0;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.24;entryPerimeter=0;" edge="1" parent="1" source="swap" target="play">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="150" y="984" />
+              <mxPoint x="150" y="476" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gameover" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.7;strokeColor=#DC2626;exitX=1;exitY=0.5;exitPerimeter=0;entryX=0;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="health" target="finish">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="gameover-label" value="예" style="whiteSpace=wrap;html=1;fontFamily=Malgun Gothic;fontSize=20;align=center;verticalAlign=middle;spacing=7;strokeWidth=1.6;text;fillColor=none;strokeColor=none;fontSize=17;fontStyle=1;fontColor=#DC2626;spacing=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="620" y="622" width="80" height="30" />
+        </mxCell>
+        <mxCell id="wait" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.7;strokeColor=#DC2626;exitX=0.5;exitY=1;exitPerimeter=0;entryX=0.5;entryY=0;entryPerimeter=0;" edge="1" parent="1" source="finish" target="restart">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="reset" value="" style="edgeStyle=none;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=1.7;strokeColor=#64748B;exitX=1;exitY=0.5;exitPerimeter=0;entryX=1;entryY=0.5;entryPerimeter=0;" edge="1" parent="1" source="restart" target="prepare">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="1080" y="832" />
+              <mxPoint x="1080" y="238" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="reset-label" value="새 게임" style="whiteSpace=wrap;html=1;fontFamily=Malgun Gothic;fontSize=20;align=center;verticalAlign=middle;spacing=7;strokeWidth=1.6;text;fillColor=none;strokeColor=none;fontSize=17;fontStyle=1;fontColor=#64748B;spacing=0;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="820" y="201" width="80" height="30" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

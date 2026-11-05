@@ -1,0 +1,1807 @@
+{
+  "captured_at": "2026-11-04T16:48:30+09:00",
+  "root": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki",
+  "backup": "99_Archive/위키 구조 전환 백업/20261104_164743",
+  "zip_sha256": "1a8bc60e03908514a23a33c19061f65826986b02c00264103370fc9023e31f28",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 124,
+      "sha256": "30b77aa4e0eb5ccf10ff7f34fff05948ddc9a8fbf13423fdc5234d6271af4fe1",
+      "git": "tracked"
+    },
+    {
+      "path": ".obsidian/app.json",
+      "bytes": 205,
+      "sha256": "240a61f40195b160f58c4b3a8257ef2b2daf0f28b3d736f3e3cba6cbc9618f80",
+      "git": "tracked"
+    },
+    {
+      "path": ".obsidian/appearance.json",
+      "bytes": 48,
+      "sha256": "5a3ead443d5d2978a57eebd70ee6342e8c89ea6275a12419d0bb87631e59ac13",
+      "git": "tracked"
+    },
+    {
+      "path": ".obsidian/core-plugins.json",
+      "bytes": 696,
+      "sha256": "763cf20a921fd9955735b278006820b90b207b2fc04d9e79ca648279c7c14276",
+      "git": "tracked"
+    },
+    {
+      "path": ".obsidian/snippets/headings.css",
+      "bytes": 8724,
+      "sha256": "1b488867277e6aecc0790b8d2194628f0679fd3a169ff6c3252c73d88a988432",
+      "git": "tracked"
+    },
+    {
+      "path": ".obsidian/workspace.json",
+      "bytes": 9057,
+      "sha256": "f64cd058281cadd63243a5da01b12abc660ebc961c1ef4f6a56644afa211380d",
+      "git": "ignored"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "bytes": 7039,
+      "sha256": "331e80a0a72e5adaff6b39134ab3773a30827efc8456d4b523e96e895061f610",
+      "git": "tracked"
+    },
+    {
+      "path": "00_System/01_Rules/문서 작성 규칙.md",
+      "bytes": 8827,
+      "sha256": "717763df1c348131710b213bb3d949fef1388aec498faaad11787e1b905b2775",
+      "git": "tracked"
+    },
+    {
+      "path": "00_System/01_Rules/문서 형식.md",
+      "bytes": 14589,
+      "sha256": "81028a0346c9571b9ef4b005259d2ed58e299c81855c8cea1118660cd6c6805b",
+      "git": "tracked"
+    },
+    {
+      "path": "00_System/01_Rules/위키 작업 절차.md",
+      "bytes": 11264,
+      "sha256": "2d2eceb6da3de1402da3bc607dbededffdb03432d6282dbec48a4aa4634fdab8",
+      "git": "tracked"
+    },
+    {
+      "path": "00_System/01_Rules/이미지 생성 규칙.md",
+      "bytes": 21448,
+      "sha256": "3dd59f226c792112b4644c7bc5800a058b6fc2bac24285f524e2b5e4b572e737",
+      "git": "tracked"
+    },
+    {
+      "path": "00_System/01_Rules/회의록 작성 규칙.md",
+      "bytes": 16412,
+      "sha256": "c104be8183825e3be7afff66b9ef83fa2a5f30ea234e80eed89ff473eb621d6b",
+      "git": "untracked"
+    },
+    {
+      "path": "00_System/02_Logs/2026-10.md",
+      "bytes": 14689,
+      "sha256": "f86f2218ec1056508133f6dc86bb3c374640fa13ea679396d5b573c9794492ba",
+      "git": "tracked"
+    },
+    {
+      "path": "00_System/02_Logs/2026-11.md",
+      "bytes": 1474,
+      "sha256": "b829b79dafd09d7dd212ec776fd6d5a015c2ff1fa87b02a30273f24861a1799f",
+      "git": "untracked"
+    },
+    {
+      "path": "00_System/02_Logs/log.md",
+      "bytes": 30262,
+      "sha256": "7fb2a8c3c6682b3443ce123c93fed8d47e25821bccc87e8cd57db23fbe96fb15",
+      "git": "untracked"
+    },
+    {
+      "path": "00_System/03_Tools/__pycache__/heading_numbers.cpython-313.pyc",
+      "bytes": 32498,
+      "sha256": "170517742209d2df96c438caf0260282887abbb23998cf383e1a9ca9103a1cff",
+      "git": "ignored"
+    },
+    {
+      "path": "00_System/03_Tools/heading_numbers.py",
+      "bytes": 19893,
+      "sha256": "86d6ad9667a8c7d013c9e4d521a0a1c2adc4cfe13577cb14fb06094495d9588d",
+      "git": "tracked"
+    },
+    {
+      "path": "00_System/03_Tools/image_record_check.py",
+      "bytes": 6908,
+      "sha256": "37f9eca02126a786f3a3c41bc7c8d5b1de9119cf497ee961fbdbbf50672313f5",
+      "git": "tracked"
+    },
+    {
+      "path": "00_System/03_Tools/test_heading_numbers.py",
+      "bytes": 15861,
+      "sha256": "322d8ae58b7c4812b9a25830eb12a9881c033c13c8288cf4dc3b02535d60a201",
+      "git": "tracked"
+    },
+    {
+      "path": "01_References/.gitkeep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "git": "tracked"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "bytes": 32053,
+      "sha256": "b36480c71a989f1c07bf431ba0a3146fa8fa1acd27c00e6fa25ce79841544364",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/2_연구개발의 목표 및 내용.md",
+      "bytes": 45447,
+      "sha256": "8c23dcd061ec2e8bd69a0fd0c23b59b5085c7d36199cb73344be8ffdf28e1192",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/3_연구개발의 추진전략과 방법 및 추진일정.md",
+      "bytes": 18213,
+      "sha256": "b481ce24a6ec346e93d87f711d198f500dcad3e935aa33a68c36552bf14f92fd",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/4_마일스톤 체계 및 수행계획.md",
+      "bytes": 25544,
+      "sha256": "5a6067dec5e450d1364cc900b1cb374eeedfa9c64917678cc3b8c2e40b297a32",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/5_연구개발성과의 활용방안 및 기대효과.md",
+      "bytes": 19427,
+      "sha256": "600a36e37c8f7b1ceef077a48acc0e776789da6e4f1ab4c21096666927851f07",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/01_CaveBall/CaveBall 클라이언트 코드 원자료.md",
+      "bytes": 3581,
+      "sha256": "c1d4fc065068b5a16e0059e2155af8e744681fd547a4e5f338703d698e6aa159",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/01_CaveBall/원문 코드/CaveBall.cs",
+      "bytes": 9510,
+      "sha256": "9bd308f4511d57c61e55c4c1ad006b7bc04e79ca42740bc06fd5eb4a24f6f9a3",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/01_CaveBall/원문 코드/CaveBallBrick.cs",
+      "bytes": 1668,
+      "sha256": "987277fa5617b58abaf5a66501cb9c5335ff677d3656555d05f7768ab923cd18",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/01_CaveBall/원문 코드/CaveBallCameraShake.cs",
+      "bytes": 1905,
+      "sha256": "8bd13840ab984b0f3eb13379e8f81180c16cb7f448e493e599bc137e3fbbf668",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/01_CaveBall/원문 코드/CaveBallContent.cs",
+      "bytes": 2450,
+      "sha256": "2b53c90711c433b0815ce29ccda6f8295f866405e82ac390b1c118b6d60bb503",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/01_CaveBall/원문 코드/CaveBallDialog.cs",
+      "bytes": 70,
+      "sha256": "3528755ac7b34557f3d23c251934b836079b6a72ec97ce66079f0abe81a6c169",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/01_CaveBall/원문 코드/CaveBallDisplayRig.cs",
+      "bytes": 8420,
+      "sha256": "ca18ff0110ef4b8ddde76280f42dbaaf062b471d011fc14835d7b87a96b9281b",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/01_CaveBall/원문 코드/CaveBallEffectPool.cs",
+      "bytes": 3037,
+      "sha256": "7f2110fada16f478b02da107c79491c0d2614470cc0ff27e17b34908b9b5f3f7",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/01_CaveBall/원문 코드/CaveBallFloorInteraction.cs",
+      "bytes": 10355,
+      "sha256": "eca64efbfc0162fc80777a91432a225c9a2399454265b818b38cc34b776ea7a6",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/01_CaveBall/원문 코드/CaveBallGameManager.cs",
+      "bytes": 8280,
+      "sha256": "16dca9ac1a5ace3b0d2b44159abcb051c545038a049d50b04f5ad28c72738b6a",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/01_CaveBall/원문 코드/CaveBallMLInteraction.cs",
+      "bytes": 11631,
+      "sha256": "40529d6deb51f1e4a07f8e53c146181f4b48091ed994f57895e980994bd6f9b1",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/01_CaveBall/원문 코드/CaveballScene.cs",
+      "bytes": 149,
+      "sha256": "5db77fdd40b894028a0d6a29e859828f2c1e1db6b540b45936afeb42a5969047",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/01_CaveBall/원문 코드/CaveBallScoreboard.cs",
+      "bytes": 7915,
+      "sha256": "a868e8d02e7795aa2dd7f0fe50bd9ff3483cc56f277a1be5b73ca83864c147fd",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/01_CaveBall/원문 코드/CaveBallSetting.cs",
+      "bytes": 2313,
+      "sha256": "18316c22eb277688aea26afc5cbbeb70e1bb06ee822689e2d52af3ba410730db",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/01_CaveBall/원문 코드/CaveBallSilhouetteView.cs",
+      "bytes": 3492,
+      "sha256": "78c00cd178ffc0d730f058c24e11c19c157e86c5f304c49d119864d81f026841",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/01_CaveBall/원문 코드/Core/CaveBall.Core.asmdef",
+      "bytes": 350,
+      "sha256": "be5659209cea00517d4d44b5ac9c9e5e710a012b0f76bbbd3ba8d365ec4cf7d1",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/01_CaveBall/원문 코드/Core/CaveBallRules.cs",
+      "bytes": 2527,
+      "sha256": "276a9f5174301ad4abb1ddceeee9e7493727f9a410f90aba5ba74be176bc5cef",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/01_CaveBall/원문 코드/PrimaryUserPoseSelector.cs",
+      "bytes": 1709,
+      "sha256": "cc8988bac5809b2cdfffdf0ae71af8ca24815960658136d4d738c9f68a0bde32",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/90_회의록/2026-07-15 컨소시엄 킥오프 회의록.md",
+      "bytes": 21685,
+      "sha256": "c624f43bb40e53722845691d32272d3f241354800d5e6017e2dc0f5e2de541e3",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/90_회의록/녹취록/2026-10-13_실무 미팅 녹취록.md",
+      "bytes": 52239,
+      "sha256": "3997841331294b8bd94cbac5b0341e80ac1c36f30631b9087f387b1fee2a1768",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/90_회의록/원문/중간점검_1013/2026-10-13_실무 미팅 원자료.md",
+      "bytes": 5493,
+      "sha256": "4aed1bcab9287cbbbb6e8c5d57a194a939a116e9b2da98c2afcb9360ff82467f",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/90_회의록/원문/중간점검_1013/인력양성 1013_직접 작성.txt",
+      "bytes": 3642,
+      "sha256": "f33240743e6ea76d8fd5680184b3af224680d90031e8ef80c25d2aa4511c9d21",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/90_회의록/원문/중간점검_1013/인력양성_1013_클로바노트.txt",
+      "bytes": 21596,
+      "sha256": "896fcf7ec8a4188d342f298cc41d9d42c87a265145accbfbefa370a18c3d9970",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/중간발표 1020/원문/01_최효범_0201.txt",
+      "bytes": 11118,
+      "sha256": "676c26184a5bd285af7b9a270c61b341e7ebdf45f82d2565e47eede8f37e4cad",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/중간발표 1020/원문/02_박영원_0213.txt",
+      "bytes": 8063,
+      "sha256": "56d92815b2ee1556073e84e7f0e0102e44cf28238a3f0152e942259ade599e10",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/중간발표 1020/원문/03_파라마_0220.txt",
+      "bytes": 12612,
+      "sha256": "527e7f672010412ce5aab1588169072f021a0b73a9f3b3dd4067e560467eb625",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/중간발표 1020/원문/04_김교령_0234.txt",
+      "bytes": 11816,
+      "sha256": "c566dfa9360c51019e01026caaaf4c21c3aa3e0a757a1d4a545643d41b2e843a",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/중간발표 1020/원문/06_김윤진_0301.txt",
+      "bytes": 10861,
+      "sha256": "f1f7ce3cf0f89e8601a8812ddfa87f4ca03d2a9dbd9353bb9b5d20659625eaf8",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/중간발표 1020/원문/07_이재우_0312.txt",
+      "bytes": 12129,
+      "sha256": "f3120c4e35133a23f9215bb3ae0d4887cecf2b2b28bb063fd0639587f3d7fad7",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/중간발표 1020/원문/08_이웅철_0323.txt",
+      "bytes": 16731,
+      "sha256": "af774edfc7ea4f29c661098135c89f94538784a94bb7133487d389016f601b72",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/중간발표 1020/원문/09_김정훈_0338.txt",
+      "bytes": 13238,
+      "sha256": "07dd7cd9d528e9f1eb2507d1fd7690dbaf559cae7ad78eb04731bb6b5c5970e0",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/중간발표 1020/원문/10_김채린_0355.txt",
+      "bytes": 12778,
+      "sha256": "5d63937707e5ff1b9139f985b1340f074334ddb7e22edabe36d9bed5d8e45995",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/중간발표 1020/원문/11_김찬희_0405.txt",
+      "bytes": 6926,
+      "sha256": "af270268099be50912eb2d69f9a5cbb228af2009014c6289721162cfb7fa0a18",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/중간발표 1020/원문/12_최리원_0412.txt",
+      "bytes": 11932,
+      "sha256": "45cdc8826f350921ab7ae587f763be415a9f75f2ff958447b1ca2e17ef66e1cb",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/중간발표 1020/원문/13_한경은_0424.txt",
+      "bytes": 7413,
+      "sha256": "0b463ade7355068d49db3b29440898665ff727079e91a8ff4ac7ba6cc39083bd",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/중간발표 1020/원문/14_홍정민_0432.txt",
+      "bytes": 8684,
+      "sha256": "e17c240a5285db8996b854494c7eebe7e2e55263ba785d860cb2fee7fa35f419",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/중간발표 1020/원문/15_이애리_0442.txt",
+      "bytes": 12712,
+      "sha256": "19463cd634f0260fee4323ed7bc76ef29bb03750d6a40d1d12687a596b77b876",
+      "git": "untracked"
+    },
+    {
+      "path": "01_References/중간발표 1020/중간발표 1020 발표 원자료.md",
+      "bytes": 6119,
+      "sha256": "cdc96d5c1c0976cad29dc3a8f445b7d052e17abd2c91ce0e336f96f6457425dd",
+      "git": "untracked"
+    },
+    {
+      "path": "02_Syntheses/.gitkeep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "git": "tracked"
+    },
+    {
+      "path": "02_Syntheses/90_회의록/2026-10-13_실무 미팅 회의록.md",
+      "bytes": 6506,
+      "sha256": "1af72f12b0d92a2d4c84e24ce64ac272106dc760e61b89586f01751cabce68c7",
+      "git": "untracked"
+    },
+    {
+      "path": "02_Syntheses/CaveBall 계층형 플로우.md",
+      "bytes": 14493,
+      "sha256": "352946ecc6b535f604056610d4704e416406923c4510b6ab13367daca19a2400",
+      "git": "untracked"
+    },
+    {
+      "path": "02_Syntheses/CaveBall 클라이언트 코드 구조 분석.md",
+      "bytes": 20930,
+      "sha256": "46f15b2adb9de117822d6195e5c9338b766201b3a132165d5c0b0890818e9acf",
+      "git": "untracked"
+    },
+    {
+      "path": "03_Articles/기획서/.gitkeep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "git": "tracked"
+    },
+    {
+      "path": "03_Articles/기획서/Cave Super Ball 기획서 초안.md",
+      "bytes": 5219,
+      "sha256": "b1521c379425ad17ad05f5554214a253fba26731ff4323eb192329f0a899d993",
+      "git": "untracked"
+    },
+    {
+      "path": "03_Articles/기획서/Cave Super Ball 기획서.md",
+      "bytes": 5245,
+      "sha256": "44dace71a341d2f27e788d1058d535c05ed99ffec1222213a10e298e980e40a3",
+      "git": "untracked"
+    },
+    {
+      "path": "03_Articles/발표/피드백.md",
+      "bytes": 8854,
+      "sha256": "0313f24e928ea943066a6929bc077ec2ce5075a8849110c11c55b4d75f5bf4e9",
+      "git": "untracked"
+    },
+    {
+      "path": "03_Articles/보고서/중간발표 1020.md",
+      "bytes": 27492,
+      "sha256": "b9e88eb7ad68f3027c32c6f02f89306154464b5a4b566c4d62a72283d9eff074",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/.gitkeep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "git": "tracked"
+    },
+    {
+      "path": "04_Assets/00_Localization/.gitkeep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "git": "tracked"
+    },
+    {
+      "path": "04_Assets/01_Images/ref1_images/fig01_개요도.png",
+      "bytes": 1292949,
+      "sha256": "806746ca8f53ebc54f2e4161f27ff7f9329f282bcb282815122a6e06bcc06ed0",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/ref1_images/fig02_교육과정_개념도.png",
+      "bytes": 79507,
+      "sha256": "ea3744ca8c09116c2524fd651d2dd6c41c23f1821f051533f1865b3ac2f7757b",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/ref1_images/fig03_세계_실감미디어_시장.png",
+      "bytes": 292650,
+      "sha256": "12ff47a00833dfb7642fc91af1ff4eac3dee681b0b1dfa13eaa9f7b7fe048c68",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/ref1_images/fig04_연구개발_기술정리.png",
+      "bytes": 516372,
+      "sha256": "b65c9e99000ea3dc9a5de48b50d035be0abafdd5c48d7d0c1fc52e2e04bed814",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/ref1_images/fig05_미디어월_구축.png",
+      "bytes": 621911,
+      "sha256": "15d57d2a03e9ce3f13412eabba6a9731bbe1bda056abc37ac341df2115711cd0",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/ref1_images/fig06_곡면_미디어월.png",
+      "bytes": 741230,
+      "sha256": "f7bd16a8321e395919949ac0e106112dd044ed62532ea1d69e9ac72554889047",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/ref5_images/image1.png",
+      "bytes": 1126241,
+      "sha256": "c60c18b8bc03c232665a59316d2e4955e3b4bba979eebd26bb95f817f4132150",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/ref5_images/image2.png",
+      "bytes": 277215,
+      "sha256": "ef7b4c540c7e32cab476a3a6ec09f01bbc8bb3c85627de5cbcc55f420472d0c2",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/ref5_images/image3.png",
+      "bytes": 409215,
+      "sha256": "426deace4a04c71076f607ccafc92b21f1f41dc57e8584b8b47c0662805d6986",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/ref5_images/image4.png",
+      "bytes": 398313,
+      "sha256": "e245e65fc3a5a9489729ba09b2d722d382d3d0883429ff65f11bacf0986af499",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/ref5_images/image5.png",
+      "bytes": 716285,
+      "sha256": "9c01007ee2aec381c72861e9dbdaa6aa3336510bcdeaa7ee50732ef9be63e1ff",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/ref5_images/image6.png",
+      "bytes": 473120,
+      "sha256": "11301643e45a288259d5b4b8d733c4f04f4e1741917904cd103664766acf9554",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/ref5_images/image7.png",
+      "bytes": 291506,
+      "sha256": "0ecb67b0fad630d690516096f2528a0ce62c39f8e461b6d1c975cd9d16f7da63",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/ref5_images/image8.png",
+      "bytes": 478610,
+      "sha256": "79e97993d0e56d8b5f8233a3efd36a2d78b1e037a5cff027e2ace65442b90296",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/cave.png",
+      "bytes": 194027,
+      "sha256": "28f0e5d577a9195211fdd2c7f27bf77ea0e6bad5356c8f839b3d6879d1d55908",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/cave_floor_plan.png",
+      "bytes": 196227,
+      "sha256": "6187b13955401b5ae062b8c50123088b0964aabd441f0a7a9bdf6f153e15541a",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/CaveBall P-FLOOR 바닥 입력 처리.png",
+      "bytes": 106290,
+      "sha256": "12d1c5f3e6c88f5c79dedb651d45f13d72647a803943686c9dbe70a344ec37ac",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/CaveBall P-HAND 손 입력 처리.png",
+      "bytes": 85153,
+      "sha256": "76b84e60f4b362e1e167b65b8e12928298ca34da0acf9737587ce50735408fdd",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/CaveBall P-INIT 콘텐츠 준비.png",
+      "bytes": 79461,
+      "sha256": "5fc491cfc073d4d897163e283e1facbb36a4646969fabc68f7914f94cb6eaf80",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/CaveBall 코드 기반 인터랙션 구성도.png",
+      "bytes": 1913542,
+      "sha256": "bf0e98d40df6eb4f8d4ef0dca962bf77c41e6f8d362a47ef461bed151153a7d7",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/CaveBall 핵심 게임 플로우.png",
+      "bytes": 128041,
+      "sha256": "e30347a4b17632c44bfc2c8e9d205b439184d1022d490a737f042e797aec9593",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/sprite_floor.png",
+      "bytes": 79523,
+      "sha256": "f93248e83300fdb4e5aa002093bf3d16897ef1e6f581e4f9a25bce23561be412",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/sprite_front.png",
+      "bytes": 1550358,
+      "sha256": "8946bb84f13b186d47f8f7ea831a18f36107e986234763ccbe60c97e3c83beab",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/sprite_side_blue.png",
+      "bytes": 1683586,
+      "sha256": "7f251fadbfe383e2419c856b08fcecef17c926f92f24631cd1f7a27a0d74f217",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/sprite_side_red.png",
+      "bytes": 1739304,
+      "sha256": "a04b642787b67963b0aa8bdeba26b98f9ab0a845b04eda7c783e0347736292e0",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/케이브구성.png",
+      "bytes": 1786150,
+      "sha256": "5165f05a3ba8221d0789e67307e3e24c0308e6535d80bd8b73afdd9224774e3a",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/플레이_예시.png",
+      "bytes": 2170750,
+      "sha256": "768a8259ca03886bce54f12fc295930e72016e6d7e33b80a0da27ce4e5e60340",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/핵심플로우.png",
+      "bytes": 1511565,
+      "sha256": "996f2815920c5893dcdd1026be76f0c49a04e40a51033cee8a159c9db1efe26e",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/01_Images/이관 이미지 관리 기록.md",
+      "bytes": 8544,
+      "sha256": "7cef01a5dd544799c2917de393a39b6fe829a15c676d318aae98196404817ee3",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/02_Records/01_최효범_0201.txt",
+      "bytes": 11118,
+      "sha256": "676c26184a5bd285af7b9a270c61b341e7ebdf45f82d2565e47eede8f37e4cad",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/02_Records/02_박영원_0213.txt",
+      "bytes": 8063,
+      "sha256": "56d92815b2ee1556073e84e7f0e0102e44cf28238a3f0152e942259ade599e10",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/02_Records/03_파라마_0220.txt",
+      "bytes": 12612,
+      "sha256": "527e7f672010412ce5aab1588169072f021a0b73a9f3b3dd4067e560467eb625",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/02_Records/04_김교령_0234.txt",
+      "bytes": 11816,
+      "sha256": "c566dfa9360c51019e01026caaaf4c21c3aa3e0a757a1d4a545643d41b2e843a",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/02_Records/05_이세연_김다인_0245.txt",
+      "bytes": 16488,
+      "sha256": "5275d5ab2d240d5e635a94d70cfb25598da14ff91d8dba9b9bc9f07358540945",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/02_Records/06_김윤진_0301.txt",
+      "bytes": 10861,
+      "sha256": "f1f7ce3cf0f89e8601a8812ddfa87f4ca03d2a9dbd9353bb9b5d20659625eaf8",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/02_Records/07_이재우_0312.txt",
+      "bytes": 12129,
+      "sha256": "f3120c4e35133a23f9215bb3ae0d4887cecf2b2b28bb063fd0639587f3d7fad7",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/02_Records/08_이웅철_0323.txt",
+      "bytes": 16731,
+      "sha256": "af774edfc7ea4f29c661098135c89f94538784a94bb7133487d389016f601b72",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/02_Records/09_김정훈_0338.txt",
+      "bytes": 13238,
+      "sha256": "07dd7cd9d528e9f1eb2507d1fd7690dbaf559cae7ad78eb04731bb6b5c5970e0",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/02_Records/10_김채린_0355.txt",
+      "bytes": 12778,
+      "sha256": "5d63937707e5ff1b9139f985b1340f074334ddb7e22edabe36d9bed5d8e45995",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/02_Records/11_김찬희_0405.txt",
+      "bytes": 6926,
+      "sha256": "af270268099be50912eb2d69f9a5cbb228af2009014c6289721162cfb7fa0a18",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/02_Records/12_최리원_0412.txt",
+      "bytes": 11932,
+      "sha256": "45cdc8826f350921ab7ae587f763be415a9f75f2ff958447b1ca2e17ef66e1cb",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/02_Records/13_한경은_0424.txt",
+      "bytes": 7413,
+      "sha256": "0b463ade7355068d49db3b29440898665ff727079e91a8ff4ac7ba6cc39083bd",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/02_Records/14_홍정민_0432.txt",
+      "bytes": 8684,
+      "sha256": "e17c240a5285db8996b854494c7eebe7e2e55263ba785d860cb2fee7fa35f419",
+      "git": "untracked"
+    },
+    {
+      "path": "04_Assets/02_Records/15_이애리_0442.txt",
+      "bytes": 12712,
+      "sha256": "19463cd634f0260fee4323ed7bc76ef29bb03750d6a40d1d12687a596b77b876",
+      "git": "untracked"
+    },
+    {
+      "path": "05_Prototypes/.gitkeep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "git": "tracked"
+    },
+    {
+      "path": "90_Workspace/.gitkeep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "git": "tracked"
+    },
+    {
+      "path": "90_Workspace/CaveSuperBall/Cave Super Ball 개요 근거 추출.md",
+      "bytes": 8782,
+      "sha256": "55b6734c79bb2c6724e977deb98e3081275b5d41ba43b9472af470aec26123e6",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 구조 전환/AX 위키 구조 전환 실행 계획.md",
+      "bytes": 29022,
+      "sha256": "9284250cb5dc8010b1ee1f950e7189cda7081d7312f4264417c1d322fcc1a66f",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 구조 전환/전환.py",
+      "bytes": 4652,
+      "sha256": "ad8476a199526d6beeb20a64d32ed0f31536e2eb7066bbe1e063dc65f41d8c1b",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/.recheck_stage/00_System/00_Index/Index.md",
+      "bytes": 5968,
+      "sha256": "eb95a34cd02259450a6f917389ae46d4ccbe71ae6b69046a3f8ea4aaf147635c",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/.recheck_stage/00_System/01_Rules/위키 작업 절차.md",
+      "bytes": 11264,
+      "sha256": "2d2eceb6da3de1402da3bc607dbededffdb03432d6282dbec48a4aa4634fdab8",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/.recheck_stage/00_System/02_Logs/log.md",
+      "bytes": 30262,
+      "sha256": "7fb2a8c3c6682b3443ce123c93fed8d47e25821bccc87e8cd57db23fbe96fb15",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/.recheck_stage/01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "bytes": 32370,
+      "sha256": "6f9c8a877d018c9c71abf314bd0bd3ff305c2f8d026e3fedf01eb84cce4c963f",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/.recheck_stage/01_References/00_프로젝트/02_연구개발계획서/2_연구개발의 목표 및 내용.md",
+      "bytes": 45447,
+      "sha256": "8c23dcd061ec2e8bd69a0fd0c23b59b5085c7d36199cb73344be8ffdf28e1192",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/.recheck_stage/01_References/00_프로젝트/02_연구개발계획서/3_연구개발의 추진전략과 방법 및 추진일정.md",
+      "bytes": 18213,
+      "sha256": "b481ce24a6ec346e93d87f711d198f500dcad3e935aa33a68c36552bf14f92fd",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/.recheck_stage/01_References/00_프로젝트/02_연구개발계획서/4_마일스톤 체계 및 수행계획.md",
+      "bytes": 25544,
+      "sha256": "5a6067dec5e450d1364cc900b1cb374eeedfa9c64917678cc3b8c2e40b297a32",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/.recheck_stage/01_References/00_프로젝트/02_연구개발계획서/5_연구개발성과의 활용방안 및 기대효과.md",
+      "bytes": 19427,
+      "sha256": "600a36e37c8f7b1ceef077a48acc0e776789da6e4f1ab4c21096666927851f07",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/.recheck_stage/03_Articles/기획서/Cave Super Ball 기획서 초안.md",
+      "bytes": 5219,
+      "sha256": "b1521c379425ad17ad05f5554214a253fba26731ff4323eb192329f0a899d993",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/.recheck_stage/03_Articles/기획서/Cave Super Ball 기획서.md",
+      "bytes": 5245,
+      "sha256": "44dace71a341d2f27e788d1058d535c05ed99ffec1222213a10e298e980e40a3",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/__pycache__/audit.cpython-313.pyc",
+      "bytes": 12427,
+      "sha256": "fbc24e1373f1e38a0055e3236fdcd0ab02c2ffaeaa5e7b4e2fd5b2d5b5404884",
+      "git": "ignored"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/applied_changes.json",
+      "bytes": 8897,
+      "sha256": "92c4d5f63a08090d70f0441979b97b8d2acefcb4d1351bbee2e0d8a872b6bddd",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/audit.py",
+      "bytes": 6171,
+      "sha256": "155c9e3b67739b2687894d984087cacbf07a0040e5e3a4c307be4b4f69c9e9fe",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/before.json",
+      "bytes": 309751,
+      "sha256": "4d8e7c25642770acb7e02ade217344bc32520fa71756bcf51d848468d8e911f4",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/external_sources.json",
+      "bytes": 1694,
+      "sha256": "9452f5db2ccfff004fe3ef6a58183bf271eb6f9b7cd8283489bf39ea26bbbce7",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/inventory_before.json",
+      "bytes": 59985,
+      "sha256": "5df66435152cef13ebbb11b22633cd62163d1256f9088236cf67c4a06ba55e16",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/links_before.json",
+      "bytes": 27063,
+      "sha256": "8ce8b03e620c2c2ff4e3e1ef30176053dce9ee0bd624f90009a17f9e542509e7",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/original_1.txt",
+      "bytes": 24018,
+      "sha256": "33988d8842b163094ef6679f826d58caa29220d4240e8a49da774c639ac0fbef",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/original_2.txt",
+      "bytes": 39564,
+      "sha256": "38a8455c3f51f5effcf7a55b4bf9065bfe1e202cc6fff4d394391d23ad78c407",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/original_3.txt",
+      "bytes": 11533,
+      "sha256": "d8e39ecac840ad93ab70fff0fd9a9fde9063e630edab1290775fc40f57e613c1",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/original_4.txt",
+      "bytes": 16139,
+      "sha256": "a657e8505ac6a2275d9df4f7c1b4b5adcebdd5689d2ea7e3e79d35c9965be9ff",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/original_5.txt",
+      "bytes": 11223,
+      "sha256": "beac7dd553825fce10dd2c0335412016f2666020ebf1dd16bf086faa226a9eaa",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/original_transcript.txt",
+      "bytes": 52772,
+      "sha256": "02fb4d2db8675a244bceb977508c9467e54234ecf53c138c04d9e53cca156a2f",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/probe_sources.py",
+      "bytes": 1693,
+      "sha256": "7c9f108beb5cee58e7549eae90cd105f2246206dedb3fae7afd6fb93bd3a8396",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/recheck.py",
+      "bytes": 6781,
+      "sha256": "5c88777c3e7d5bd2bd25c1626c90f25c0b80b19fe2fe3eca36fe69de7c3e21bf",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/recheck_before.json",
+      "bytes": 432117,
+      "sha256": "8ffaf5449f035a0d00ba3b261818000f13e791df92690e8e609827d1bba8283c",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/recheck_changes.json",
+      "bytes": 2952,
+      "sha256": "669977f0f4270f24250c712b4809612d1f33e237e32e3ba3341bbc25f6c58aec",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/recheck_validation.json",
+      "bytes": 5147,
+      "sha256": "a281f7857588650b3090deea09a1c80f138a2a01a9668acd375daccbaafede79",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/reconcile.py",
+      "bytes": 8685,
+      "sha256": "275369e4fb14c7f72c740ff1fdb41485b261d498f94c8db451ec4979d980bcf6",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/source_tables.json",
+      "bytes": 200634,
+      "sha256": "bb7a281bddb20d8cd5521c061a44a1ea9d368327158041fbb93d14f5ece7d94b",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/stage.py",
+      "bytes": 28481,
+      "sha256": "e7ea83b5e0d63b32edd53fedc96f862cfa986a79ce4e7ec118ab160624a2c516",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/stage_manifest.json",
+      "bytes": 16763,
+      "sha256": "eee2f700be4b930dbe64c24ea3ed0503887ff2130e48122a7ff327297c1ba221",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/validation.json",
+      "bytes": 11296,
+      "sha256": "386a5b21729d11a3c0879ac911e2817f365abc19dcaee28fdb25503b1229a60d",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/verify_and_apply.py",
+      "bytes": 13320,
+      "sha256": "43a7d0d74996df42e619c4149849d3ff00cbdad7f59aa182d9c48b131c0c84d9",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/위키 정합성 점검/위키 정합성 점검 보고서.md",
+      "bytes": 15495,
+      "sha256": "84f06db65229bb7970b80415dc2aa5c5651f7403ea8fde46af18235c2e112055",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/build_documents.py",
+      "bytes": 8501,
+      "sha256": "bd9979d4cb816a92f12b229dac790f4a7ccebafdf268e62d7a658e04a845db20",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/prepare_sources.py",
+      "bytes": 2738,
+      "sha256": "af2600a840db3f66d120aa061e43281899498236d4f16b0c0d72c1ccf7f06cb8",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/publish.py",
+      "bytes": 4911,
+      "sha256": "7c26507673f61424a16fd50cb5b1562c58038d3e6c10e16ece13baa48b6c69c6",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/verify.py",
+      "bytes": 3795,
+      "sha256": "83bc2c2cf1debe5c9c289b5e5202f6c6119a13d69117a2bee0fa980bd59f5385",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/검증 결과.json",
+      "bytes": 1571,
+      "sha256": "3d2333c31b1d9fd80dab5f61037282e119c6fa8fb4de35f0283f9bd4f543ab83",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/기획자 관점 재작성/검증 결과.json",
+      "bytes": 4359,
+      "sha256": "ac2688f8b4099db492c31949a8c6a2a10bfd38c304b0576cba67131e60942a61",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/기획자 관점 재작성/반영과 검증.py",
+      "bytes": 8173,
+      "sha256": "0d4ee37254626da12c01d64beb0b4504222d53bfa2f295d2e70211fd4e797447",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/기획자 관점 재작성/수정 전 상태.json",
+      "bytes": 54915,
+      "sha256": "3827e1c84eaf1311d962872b186baef7ebd5c30c30983ee5cce4b54afb6428ff",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/기획자 관점 재작성/중간발표 1020.md",
+      "bytes": 27565,
+      "sha256": "987148742c0007d27a34d006def8045df90f29aa6075de97aee62fefde8cf88f",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/등록안/원문/01_최효범_0201.txt",
+      "bytes": 11118,
+      "sha256": "676c26184a5bd285af7b9a270c61b341e7ebdf45f82d2565e47eede8f37e4cad",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/등록안/원문/02_박영원_0213.txt",
+      "bytes": 8063,
+      "sha256": "56d92815b2ee1556073e84e7f0e0102e44cf28238a3f0152e942259ade599e10",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/등록안/원문/03_파라마_0220.txt",
+      "bytes": 12612,
+      "sha256": "527e7f672010412ce5aab1588169072f021a0b73a9f3b3dd4067e560467eb625",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/등록안/원문/04_김교령_0234.txt",
+      "bytes": 11816,
+      "sha256": "c566dfa9360c51019e01026caaaf4c21c3aa3e0a757a1d4a545643d41b2e843a",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/등록안/원문/06_김윤진_0301.txt",
+      "bytes": 10861,
+      "sha256": "f1f7ce3cf0f89e8601a8812ddfa87f4ca03d2a9dbd9353bb9b5d20659625eaf8",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/등록안/원문/07_이재우_0312.txt",
+      "bytes": 12129,
+      "sha256": "f3120c4e35133a23f9215bb3ae0d4887cecf2b2b28bb063fd0639587f3d7fad7",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/등록안/원문/08_이웅철_0323.txt",
+      "bytes": 16731,
+      "sha256": "af774edfc7ea4f29c661098135c89f94538784a94bb7133487d389016f601b72",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/등록안/원문/09_김정훈_0338.txt",
+      "bytes": 13238,
+      "sha256": "07dd7cd9d528e9f1eb2507d1fd7690dbaf559cae7ad78eb04731bb6b5c5970e0",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/등록안/원문/10_김채린_0355.txt",
+      "bytes": 12778,
+      "sha256": "5d63937707e5ff1b9139f985b1340f074334ddb7e22edabe36d9bed5d8e45995",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/등록안/원문/11_김찬희_0405.txt",
+      "bytes": 6926,
+      "sha256": "af270268099be50912eb2d69f9a5cbb228af2009014c6289721162cfb7fa0a18",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/등록안/원문/12_최리원_0412.txt",
+      "bytes": 11932,
+      "sha256": "45cdc8826f350921ab7ae587f763be415a9f75f2ff958447b1ca2e17ef66e1cb",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/등록안/원문/13_한경은_0424.txt",
+      "bytes": 7413,
+      "sha256": "0b463ade7355068d49db3b29440898665ff727079e91a8ff4ac7ba6cc39083bd",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/등록안/원문/14_홍정민_0432.txt",
+      "bytes": 8684,
+      "sha256": "e17c240a5285db8996b854494c7eebe7e2e55263ba785d860cb2fee7fa35f419",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/등록안/원문/15_이애리_0442.txt",
+      "bytes": 12712,
+      "sha256": "19463cd634f0260fee4323ed7bc76ef29bb03750d6a40d1d12687a596b77b876",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/등록안/중간발표 1020 발표 원자료.md",
+      "bytes": 6149,
+      "sha256": "975a39059f495c53bb66f3fbfbbce4d294ff8aaf00a9966b13e230a40c97f246",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/수정 전 상태.json",
+      "bytes": 17149,
+      "sha256": "0b3def38087ab50888c455d38fd0275c1d44d2ea57068e11141dd5c03dbeb72e",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/원문 대응표.json",
+      "bytes": 241988,
+      "sha256": "0328b50287a806aa5396fc923fe9a979333c31c750f48d0802c459e78501818d",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/원문 목록.json",
+      "bytes": 7491,
+      "sha256": "4bf5d3637cd40ed7aef8352f07b263254f3965ea23a0a1b7803d0541f90c2f8b",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/중간발표 1020.md",
+      "bytes": 36015,
+      "sha256": "8dcfef6a03a34ab776b1cadb6c186ca40fbce5423ebba2ad2e0abbfbb454ad70",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/최초 추출표.json",
+      "bytes": 296349,
+      "sha256": "9d22ede1d14e4d4de23b29786dc47641f1eef0e0af2af88381ce066a7be66856",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/중간발표 1020 피드백/피드백 구성.json",
+      "bytes": 36252,
+      "sha256": "605b76b2318b05989c26126bc97b4f53ef5bbc371b1a687a48ea45931a60f0d7",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/피드백 어투 퇴고/2026-10-27 교체본/퇴고.py",
+      "bytes": 7693,
+      "sha256": "671ef896beb8397bc58d8c7766c9ca10e998656688c51f29fa9adb4a91fa44b4",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/피드백 어투 퇴고/2026-10-27 교체본/피드백 원문.txt",
+      "bytes": 8680,
+      "sha256": "4a419edd8ba69382eb18bb480e1d5d21e9075597b9680a6859af627fab5b4863",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/피드백 어투 퇴고/2026-10-27 교체본/피드백.md",
+      "bytes": 8881,
+      "sha256": "4bae04ea9a27cc9bafae6941280e451593f842dd1a0a51bf87ab3f7d99d04fae",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/피드백 어투 퇴고/퇴고.py",
+      "bytes": 13722,
+      "sha256": "34050993fbac6e7e9920841dae44c135fcefe1ca9fa8b85c41e12c69999b7832",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/피드백 어투 퇴고/피드백 원문.txt",
+      "bytes": 11675,
+      "sha256": "d758637c6d57c86538a9aa41b6313ba3886ce43d50a227c9b9cae800b625f717",
+      "git": "untracked"
+    },
+    {
+      "path": "90_Workspace/피드백 어투 퇴고/피드백.md",
+      "bytes": 12183,
+      "sha256": "b5410c02335d17f3f4541de3d64fc1b7b0f8f64c29a6bbd5f9286cff826b253e",
+      "git": "untracked"
+    },
+    {
+      "path": "99_Archive/.gitkeep",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/00_System/00_Index/Index.md",
+      "bytes": 4820,
+      "sha256": "248a0b769e820f9f431b95e42bc161ea24cf4731e33474ef753b872f42684da8",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/00_System/01_Rules/문서 작성 규칙.md",
+      "bytes": 8827,
+      "sha256": "717763df1c348131710b213bb3d949fef1388aec498faaad11787e1b905b2775",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/00_System/01_Rules/문서 형식.md",
+      "bytes": 14589,
+      "sha256": "81028a0346c9571b9ef4b005259d2ed58e299c81855c8cea1118660cd6c6805b",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/00_System/01_Rules/위키 작업 절차.md",
+      "bytes": 11087,
+      "sha256": "3e8b900a9a535e1567ec65c6dc1bf6793b6f451b823b88ee28571d6822f9f5d3",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/00_System/01_Rules/이미지 생성 규칙.md",
+      "bytes": 21448,
+      "sha256": "3dd59f226c792112b4644c7bc5800a058b6fc2bac24285f524e2b5e4b572e737",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/00_System/02_Logs/2026-10.md",
+      "bytes": 1321,
+      "sha256": "88bfe8396b2b24dbb5515f4b019159de3e9a5e8ced375d6efc617214cf434ac8",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/00_System/02_Logs/log.md",
+      "bytes": 29545,
+      "sha256": "dd6c9da433bff2137a781fc33efc805e5db2e6642da1f4da20d63c5d8d3dd2be",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/00_System/03_Tools/heading_numbers.py",
+      "bytes": 19893,
+      "sha256": "86d6ad9667a8c7d013c9e4d521a0a1c2adc4cfe13577cb14fb06094495d9588d",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/00_System/03_Tools/image_record_check.py",
+      "bytes": 6908,
+      "sha256": "37f9eca02126a786f3a3c41bc7c8d5b1de9119cf497ee961fbdbbf50672313f5",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/00_System/03_Tools/test_heading_numbers.py",
+      "bytes": 15861,
+      "sha256": "322d8ae58b7c4812b9a25830eb12a9881c033c13c8288cf4dc3b02535d60a201",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "bytes": 31896,
+      "sha256": "ead93677e615f90e44bba71b2d85dcd42f0d1f53e52d34734256c415739906bf",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/01_References/00_프로젝트/02_연구개발계획서/2_연구개발의 목표 및 내용.md",
+      "bytes": 44891,
+      "sha256": "7b86e894aa59535d6189efa779c9c3c75a0e03b191c6f364b09c502e3bc0f2b3",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/01_References/00_프로젝트/02_연구개발계획서/3_연구개발의 추진전략과 방법 및 추진일정.md",
+      "bytes": 17739,
+      "sha256": "b63a1c93c40b88e7e62e99a2da62d327333a0bff01eb0332f4ee72d7509ecfe9",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/01_References/00_프로젝트/02_연구개발계획서/4_마일스톤 체계 및 수행계획.md",
+      "bytes": 25070,
+      "sha256": "2202f930537c081b6df088d52092ab3c7813833792d7a707264a93d35f4a6454",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/01_References/00_프로젝트/02_연구개발계획서/5_연구개발성과의 활용방안 및 기대효과.md",
+      "bytes": 18953,
+      "sha256": "2654938430c695c0606a13355265bc5d0678ce36152cef60959a64810ab8d161",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/01_References/01_CaveBall/CaveBall 클라이언트 코드 원자료.md",
+      "bytes": 3581,
+      "sha256": "c1d4fc065068b5a16e0059e2155af8e744681fd547a4e5f338703d698e6aa159",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/01_References/01_CaveBall/원문 코드/CaveBall.cs",
+      "bytes": 9510,
+      "sha256": "9bd308f4511d57c61e55c4c1ad006b7bc04e79ca42740bc06fd5eb4a24f6f9a3",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/01_References/01_CaveBall/원문 코드/CaveBallBrick.cs",
+      "bytes": 1668,
+      "sha256": "987277fa5617b58abaf5a66501cb9c5335ff677d3656555d05f7768ab923cd18",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/01_References/01_CaveBall/원문 코드/CaveBallCameraShake.cs",
+      "bytes": 1905,
+      "sha256": "8bd13840ab984b0f3eb13379e8f81180c16cb7f448e493e599bc137e3fbbf668",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/01_References/01_CaveBall/원문 코드/CaveBallContent.cs",
+      "bytes": 2450,
+      "sha256": "2b53c90711c433b0815ce29ccda6f8295f866405e82ac390b1c118b6d60bb503",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/01_References/01_CaveBall/원문 코드/CaveBallDialog.cs",
+      "bytes": 70,
+      "sha256": "3528755ac7b34557f3d23c251934b836079b6a72ec97ce66079f0abe81a6c169",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/01_References/01_CaveBall/원문 코드/CaveBallDisplayRig.cs",
+      "bytes": 8420,
+      "sha256": "ca18ff0110ef4b8ddde76280f42dbaaf062b471d011fc14835d7b87a96b9281b",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/01_References/01_CaveBall/원문 코드/CaveBallEffectPool.cs",
+      "bytes": 3037,
+      "sha256": "7f2110fada16f478b02da107c79491c0d2614470cc0ff27e17b34908b9b5f3f7",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/01_References/01_CaveBall/원문 코드/CaveBallFloorInteraction.cs",
+      "bytes": 10355,
+      "sha256": "eca64efbfc0162fc80777a91432a225c9a2399454265b818b38cc34b776ea7a6",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/01_References/01_CaveBall/원문 코드/CaveBallGameManager.cs",
+      "bytes": 8280,
+      "sha256": "16dca9ac1a5ace3b0d2b44159abcb051c545038a049d50b04f5ad28c72738b6a",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/01_References/01_CaveBall/원문 코드/CaveBallMLInteraction.cs",
+      "bytes": 11631,
+      "sha256": "40529d6deb51f1e4a07f8e53c146181f4b48091ed994f57895e980994bd6f9b1",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/01_References/01_CaveBall/원문 코드/CaveballScene.cs",
+      "bytes": 149,
+      "sha256": "5db77fdd40b894028a0d6a29e859828f2c1e1db6b540b45936afeb42a5969047",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/01_References/01_CaveBall/원문 코드/CaveBallScoreboard.cs",
+      "bytes": 7915,
+      "sha256": "a868e8d02e7795aa2dd7f0fe50bd9ff3483cc56f277a1be5b73ca83864c147fd",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/01_References/01_CaveBall/원문 코드/CaveBallSetting.cs",
+      "bytes": 2313,
+      "sha256": "18316c22eb277688aea26afc5cbbeb70e1bb06ee822689e2d52af3ba410730db",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/01_References/01_CaveBall/원문 코드/CaveBallSilhouetteView.cs",
+      "bytes": 3492,
+      "sha256": "78c00cd178ffc0d730f058c24e11c19c157e86c5f304c49d119864d81f026841",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/01_References/01_CaveBall/원문 코드/Core/CaveBall.Core.asmdef",
+      "bytes": 350,
+      "sha256": "be5659209cea00517d4d44b5ac9c9e5e710a012b0f76bbbd3ba8d365ec4cf7d1",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/01_References/01_CaveBall/원문 코드/Core/CaveBallRules.cs",
+      "bytes": 2527,
+      "sha256": "276a9f5174301ad4abb1ddceeee9e7493727f9a410f90aba5ba74be176bc5cef",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/01_References/01_CaveBall/원문 코드/PrimaryUserPoseSelector.cs",
+      "bytes": 1709,
+      "sha256": "cc8988bac5809b2cdfffdf0ae71af8ca24815960658136d4d738c9f68a0bde32",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/01_References/90_회의록/2026-07-15 컨소시엄 킥오프 회의록.md",
+      "bytes": 21981,
+      "sha256": "106486c5073764bca25321a47df1af72a321c9affa043f8be981d57b65e1dffc",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/02_Syntheses/CaveBall 계층형 플로우.md",
+      "bytes": 14493,
+      "sha256": "352946ecc6b535f604056610d4704e416406923c4510b6ab13367daca19a2400",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/02_Syntheses/CaveBall 클라이언트 코드 구조 분석.md",
+      "bytes": 20930,
+      "sha256": "46f15b2adb9de117822d6195e5c9338b766201b3a132165d5c0b0890818e9acf",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/03_Articles/기획서/Cave Super Ball 기획서 초안.md",
+      "bytes": 5117,
+      "sha256": "990af2f891091219d6a87fee9c3b94b897c39bcb08afc31f7a267a5d04f94645",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/03_Articles/기획서/Cave Super Ball 기획서.md",
+      "bytes": 4378,
+      "sha256": "f9aa8eb33d75a0500f12da7d8ba33439f393a392e40f69796affccf1ea0793bd",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/ref1_images/fig01_개요도.png",
+      "bytes": 1292949,
+      "sha256": "806746ca8f53ebc54f2e4161f27ff7f9329f282bcb282815122a6e06bcc06ed0",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/ref1_images/fig02_교육과정_개념도.png",
+      "bytes": 79507,
+      "sha256": "ea3744ca8c09116c2524fd651d2dd6c41c23f1821f051533f1865b3ac2f7757b",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/ref1_images/fig03_세계_실감미디어_시장.png",
+      "bytes": 292650,
+      "sha256": "12ff47a00833dfb7642fc91af1ff4eac3dee681b0b1dfa13eaa9f7b7fe048c68",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/ref1_images/fig04_연구개발_기술정리.png",
+      "bytes": 516372,
+      "sha256": "b65c9e99000ea3dc9a5de48b50d035be0abafdd5c48d7d0c1fc52e2e04bed814",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/ref1_images/fig05_미디어월_구축.png",
+      "bytes": 621911,
+      "sha256": "15d57d2a03e9ce3f13412eabba6a9731bbe1bda056abc37ac341df2115711cd0",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/ref1_images/fig06_곡면_미디어월.png",
+      "bytes": 741230,
+      "sha256": "f7bd16a8321e395919949ac0e106112dd044ed62532ea1d69e9ac72554889047",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/ref5_images/image1.png",
+      "bytes": 1126241,
+      "sha256": "c60c18b8bc03c232665a59316d2e4955e3b4bba979eebd26bb95f817f4132150",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/ref5_images/image2.png",
+      "bytes": 277215,
+      "sha256": "ef7b4c540c7e32cab476a3a6ec09f01bbc8bb3c85627de5cbcc55f420472d0c2",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/ref5_images/image3.png",
+      "bytes": 409215,
+      "sha256": "426deace4a04c71076f607ccafc92b21f1f41dc57e8584b8b47c0662805d6986",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/ref5_images/image4.png",
+      "bytes": 398313,
+      "sha256": "e245e65fc3a5a9489729ba09b2d722d382d3d0883429ff65f11bacf0986af499",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/ref5_images/image5.png",
+      "bytes": 716285,
+      "sha256": "9c01007ee2aec381c72861e9dbdaa6aa3336510bcdeaa7ee50732ef9be63e1ff",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/ref5_images/image6.png",
+      "bytes": 473120,
+      "sha256": "11301643e45a288259d5b4b8d733c4f04f4e1741917904cd103664766acf9554",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/ref5_images/image7.png",
+      "bytes": 291506,
+      "sha256": "0ecb67b0fad630d690516096f2528a0ce62c39f8e461b6d1c975cd9d16f7da63",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/ref5_images/image8.png",
+      "bytes": 478610,
+      "sha256": "79e97993d0e56d8b5f8233a3efd36a2d78b1e037a5cff027e2ace65442b90296",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/예시 이미지/cave.png",
+      "bytes": 194027,
+      "sha256": "28f0e5d577a9195211fdd2c7f27bf77ea0e6bad5356c8f839b3d6879d1d55908",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/예시 이미지/cave_floor_plan.png",
+      "bytes": 196227,
+      "sha256": "6187b13955401b5ae062b8c50123088b0964aabd441f0a7a9bdf6f153e15541a",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/예시 이미지/CaveBall P-FLOOR 바닥 입력 처리.png",
+      "bytes": 106290,
+      "sha256": "12d1c5f3e6c88f5c79dedb651d45f13d72647a803943686c9dbe70a344ec37ac",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/예시 이미지/CaveBall P-HAND 손 입력 처리.png",
+      "bytes": 85153,
+      "sha256": "76b84e60f4b362e1e167b65b8e12928298ca34da0acf9737587ce50735408fdd",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/예시 이미지/CaveBall P-INIT 콘텐츠 준비.png",
+      "bytes": 79461,
+      "sha256": "5fc491cfc073d4d897163e283e1facbb36a4646969fabc68f7914f94cb6eaf80",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/예시 이미지/CaveBall 코드 기반 인터랙션 구성도.png",
+      "bytes": 1913542,
+      "sha256": "bf0e98d40df6eb4f8d4ef0dca962bf77c41e6f8d362a47ef461bed151153a7d7",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/예시 이미지/CaveBall 핵심 게임 플로우.png",
+      "bytes": 128041,
+      "sha256": "e30347a4b17632c44bfc2c8e9d205b439184d1022d490a737f042e797aec9593",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/예시 이미지/sprite_floor.png",
+      "bytes": 79523,
+      "sha256": "f93248e83300fdb4e5aa002093bf3d16897ef1e6f581e4f9a25bce23561be412",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/예시 이미지/sprite_front.png",
+      "bytes": 1550358,
+      "sha256": "8946bb84f13b186d47f8f7ea831a18f36107e986234763ccbe60c97e3c83beab",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/예시 이미지/sprite_side_blue.png",
+      "bytes": 1683586,
+      "sha256": "7f251fadbfe383e2419c856b08fcecef17c926f92f24631cd1f7a27a0d74f217",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/예시 이미지/sprite_side_red.png",
+      "bytes": 1739304,
+      "sha256": "a04b642787b67963b0aa8bdeba26b98f9ab0a845b04eda7c783e0347736292e0",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/예시 이미지/케이브구성.png",
+      "bytes": 1786150,
+      "sha256": "5165f05a3ba8221d0789e67307e3e24c0308e6535d80bd8b73afdd9224774e3a",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/예시 이미지/플레이_예시.png",
+      "bytes": 2170750,
+      "sha256": "768a8259ca03886bce54f12fc295930e72016e6d7e33b80a0da27ce4e5e60340",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/예시 이미지/핵심플로우.png",
+      "bytes": 1511565,
+      "sha256": "996f2815920c5893dcdd1026be76f0c49a04e40a51033cee8a159c9db1efe26e",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/04_Assets/01_Images/이관 이미지 관리 기록.md",
+      "bytes": 8544,
+      "sha256": "7cef01a5dd544799c2917de393a39b6fe829a15c676d318aae98196404817ee3",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/90_Workspace/CaveSuperBall/Cave Super Ball 개요 근거 추출.md",
+      "bytes": 8782,
+      "sha256": "55b6734c79bb2c6724e977deb98e3081275b5d41ba43b9472af470aec26123e6",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/90_Workspace/위키 정합성 점검/위키 정합성 점검 보고서.md",
+      "bytes": 12748,
+      "sha256": "c9573e9d1cabea7a3866c79b720eaadd9a4ca45483103d348e728f4ae3da2d47",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/2026-10-13_위키정합성점검/.staging/AGENTS.md",
+      "bytes": 6843,
+      "sha256": "52ebeaa510758dcc2ad66113d723e31053f0c75977dfe89001d376ed8b75e184",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/회의록/2026-10-13_실무 미팅_기관별호칭통일/2026-10-13_실무 미팅 회의록.md",
+      "bytes": 6404,
+      "sha256": "e699760e11500d2a04664cb51e80acdfa6784a4696af66655d1f7395e81113b9",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/회의록/2026-10-13_실무 미팅_명칭과형식수정/2026-10-13_중간점검 녹취록.md",
+      "bytes": 51522,
+      "sha256": "3e1d40c3d4123775637c5aa12dcb1f07b429395710fef6b21df035852b63c8cb",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/회의록/2026-10-13_실무 미팅_명칭과형식수정/2026-10-13_중간점검 원자료.md",
+      "bytes": 5163,
+      "sha256": "0601c05051b0ceccf6b880c6f85e544eb993b0724d6a50d4e79687335a0e01e6",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/회의록/2026-10-13_실무 미팅_명칭과형식수정/2026-10-13_중간점검 회의록.md",
+      "bytes": 18447,
+      "sha256": "15775a438a6de8c5c61fd82e34ad4d97d9a4973ab9bb6cf1ba36080415283c62",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/회의록/2026-10-13_실무 미팅_명칭과형식수정/작업파일/2026-10-13_실무 미팅 녹취록.md",
+      "bytes": 52266,
+      "sha256": "d2d526ae26ba58ef8fa654cc7c75d3ead618bb3ecd9b20c18fd78d22e5e02388",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/회의록/2026-10-13_실무 미팅_명칭과형식수정/작업파일/2026-10-13_실무 미팅 원자료.md",
+      "bytes": 5538,
+      "sha256": "a76700719aa39f8c4351733a76186edf2965182609018635ed5bab1b2492bbf3",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/회의록/2026-10-13_실무 미팅_명칭과형식수정/작업파일/2026-10-13_실무 미팅 회의록.md",
+      "bytes": 6446,
+      "sha256": "e8e4ce51d699cbcb96c5890b263610da7a7fb2596ce241cc2f0a3225f0351ab1",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/회의록/2026-10-13_실무 미팅_명칭과형식수정/작업파일/revise.py",
+      "bytes": 4708,
+      "sha256": "698a3c06ce14c226e34e38a2e540ef8bd098ec45ff02edfe40fe014900f2a48e",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/회의록/2026-10-13_실무 미팅_명칭과형식수정/작업파일/snapshots.json",
+      "bytes": 460,
+      "sha256": "70da54260b0108fd0bcec5687aa84b610f554fe7be9c0559f8ada09662b4e220",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/회의록/2026-10-13_실무 미팅_명칭과형식수정/작업파일/이전_2026-10-13_중간점검 녹취록.md",
+      "bytes": 51522,
+      "sha256": "3e1d40c3d4123775637c5aa12dcb1f07b429395710fef6b21df035852b63c8cb",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/회의록/2026-10-13_실무 미팅_명칭과형식수정/작업파일/이전_2026-10-13_중간점검 원자료.md",
+      "bytes": 5163,
+      "sha256": "0601c05051b0ceccf6b880c6f85e544eb993b0724d6a50d4e79687335a0e01e6",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/회의록/2026-10-13_실무 미팅_명칭과형식수정/작업파일/이전_2026-10-13_중간점검 회의록.md",
+      "bytes": 18447,
+      "sha256": "15775a438a6de8c5c61fd82e34ad4d97d9a4973ab9bb6cf1ba36080415283c62",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/회의록/2026-10-13_실무 미팅_호칭수정/2026-10-13_실무 미팅 회의록.md",
+      "bytes": 6437,
+      "sha256": "d61a09efe49a29a4e395d0410878712249242c2ff20088fa7a44b6ac5ea780db",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/회의록/2026-10-13_중간점검/2026-10-13_중간점검 녹취록.md",
+      "bytes": 52269,
+      "sha256": "d033b56459e3d9b2b509f52b08985a7e52ed28bea3a2808d5036c3c4e275ac2f",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/회의록/2026-10-13_중간점검/2026-10-13_중간점검 대조표.md",
+      "bytes": 114531,
+      "sha256": "ab17164ac007cc6349edba0d7fa2e5f04afdebb5672f791d0113af49c721df7c",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/회의록/2026-10-13_중간점검/2026-10-13_중간점검 원자료.md",
+      "bytes": 5312,
+      "sha256": "48123e394e34d685145f8fc5e786c710ab16698c16538beb7b0bc83ab01bd039",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/회의록/2026-10-13_중간점검/2026-10-13_중간점검 회의록.md",
+      "bytes": 16531,
+      "sha256": "3f26811869e0735efb7eb553a3e519b7a4446684833007b66858c30bea41c5f1",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/회의록/2026-10-13_중간점검/build.py",
+      "bytes": 12533,
+      "sha256": "d452affe2d7c194f67f8f1427086e2e2550e4680001c1febe89bb6a53b8669ba",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/회의록/2026-10-13_중간점검/extract.py",
+      "bytes": 5850,
+      "sha256": "dc95e0d4ba20e0dc579bc6ee81d0f0c3cb54a117b9059ac53f0220af9f3bb26d",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/회의록/2026-10-13_중간점검/extraction.json",
+      "bytes": 102515,
+      "sha256": "d88fcb23182d744e6bdafe2ec88efb6453051da667673f95d25320ee7b0bc8d9",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/회의록/2026-10-13_중간점검/manifest_before.sha256",
+      "bytes": 64,
+      "sha256": "2ee925767e3ef19c81df8b7b840d93f22f399d3ad47174282bb5ad73ed61b63b",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/회의록/2026-10-13_중간점검/plan.json",
+      "bytes": 22428,
+      "sha256": "61093b1557b135e11aae1e3bcbad85f889b38dbdb01743cadc86171fa203d3c6",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/회의록/2026-10-13_중간점검/validation.json",
+      "bytes": 610,
+      "sha256": "6ad04bfaaac4c77193a2febdd0cfc469d7f5841d1bb463944b324167c7260042",
+      "git": "ignored"
+    },
+    {
+      "path": "99_Archive/회의록/2026-10-13_중간점검/verify.py",
+      "bytes": 9611,
+      "sha256": "2cca56fff4237de61bf2707b353d7d08245361bfe0d12c4be8b421e5a89d53cf",
+      "git": "ignored"
+    },
+    {
+      "path": "AGENTS.md",
+      "bytes": 7006,
+      "sha256": "28b8d4759205097bcca171236dc591e8fcd530ff237b3fb767f6d608a8cf74b4",
+      "git": "tracked"
+    }
+  ],
+  "latest_sources": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "f82a0434a1d80912580cb258d925b481343d8e3a8165089509d7463d22ad7b2d",
+      "snapshot": "99_Archive/위키 구조 전환 백업/20261104_164743/참고 규정/AGENTS.md"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "d92facd4400c8638221b50a0ee11899e539f4f9af88eb660bd70d05dff319553",
+      "snapshot": "99_Archive/위키 구조 전환 백업/20261104_164743/참고 규정/.gitignore"
+    },
+    {
+      "path": "00_시스템/01_규정/문서 형식.md",
+      "sha256": "975cd38ff0da12e965e40c26f8584c9d7f06b435f2c2909476f870ef916f02bb",
+      "snapshot": "99_Archive/위키 구조 전환 백업/20261104_164743/참고 규정/00_시스템/01_규정/문서 형식.md"
+    },
+    {
+      "path": "00_시스템/01_규정/번역 검수 규칙.md",
+      "sha256": "ca73724587afefd78090e69d31a267c024727232bb3e16c9111ae8818f93ec28",
+      "snapshot": "99_Archive/위키 구조 전환 백업/20261104_164743/참고 규정/00_시스템/01_규정/번역 검수 규칙.md"
+    },
+    {
+      "path": "00_시스템/01_규정/이미지 생성 규칙.md",
+      "sha256": "d280c12dce65cd1ac1530d69fdb37869cb275c206282f23610ab6d501452077a",
+      "snapshot": "99_Archive/위키 구조 전환 백업/20261104_164743/참고 규정/00_시스템/01_규정/이미지 생성 규칙.md"
+    },
+    {
+      "path": "00_시스템/01_규정/작성 규칙.md",
+      "sha256": "32e762660f34a889c166e5f09577cfa7796f558c7507963e3feeeb2a28a27511",
+      "snapshot": "99_Archive/위키 구조 전환 백업/20261104_164743/참고 규정/00_시스템/01_규정/작성 규칙.md"
+    },
+    {
+      "path": "00_시스템/01_규정/작업 절차.md",
+      "sha256": "9c3fdeaa4616aa13ec283782f1e4aa527f792c282b55ca8d9b1b488190e9109c",
+      "snapshot": "99_Archive/위키 구조 전환 백업/20261104_164743/참고 규정/00_시스템/01_규정/작업 절차.md"
+    },
+    {
+      "path": "00_시스템/01_규정/회의록 작성 규칙.md",
+      "sha256": "3c5ae8972bc7e8f10fc15c691b37694b17fa2d30259cb101439f7fe0cc596147",
+      "snapshot": "99_Archive/위키 구조 전환 백업/20261104_164743/참고 규정/00_시스템/01_규정/회의록 작성 규칙.md"
+    },
+    {
+      "path": "00_시스템/03_도구/heading_numbers.py",
+      "sha256": "305e104db3415f3f8b90b771f23396378beff24cd7a1075415503a9a4b6ca143",
+      "snapshot": "99_Archive/위키 구조 전환 백업/20261104_164743/참고 규정/00_시스템/03_도구/heading_numbers.py"
+    },
+    {
+      "path": "00_시스템/03_도구/image_record_check.py",
+      "sha256": "522d697f0cd1661695246523fb6434377ad041ba38f5af16fb8ccd5347fc295d",
+      "snapshot": "99_Archive/위키 구조 전환 백업/20261104_164743/참고 규정/00_시스템/03_도구/image_record_check.py"
+    },
+    {
+      "path": "00_시스템/03_도구/test_heading_numbers.py",
+      "sha256": "9d5f15930dbdb644b071f273f1f9cc61e00e5397c904266cb254f27ba1571a71",
+      "snapshot": "99_Archive/위키 구조 전환 백업/20261104_164743/참고 규정/00_시스템/03_도구/test_heading_numbers.py"
+    }
+  ],
+  "verified": 290,
+  "restore_sample": "01_References/01_CaveBall/원문 코드/CaveBall.cs"
+}

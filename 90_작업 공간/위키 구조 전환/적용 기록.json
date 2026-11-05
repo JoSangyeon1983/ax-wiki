@@ -1,0 +1,38 @@
+{
+  "applied_at": "2026-11-04T17:03:49+09:00",
+  "moves": [
+    {
+      "old": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\99_Archive",
+      "new": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\99_보관소"
+    },
+    {
+      "old": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\00_System",
+      "new": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\99_보관소\\종료 작업\\구조 전환 전 활성 폴더\\00_System"
+    },
+    {
+      "old": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\01_References",
+      "new": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\99_보관소\\종료 작업\\구조 전환 전 활성 폴더\\01_References"
+    },
+    {
+      "old": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\02_Syntheses",
+      "new": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\99_보관소\\종료 작업\\구조 전환 전 활성 폴더\\02_Syntheses"
+    },
+    {
+      "old": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\03_Articles",
+      "new": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\99_보관소\\종료 작업\\구조 전환 전 활성 폴더\\03_Articles"
+    },
+    {
+      "old": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\04_Assets",
+      "new": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\99_보관소\\종료 작업\\구조 전환 전 활성 폴더\\04_Assets"
+    },
+    {
+      "old": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\05_Prototypes",
+      "new": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\99_보관소\\종료 작업\\구조 전환 전 활성 폴더\\05_Prototypes"
+    },
+    {
+      "old": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\90_Workspace",
+      "new": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\90_작업 공간"
+    }
+  ],
+  "files_verified": 197
+}

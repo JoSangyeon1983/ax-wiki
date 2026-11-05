@@ -1,0 +1,129 @@
+{
+  "source_project": "D:/Sangyeon/02_Task/2026/03_KOCCA/AX/02_Client/01_CaveBall",
+  "commit": "be1ad97d58376c5f3844af3d199715fca53bb98b",
+  "date": "2026-11-05",
+  "files": [
+    {
+      "path": "Assets/Scripts/Constants/CommonConstants.cs",
+      "sha256": "2f0272ec0bdd44e2510df56c330da71867bc24cef5a961141be16688cac55100",
+      "bytes": 664
+    },
+    {
+      "path": "Assets/StreamingAssets/Setting/GlobalSettings.json",
+      "sha256": "c6050bb1908dd07f0257a418aa80df9078a42e9743dd4ff1acfb3a74aee77bee",
+      "bytes": 129
+    },
+    {
+      "path": "Assets/Scripts/CaveBall/CaveBallContent.cs",
+      "sha256": "2b53c90711c433b0815ce29ccda6f8295f866405e82ac390b1c118b6d60bb503",
+      "bytes": 2450
+    },
+    {
+      "path": "Assets/Scripts/CaveBall/CaveBallDisplayRig.cs",
+      "sha256": "ca18ff0110ef4b8ddde76280f42dbaaf062b471d011fc14835d7b87a96b9281b",
+      "bytes": 8420
+    },
+    {
+      "path": "Assets/Scripts/CaveBall/CaveBallGameManager.cs",
+      "sha256": "16dca9ac1a5ace3b0d2b44159abcb051c545038a049d50b04f5ad28c72738b6a",
+      "bytes": 8280
+    },
+    {
+      "path": "Assets/Scripts/CaveBall/CaveBallMLInteraction.cs",
+      "sha256": "0c5c79a8a23d4ad233acae152c25759a004342d23c8041a9dcf4e65dc370caec",
+      "bytes": 12237
+    },
+    {
+      "path": "Assets/Scripts/CaveBall/Core/CaveBallRules.cs",
+      "sha256": "276a9f5174301ad4abb1ddceeee9e7493727f9a410f90aba5ba74be176bc5cef",
+      "bytes": 2527
+    },
+    {
+      "path": "Assets/Scripts/CaveBall/CaveBall.cs",
+      "sha256": "9bd308f4511d57c61e55c4c1ad006b7bc04e79ca42740bc06fd5eb4a24f6f9a3",
+      "bytes": 9510
+    },
+    {
+      "path": "Assets/Scripts/CaveBall/CaveBallFloorInteraction.cs",
+      "sha256": "eca64efbfc0162fc80777a91432a225c9a2399454265b818b38cc34b776ea7a6",
+      "bytes": 10355
+    },
+    {
+      "path": "Assets/Scripts/CaveBall/CaveBallSilhouetteView.cs",
+      "sha256": "78c00cd178ffc0d730f058c24e11c19c157e86c5f304c49d119864d81f026841",
+      "bytes": 3492
+    },
+    {
+      "path": "Assets/StreamingAssets/Setting/CaveballSetting.json",
+      "sha256": "70466dfc89f757305eb577feafb844c9e2ea9e4137a467dd328547523f3c43a8",
+      "bytes": 1714
+    },
+    {
+      "path": "Assets/Scripts/CaveAction/CaveActionContent.cs",
+      "sha256": "c6d3b089f6f0d2d8bf6a73729a491e0e6ffe059279d0f855847da50b6030fc23",
+      "bytes": 2481
+    },
+    {
+      "path": "Assets/Scripts/CaveAction/CaveActionDisplayRig.cs",
+      "sha256": "fb246bbea18d73e8581bad1820ae8424fffeee5a004aa821d5c032d9011fb6b3",
+      "bytes": 6469
+    },
+    {
+      "path": "Assets/Scripts/CaveAction/CaveActionGameManager.cs",
+      "sha256": "379d574cfa7fc80541792db10408a5854db2b3e433e823ac2deac7f4239e62bd",
+      "bytes": 81564
+    },
+    {
+      "path": "Assets/Scripts/CaveBall/Core/CaveActionRules.cs",
+      "sha256": "d042ae616b40b3f5596ae353ff288359a83265716c0712442f22e4965aa8d3a7",
+      "bytes": 3977
+    },
+    {
+      "path": "Assets/Scripts/CaveAction/CaveActionAsteroidController.cs",
+      "sha256": "57a3207657a62f23c799f2fbea3c84c5b281fe338178563cd42e38d18fcb058a",
+      "bytes": 25056
+    },
+    {
+      "path": "Assets/Scripts/CaveAction/CaveActionSilhouetteController.cs",
+      "sha256": "80052e08de3de1b6c6e8cdf50871720250a767e4fcb6f87915428b378dbd6e33",
+      "bytes": 11621
+    },
+    {
+      "path": "Assets/StreamingAssets/Setting/CaveActionSettings.json",
+      "sha256": "5f9d29606873ff1c50144dd1d5276a7b422fbb4731c9ceab1cf24033686f68b3",
+      "bytes": 3102
+    },
+    {
+      "path": ".gitmodules",
+      "sha256": "ccc6c8e6f99cdf9b29e434ded8e195d4731b4003c292d67b8543c8763085f1e0",
+      "bytes": 1053
+    }
+  ],
+  "submodules": [
+    {
+      "path": "Assets/Module/submodule_edgeblending",
+      "local_file_count": 0
+    },
+    {
+      "path": "Assets/Module/submodule_videodevicemodulelegacy",
+      "local_file_count": 0
+    },
+    {
+      "path": "Assets/Module/SubModule_RTPoseSeg",
+      "local_file_count": 0
+    },
+    {
+      "path": "Assets/Module/SubModule_HumanoidPoseControl",
+      "local_file_count": 0
+    },
+    {
+      "path": "Assets/Module/AwesomeMLKit-Extension",
+      "local_file_count": 0
+    },
+    {
+      "path": "Assets/Module/submodule_oscreceiver",
+      "local_file_count": 0
+    }
+  ],
+  "verification": "Listed source and snapshot byte hashes match. Unity execution was not performed."
+}

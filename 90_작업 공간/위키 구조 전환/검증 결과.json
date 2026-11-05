@@ -1,0 +1,166 @@
+{
+  "root": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\90_Workspace\\위키 구조 전환\\검증용 위키",
+  "mapped_files": 188,
+  "raw_files_unchanged": 138,
+  "tools_from_frozen_snapshot": 3,
+  "png_decoded": 28,
+  "document_states_checked": 18,
+  "bodies_preserved": 18,
+  "links_checked": 461,
+  "existing_link_failures": [
+    {
+      "source": "90_작업 공간/발표 피드백/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmp58A7.jpg"
+    },
+    {
+      "source": "90_작업 공간/발표 피드백/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmp59B2.jpg"
+    },
+    {
+      "source": "90_작업 공간/발표 피드백/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmp5ABC.jpg"
+    },
+    {
+      "source": "90_작업 공간/발표 피드백/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmp5BC7.jpg"
+    },
+    {
+      "source": "90_작업 공간/발표 피드백/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmp5CE1.jpg"
+    },
+    {
+      "source": "90_작업 공간/발표 피드백/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmp5DEC.jpg"
+    },
+    {
+      "source": "90_작업 공간/발표 피드백/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmp5EB8.jpg"
+    },
+    {
+      "source": "90_작업 공간/발표 피드백/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmp5F94.jpg"
+    },
+    {
+      "source": "90_작업 공간/발표 피드백/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmp6031.jpg"
+    },
+    {
+      "source": "90_작업 공간/발표 피드백/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmp613B.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/2026-10-27 교체본/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmp58A7.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/2026-10-27 교체본/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmp59B2.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/2026-10-27 교체본/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmp5ABC.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/2026-10-27 교체본/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmp5BC7.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/2026-10-27 교체본/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmp5CE1.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/2026-10-27 교체본/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmp5DEC.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/2026-10-27 교체본/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmp5EB8.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/2026-10-27 교체본/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmp5F94.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/2026-10-27 교체본/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmp6031.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/2026-10-27 교체본/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmp613B.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmpBB76.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmpBBD5.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmpBC14.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmpBC73.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmpBCD2.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmpBD21.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmpBD70.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmpBDB0.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmpBDFF.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmpBE5E.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmpBEAD.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmpBEEC.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmpBFE7.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmpC027.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmpC076.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmpC0D5.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmpC133.jpg"
+    },
+    {
+      "source": "90_작업 공간/피드백 어투 퇴고/피드백.md",
+      "target": "file:///C:\\Users\\cellbig\\AppData\\Local\\Temp\\tmpC182.jpg"
+    }
+  ],
+  "new_link_failures": [],
+  "errors": []
+}

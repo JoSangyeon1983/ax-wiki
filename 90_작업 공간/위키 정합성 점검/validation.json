@@ -1,0 +1,135 @@
+{
+  "stage": "pass",
+  "heading_output": "SKIP_LOG 00_System\\02_Logs\\2026-10.md\nSKIP_LOG 00_System\\02_Logs\\log.md\nOK: 20개 문서의 헤더 번호·계층·인식 가능한 헤더 링크 검사 완료.\n",
+  "internal_links": {
+    "counts": {
+      "links": 220,
+      "markdown_documents": 22
+    },
+    "errors": []
+  },
+  "metadata_and_sources": {
+    "checked_documents": 21,
+    "errors": [],
+    "known_history_exception": [
+      {
+        "path": "00_System/02_Logs/log.md",
+        "issue": "historical log lacks frontmatter; reported as R11"
+      }
+    ]
+  },
+  "original_timetable": {
+    "rows": 32,
+    "monthly_cells": 384,
+    "matched": true
+  },
+  "image_files": {
+    "png_files": 28,
+    "chunk_crc_and_end_marker": "pass",
+    "visual_review_files": 3
+  },
+  "code_snapshot": {
+    "code_files": 17,
+    "original_and_snapshot_hashes": "pass"
+  },
+  "cagr_from_image_endpoints_percent": 21.687251813539188,
+  "stage_hashes": {
+    "AGENTS.md": "52ebeaa510758dcc2ad66113d723e31053f0c75977dfe89001d376ed8b75e184",
+    "02_Syntheses/CaveBall 계층형 플로우.md": "352946ecc6b535f604056610d4704e416406923c4510b6ab13367daca19a2400",
+    "02_Syntheses/CaveBall 클라이언트 코드 구조 분석.md": "46f15b2adb9de117822d6195e5c9338b766201b3a132165d5c0b0890818e9acf",
+    "90_Workspace/CaveSuperBall/Cave Super Ball 개요 근거 추출.md": "55b6734c79bb2c6724e977deb98e3081275b5d41ba43b9472af470aec26123e6",
+    "90_Workspace/위키 정합성 점검/위키 정합성 점검 보고서.md": "c9573e9d1cabea7a3866c79b720eaadd9a4ca45483103d348e728f4ae3da2d47",
+    "04_Assets/01_Images/이관 이미지 관리 기록.md": "7cef01a5dd544799c2917de393a39b6fe829a15c676d318aae98196404817ee3",
+    "04_Assets/01_Images/ref1_images/fig01_개요도.png": "806746ca8f53ebc54f2e4161f27ff7f9329f282bcb282815122a6e06bcc06ed0",
+    "04_Assets/01_Images/ref1_images/fig02_교육과정_개념도.png": "ea3744ca8c09116c2524fd651d2dd6c41c23f1821f051533f1865b3ac2f7757b",
+    "04_Assets/01_Images/ref1_images/fig03_세계_실감미디어_시장.png": "12ff47a00833dfb7642fc91af1ff4eac3dee681b0b1dfa13eaa9f7b7fe048c68",
+    "04_Assets/01_Images/ref1_images/fig04_연구개발_기술정리.png": "b65c9e99000ea3dc9a5de48b50d035be0abafdd5c48d7d0c1fc52e2e04bed814",
+    "04_Assets/01_Images/ref1_images/fig05_미디어월_구축.png": "15d57d2a03e9ce3f13412eabba6a9731bbe1bda056abc37ac341df2115711cd0",
+    "04_Assets/01_Images/ref1_images/fig06_곡면_미디어월.png": "f7bd16a8321e395919949ac0e106112dd044ed62532ea1d69e9ac72554889047",
+    "04_Assets/01_Images/ref5_images/image1.png": "c60c18b8bc03c232665a59316d2e4955e3b4bba979eebd26bb95f817f4132150",
+    "04_Assets/01_Images/ref5_images/image2.png": "ef7b4c540c7e32cab476a3a6ec09f01bbc8bb3c85627de5cbcc55f420472d0c2",
+    "04_Assets/01_Images/ref5_images/image3.png": "426deace4a04c71076f607ccafc92b21f1f41dc57e8584b8b47c0662805d6986",
+    "04_Assets/01_Images/ref5_images/image4.png": "e245e65fc3a5a9489729ba09b2d722d382d3d0883429ff65f11bacf0986af499",
+    "04_Assets/01_Images/ref5_images/image5.png": "9c01007ee2aec381c72861e9dbdaa6aa3336510bcdeaa7ee50732ef9be63e1ff",
+    "04_Assets/01_Images/ref5_images/image6.png": "11301643e45a288259d5b4b8d733c4f04f4e1741917904cd103664766acf9554",
+    "04_Assets/01_Images/ref5_images/image7.png": "0ecb67b0fad630d690516096f2528a0ce62c39f8e461b6d1c975cd9d16f7da63",
+    "04_Assets/01_Images/ref5_images/image8.png": "79e97993d0e56d8b5f8233a3efd36a2d78b1e037a5cff027e2ace65442b90296",
+    "04_Assets/01_Images/예시 이미지/cave.png": "28f0e5d577a9195211fdd2c7f27bf77ea0e6bad5356c8f839b3d6879d1d55908",
+    "04_Assets/01_Images/예시 이미지/CaveBall P-FLOOR 바닥 입력 처리.png": "12d1c5f3e6c88f5c79dedb651d45f13d72647a803943686c9dbe70a344ec37ac",
+    "04_Assets/01_Images/예시 이미지/CaveBall P-HAND 손 입력 처리.png": "76b84e60f4b362e1e167b65b8e12928298ca34da0acf9737587ce50735408fdd",
+    "04_Assets/01_Images/예시 이미지/CaveBall P-INIT 콘텐츠 준비.png": "5fc491cfc073d4d897163e283e1facbb36a4646969fabc68f7914f94cb6eaf80",
+    "04_Assets/01_Images/예시 이미지/CaveBall 코드 기반 인터랙션 구성도.png": "bf0e98d40df6eb4f8d4ef0dca962bf77c41e6f8d362a47ef461bed151153a7d7",
+    "04_Assets/01_Images/예시 이미지/CaveBall 핵심 게임 플로우.png": "e30347a4b17632c44bfc2c8e9d205b439184d1022d490a737f042e797aec9593",
+    "04_Assets/01_Images/예시 이미지/cave_floor_plan.png": "6187b13955401b5ae062b8c50123088b0964aabd441f0a7a9bdf6f153e15541a",
+    "04_Assets/01_Images/예시 이미지/sprite_floor.png": "f93248e83300fdb4e5aa002093bf3d16897ef1e6f581e4f9a25bce23561be412",
+    "04_Assets/01_Images/예시 이미지/sprite_front.png": "8946bb84f13b186d47f8f7ea831a18f36107e986234763ccbe60c97e3c83beab",
+    "04_Assets/01_Images/예시 이미지/sprite_side_blue.png": "7f251fadbfe383e2419c856b08fcecef17c926f92f24631cd1f7a27a0d74f217",
+    "04_Assets/01_Images/예시 이미지/sprite_side_red.png": "a04b642787b67963b0aa8bdeba26b98f9ab0a845b04eda7c783e0347736292e0",
+    "04_Assets/01_Images/예시 이미지/케이브구성.png": "5165f05a3ba8221d0789e67307e3e24c0308e6535d80bd8b73afdd9224774e3a",
+    "04_Assets/01_Images/예시 이미지/플레이_예시.png": "768a8259ca03886bce54f12fc295930e72016e6d7e33b80a0da27ce4e5e60340",
+    "04_Assets/01_Images/예시 이미지/핵심플로우.png": "996f2815920c5893dcdd1026be76f0c49a04e40a51033cee8a159c9db1efe26e",
+    "03_Articles/기획서/Cave Super Ball 기획서 초안.md": "990af2f891091219d6a87fee9c3b94b897c39bcb08afc31f7a267a5d04f94645",
+    "03_Articles/기획서/Cave Super Ball 기획서.md": "f9aa8eb33d75a0500f12da7d8ba33439f393a392e40f69796affccf1ea0793bd",
+    "01_References/01_CaveBall/CaveBall 클라이언트 코드 원자료.md": "c1d4fc065068b5a16e0059e2155af8e744681fd547a4e5f338703d698e6aa159",
+    "01_References/90_회의록/2026-07-15 컨소시엄 킥오프 회의록.md": "106486c5073764bca25321a47df1af72a321c9affa043f8be981d57b65e1dffc",
+    "01_References/01_CaveBall/원문 코드/CaveBall.cs": "9bd308f4511d57c61e55c4c1ad006b7bc04e79ca42740bc06fd5eb4a24f6f9a3",
+    "01_References/01_CaveBall/원문 코드/CaveBallBrick.cs": "987277fa5617b58abaf5a66501cb9c5335ff677d3656555d05f7768ab923cd18",
+    "01_References/01_CaveBall/원문 코드/CaveBallCameraShake.cs": "8bd13840ab984b0f3eb13379e8f81180c16cb7f448e493e599bc137e3fbbf668",
+    "01_References/01_CaveBall/원문 코드/CaveBallContent.cs": "2b53c90711c433b0815ce29ccda6f8295f866405e82ac390b1c118b6d60bb503",
+    "01_References/01_CaveBall/원문 코드/CaveBallDialog.cs": "3528755ac7b34557f3d23c251934b836079b6a72ec97ce66079f0abe81a6c169",
+    "01_References/01_CaveBall/원문 코드/CaveBallDisplayRig.cs": "ca18ff0110ef4b8ddde76280f42dbaaf062b471d011fc14835d7b87a96b9281b",
+    "01_References/01_CaveBall/원문 코드/CaveBallEffectPool.cs": "7f2110fada16f478b02da107c79491c0d2614470cc0ff27e17b34908b9b5f3f7",
+    "01_References/01_CaveBall/원문 코드/CaveBallFloorInteraction.cs": "eca64efbfc0162fc80777a91432a225c9a2399454265b818b38cc34b776ea7a6",
+    "01_References/01_CaveBall/원문 코드/CaveBallGameManager.cs": "16dca9ac1a5ace3b0d2b44159abcb051c545038a049d50b04f5ad28c72738b6a",
+    "01_References/01_CaveBall/원문 코드/CaveBallMLInteraction.cs": "40529d6deb51f1e4a07f8e53c146181f4b48091ed994f57895e980994bd6f9b1",
+    "01_References/01_CaveBall/원문 코드/CaveballScene.cs": "5db77fdd40b894028a0d6a29e859828f2c1e1db6b540b45936afeb42a5969047",
+    "01_References/01_CaveBall/원문 코드/CaveBallScoreboard.cs": "a868e8d02e7795aa2dd7f0fe50bd9ff3483cc56f277a1be5b73ca83864c147fd",
+    "01_References/01_CaveBall/원문 코드/CaveBallSetting.cs": "18316c22eb277688aea26afc5cbbeb70e1bb06ee822689e2d52af3ba410730db",
+    "01_References/01_CaveBall/원문 코드/CaveBallSilhouetteView.cs": "78c00cd178ffc0d730f058c24e11c19c157e86c5f304c49d119864d81f026841",
+    "01_References/01_CaveBall/원문 코드/PrimaryUserPoseSelector.cs": "cc8988bac5809b2cdfffdf0ae71af8ca24815960658136d4d738c9f68a0bde32",
+    "01_References/01_CaveBall/원문 코드/Core/CaveBall.Core.asmdef": "be5659209cea00517d4d44b5ac9c9e5e710a012b0f76bbbd3ba8d365ec4cf7d1",
+    "01_References/01_CaveBall/원문 코드/Core/CaveBallRules.cs": "276a9f5174301ad4abb1ddceeee9e7493727f9a410f90aba5ba74be176bc5cef",
+    "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md": "ead93677e615f90e44bba71b2d85dcd42f0d1f53e52d34734256c415739906bf",
+    "01_References/00_프로젝트/02_연구개발계획서/2_연구개발의 목표 및 내용.md": "7b86e894aa59535d6189efa779c9c3c75a0e03b191c6f364b09c502e3bc0f2b3",
+    "01_References/00_프로젝트/02_연구개발계획서/3_연구개발의 추진전략과 방법 및 추진일정.md": "b63a1c93c40b88e7e62e99a2da62d327333a0bff01eb0332f4ee72d7509ecfe9",
+    "01_References/00_프로젝트/02_연구개발계획서/4_마일스톤 체계 및 수행계획.md": "2202f930537c081b6df088d52092ab3c7813833792d7a707264a93d35f4a6454",
+    "01_References/00_프로젝트/02_연구개발계획서/5_연구개발성과의 활용방안 및 기대효과.md": "2654938430c695c0606a13355265bc5d0678ce36152cef60959a64810ab8d161",
+    "00_System/00_Index/Index.md": "248a0b769e820f9f431b95e42bc161ea24cf4731e33474ef753b872f42684da8",
+    "00_System/01_Rules/문서 작성 규칙.md": "717763df1c348131710b213bb3d949fef1388aec498faaad11787e1b905b2775",
+    "00_System/01_Rules/문서 형식.md": "81028a0346c9571b9ef4b005259d2ed58e299c81855c8cea1118660cd6c6805b",
+    "00_System/01_Rules/위키 작업 절차.md": "3e8b900a9a535e1567ec65c6dc1bf6793b6f451b823b88ee28571d6822f9f5d3",
+    "00_System/01_Rules/이미지 생성 규칙.md": "3dd59f226c792112b4644c7bc5800a058b6fc2bac24285f524e2b5e4b572e737",
+    "00_System/02_Logs/2026-10.md": "88bfe8396b2b24dbb5515f4b019159de3e9a5e8ced375d6efc617214cf434ac8",
+    "00_System/02_Logs/log.md": "dd6c9da433bff2137a781fc33efc805e5db2e6642da1f4da20d63c5d8d3dd2be",
+    "00_System/03_Tools/heading_numbers.py": "86d6ad9667a8c7d013c9e4d521a0a1c2adc4cfe13577cb14fb06094495d9588d",
+    "00_System/03_Tools/image_record_check.py": "37f9eca02126a786f3a3c41bc7c8d5b1de9119cf497ee961fbdbbf50672313f5",
+    "00_System/03_Tools/test_heading_numbers.py": "322d8ae58b7c4812b9a25830eb12a9881c033c13c8288cf4dc3b02535d60a201"
+  },
+  "report_seed_sha256": "e8f6548ed9fdba5bcf83fca4fa49530705ff94fa5032852a2b02014d2662817e",
+  "final": {
+    "status": "pass",
+    "heading_output": "SKIP_LOG 00_System\\02_Logs\\2026-10.md\nSKIP_LOG 00_System\\02_Logs\\log.md\nOK: 20개 문서의 헤더 번호·계층·인식 가능한 헤더 링크 검사 완료.\n",
+    "internal_links": {
+      "counts": {
+        "links": 220,
+        "markdown_documents": 22
+      },
+      "errors": []
+    },
+    "metadata_and_sources": {
+      "checked_documents": 21,
+      "errors": [],
+      "known_history_exception": [
+        {
+          "path": "00_System/02_Logs/log.md",
+          "issue": "historical log lacks frontmatter; reported as R11"
+        }
+      ]
+    },
+    "code_snapshot": {
+      "code_files": 17,
+      "original_and_snapshot_hashes": "pass"
+    },
+    "changed_files": 38
+  }
+}

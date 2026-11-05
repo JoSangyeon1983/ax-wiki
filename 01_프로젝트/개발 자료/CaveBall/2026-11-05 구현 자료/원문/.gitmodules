@@ -1,0 +1,18 @@
+[submodule "Assets/Module/submodule_edgeblending"]
+	path = Assets/Module/submodule_edgeblending
+	url = http://git.cellbig.net:34001/LiveContentDev/etc/submodule_edgeblending.git
+[submodule "Assets/Module/submodule_videodevicemodulelegacy"]
+	path = Assets/Module/submodule_videodevicemodulelegacy
+	url = http://git.cellbig.net:34001/rnd/submodule_videodevicemodulelegacy.git
+[submodule "Assets/Module/SubModule_RTPoseSeg"]
+	path = Assets/Module/SubModule_RTPoseSeg
+	url = http://git.cellbig.net:34001/rnd/SubModule_RTPoseSeg.git
+[submodule "Assets/Module/SubModule_HumanoidPoseControl"]
+	path = Assets/Module/SubModule_HumanoidPoseControl
+	url = http://git.cellbig.net:34001/rnd/SubModule_HumanoidPoseControl.git
+[submodule "Assets/Module/AwesomeMLKit-Extension"]
+	path = Assets/Module/AwesomeMLKit-Extension
+	url = http://git.cellbig.net:34001/rnd/AwesomeMLKit-Extension.git
+[submodule "Assets/Module/submodule_oscreceiver"]
+	path = Assets/Module/submodule_oscreceiver
+	url = http://git.cellbig.net:34001/rnd/submodule_oscreceiver.git

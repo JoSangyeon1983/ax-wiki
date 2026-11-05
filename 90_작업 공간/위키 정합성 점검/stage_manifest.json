@@ -1,0 +1,450 @@
+{
+  "removed_missing_entity_links": [
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "KOCCA"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "실감미디어"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "실감AX융합학과"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "AX"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "PBL"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "셀빅"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "월러스코"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "생성형 AI"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "XR"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "융합콘텐츠"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "햅틱"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "실감AX융합대학원"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "PBL"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "마이크로디그리"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "비교과"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "LiDAR"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "XR"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "MR"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "햅틱"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "생성형 AI"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "VR"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "VR"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "AR"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "실감미디어"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "디지털 트윈"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "미디어월"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "모션캡처"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "경희대학교 산학협력단"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "우탁"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "메타버스"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "전석희"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "이상민"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "이신영"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "김정현"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "이원구"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "이원희"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "오승재"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "셀빅"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "월러스코"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "디자인랩"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "target": "미디어월"
+    },
+    {
+      "path": "01_References/90_회의록/2026-07-15 컨소시엄 킥오프 회의록.md",
+      "target": "셀빅"
+    },
+    {
+      "path": "01_References/90_회의록/2026-07-15 컨소시엄 킥오프 회의록.md",
+      "target": "월러스코 디자인랩"
+    },
+    {
+      "path": "01_References/90_회의록/2026-07-15 컨소시엄 킥오프 회의록.md",
+      "target": "셀빅"
+    },
+    {
+      "path": "01_References/90_회의록/2026-07-15 컨소시엄 킥오프 회의록.md",
+      "target": "월러스코 디자인랩"
+    },
+    {
+      "path": "01_References/90_회의록/2026-07-15 컨소시엄 킥오프 회의록.md",
+      "target": "로블록스"
+    }
+  ],
+  "code": [
+    {
+      "file": "CaveBall.cs",
+      "sha256": "9bd308f4511d57c61e55c4c1ad006b7bc04e79ca42740bc06fd5eb4a24f6f9a3"
+    },
+    {
+      "file": "CaveBallBrick.cs",
+      "sha256": "987277fa5617b58abaf5a66501cb9c5335ff677d3656555d05f7768ab923cd18"
+    },
+    {
+      "file": "CaveBallCameraShake.cs",
+      "sha256": "8bd13840ab984b0f3eb13379e8f81180c16cb7f448e493e599bc137e3fbbf668"
+    },
+    {
+      "file": "CaveBallContent.cs",
+      "sha256": "2b53c90711c433b0815ce29ccda6f8295f866405e82ac390b1c118b6d60bb503"
+    },
+    {
+      "file": "CaveBallDialog.cs",
+      "sha256": "3528755ac7b34557f3d23c251934b836079b6a72ec97ce66079f0abe81a6c169"
+    },
+    {
+      "file": "CaveBallDisplayRig.cs",
+      "sha256": "ca18ff0110ef4b8ddde76280f42dbaaf062b471d011fc14835d7b87a96b9281b"
+    },
+    {
+      "file": "CaveBallEffectPool.cs",
+      "sha256": "7f2110fada16f478b02da107c79491c0d2614470cc0ff27e17b34908b9b5f3f7"
+    },
+    {
+      "file": "CaveBallFloorInteraction.cs",
+      "sha256": "eca64efbfc0162fc80777a91432a225c9a2399454265b818b38cc34b776ea7a6"
+    },
+    {
+      "file": "CaveBallGameManager.cs",
+      "sha256": "16dca9ac1a5ace3b0d2b44159abcb051c545038a049d50b04f5ad28c72738b6a"
+    },
+    {
+      "file": "CaveBallMLInteraction.cs",
+      "sha256": "40529d6deb51f1e4a07f8e53c146181f4b48091ed994f57895e980994bd6f9b1"
+    },
+    {
+      "file": "CaveballScene.cs",
+      "sha256": "5db77fdd40b894028a0d6a29e859828f2c1e1db6b540b45936afeb42a5969047"
+    },
+    {
+      "file": "CaveBallScoreboard.cs",
+      "sha256": "a868e8d02e7795aa2dd7f0fe50bd9ff3483cc56f277a1be5b73ca83864c147fd"
+    },
+    {
+      "file": "CaveBallSetting.cs",
+      "sha256": "18316c22eb277688aea26afc5cbbeb70e1bb06ee822689e2d52af3ba410730db"
+    },
+    {
+      "file": "CaveBallSilhouetteView.cs",
+      "sha256": "78c00cd178ffc0d730f058c24e11c19c157e86c5f304c49d119864d81f026841"
+    },
+    {
+      "file": "Core/CaveBall.Core.asmdef",
+      "sha256": "be5659209cea00517d4d44b5ac9c9e5e710a012b0f76bbbd3ba8d365ec4cf7d1"
+    },
+    {
+      "file": "Core/CaveBallRules.cs",
+      "sha256": "276a9f5174301ad4abb1ddceeee9e7493727f9a410f90aba5ba74be176bc5cef"
+    },
+    {
+      "file": "PrimaryUserPoseSelector.cs",
+      "sha256": "cc8988bac5809b2cdfffdf0ae71af8ca24815960658136d4d738c9f68a0bde32"
+    }
+  ],
+  "images": [
+    {
+      "path": "04_Assets/01_Images/ref1_images/fig01_개요도.png",
+      "width": 2480,
+      "height": 1900,
+      "sha256": "806746ca8f53ebc54f2e4161f27ff7f9329f282bcb282815122a6e06bcc06ed0"
+    },
+    {
+      "path": "04_Assets/01_Images/ref1_images/fig02_교육과정_개념도.png",
+      "width": 3005,
+      "height": 975,
+      "sha256": "ea3744ca8c09116c2524fd651d2dd6c41c23f1821f051533f1865b3ac2f7757b"
+    },
+    {
+      "path": "04_Assets/01_Images/ref1_images/fig03_세계_실감미디어_시장.png",
+      "width": 1024,
+      "height": 615,
+      "sha256": "12ff47a00833dfb7642fc91af1ff4eac3dee681b0b1dfa13eaa9f7b7fe048c68"
+    },
+    {
+      "path": "04_Assets/01_Images/ref1_images/fig04_연구개발_기술정리.png",
+      "width": 2656,
+      "height": 1920,
+      "sha256": "b65c9e99000ea3dc9a5de48b50d035be0abafdd5c48d7d0c1fc52e2e04bed814"
+    },
+    {
+      "path": "04_Assets/01_Images/ref1_images/fig05_미디어월_구축.png",
+      "width": 973,
+      "height": 567,
+      "sha256": "15d57d2a03e9ce3f13412eabba6a9731bbe1bda056abc37ac341df2115711cd0"
+    },
+    {
+      "path": "04_Assets/01_Images/ref1_images/fig06_곡면_미디어월.png",
+      "width": 843,
+      "height": 501,
+      "sha256": "f7bd16a8321e395919949ac0e106112dd044ed62532ea1d69e9ac72554889047"
+    },
+    {
+      "path": "04_Assets/01_Images/ref5_images/image1.png",
+      "width": 1600,
+      "height": 794,
+      "sha256": "c60c18b8bc03c232665a59316d2e4955e3b4bba979eebd26bb95f817f4132150"
+    },
+    {
+      "path": "04_Assets/01_Images/ref5_images/image2.png",
+      "width": 1114,
+      "height": 294,
+      "sha256": "ef7b4c540c7e32cab476a3a6ec09f01bbc8bb3c85627de5cbcc55f420472d0c2"
+    },
+    {
+      "path": "04_Assets/01_Images/ref5_images/image3.png",
+      "width": 1004,
+      "height": 220,
+      "sha256": "426deace4a04c71076f607ccafc92b21f1f41dc57e8584b8b47c0662805d6986"
+    },
+    {
+      "path": "04_Assets/01_Images/ref5_images/image4.png",
+      "width": 957,
+      "height": 201,
+      "sha256": "e245e65fc3a5a9489729ba09b2d722d382d3d0883429ff65f11bacf0986af499"
+    },
+    {
+      "path": "04_Assets/01_Images/ref5_images/image5.png",
+      "width": 940,
+      "height": 507,
+      "sha256": "9c01007ee2aec381c72861e9dbdaa6aa3336510bcdeaa7ee50732ef9be63e1ff"
+    },
+    {
+      "path": "04_Assets/01_Images/ref5_images/image6.png",
+      "width": 945,
+      "height": 575,
+      "sha256": "11301643e45a288259d5b4b8d733c4f04f4e1741917904cd103664766acf9554"
+    },
+    {
+      "path": "04_Assets/01_Images/ref5_images/image7.png",
+      "width": 952,
+      "height": 546,
+      "sha256": "0ecb67b0fad630d690516096f2528a0ce62c39f8e461b6d1c975cd9d16f7da63"
+    },
+    {
+      "path": "04_Assets/01_Images/ref5_images/image8.png",
+      "width": 1030,
+      "height": 485,
+      "sha256": "79e97993d0e56d8b5f8233a3efd36a2d78b1e037a5cff027e2ace65442b90296"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/cave.png",
+      "width": 571,
+      "height": 318,
+      "sha256": "28f0e5d577a9195211fdd2c7f27bf77ea0e6bad5356c8f839b3d6879d1d55908"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/cave_floor_plan.png",
+      "width": 520,
+      "height": 382,
+      "sha256": "6187b13955401b5ae062b8c50123088b0964aabd441f0a7a9bdf6f153e15541a"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/CaveBall P-FLOOR 바닥 입력 처리.png",
+      "width": 1583,
+      "height": 3600,
+      "sha256": "12d1c5f3e6c88f5c79dedb651d45f13d72647a803943686c9dbe70a344ec37ac"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/CaveBall P-HAND 손 입력 처리.png",
+      "width": 900,
+      "height": 4096,
+      "sha256": "76b84e60f4b362e1e167b65b8e12928298ca34da0acf9737587ce50735408fdd"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/CaveBall P-INIT 콘텐츠 준비.png",
+      "width": 689,
+      "height": 4096,
+      "sha256": "5fc491cfc073d4d897163e283e1facbb36a4646969fabc68f7914f94cb6eaf80"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/CaveBall 코드 기반 인터랙션 구성도.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "bf0e98d40df6eb4f8d4ef0dca962bf77c41e6f8d362a47ef461bed151153a7d7"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/CaveBall 핵심 게임 플로우.png",
+      "width": 1970,
+      "height": 2904,
+      "sha256": "e30347a4b17632c44bfc2c8e9d205b439184d1022d490a737f042e797aec9593"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/sprite_floor.png",
+      "width": 1920,
+      "height": 1920,
+      "sha256": "f93248e83300fdb4e5aa002093bf3d16897ef1e6f581e4f9a25bce23561be412"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/sprite_front.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "8946bb84f13b186d47f8f7ea831a18f36107e986234763ccbe60c97e3c83beab"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/sprite_side_blue.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "7f251fadbfe383e2419c856b08fcecef17c926f92f24631cd1f7a27a0d74f217"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/sprite_side_red.png",
+      "width": 1920,
+      "height": 1080,
+      "sha256": "a04b642787b67963b0aa8bdeba26b98f9ab0a845b04eda7c783e0347736292e0"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/케이브구성.png",
+      "width": 1448,
+      "height": 1086,
+      "sha256": "5165f05a3ba8221d0789e67307e3e24c0308e6535d80bd8b73afdd9224774e3a"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/플레이_예시.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "768a8259ca03886bce54f12fc295930e72016e6d7e33b80a0da27ce4e5e60340"
+    },
+    {
+      "path": "04_Assets/01_Images/예시 이미지/핵심플로우.png",
+      "width": 4981,
+      "height": 8192,
+      "sha256": "996f2815920c5893dcdd1026be76f0c49a04e40a51033cee8a159c9db1efe26e"
+    }
+  ],
+  "paths": [
+    "00_System/00_Index/Index.md",
+    "00_System/01_Rules/문서 작성 규칙.md",
+    "00_System/01_Rules/문서 형식.md",
+    "00_System/01_Rules/위키 작업 절차.md",
+    "00_System/01_Rules/이미지 생성 규칙.md",
+    "00_System/02_Logs/log.md",
+    "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+    "01_References/00_프로젝트/02_연구개발계획서/2_연구개발의 목표 및 내용.md",
+    "01_References/00_프로젝트/02_연구개발계획서/3_연구개발의 추진전략과 방법 및 추진일정.md",
+    "01_References/00_프로젝트/02_연구개발계획서/4_마일스톤 체계 및 수행계획.md",
+    "01_References/00_프로젝트/02_연구개발계획서/5_연구개발성과의 활용방안 및 기대효과.md",
+    "01_References/90_회의록/2026-07-15 컨소시엄 킥오프 회의록.md",
+    "02_Syntheses/CaveBall 계층형 플로우.md",
+    "02_Syntheses/CaveBall 클라이언트 코드 구조 분석.md",
+    "03_Articles/기획서/Cave Super Ball 기획서 초안.md",
+    "03_Articles/기획서/Cave Super Ball 기획서.md",
+    "90_Workspace/CaveSuperBall/Cave Super Ball 개요 근거 추출.md",
+    "AGENTS.md",
+    "01_References/01_CaveBall/CaveBall 클라이언트 코드 원자료.md",
+    "04_Assets/01_Images/이관 이미지 관리 기록.md"
+  ]
+}

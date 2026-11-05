@@ -1,0 +1,72 @@
+{
+    "DebugMode": true,
+    "LeftDisplay": 0,
+    "FrontDisplay": 1,
+    "RightDisplay": 2,
+    "FloorDisplay": 3,
+    "FloorBlendDisplays": [
+        4,
+        5
+    ],
+    "ArenaCenter": {
+        "x": 0.0,
+        "y": 9.75,
+        "z": 0.0
+    },
+    "ArenaSize": {
+        "x": 20.0,
+        "y": 10.0,
+        "z": 20.0
+    },
+    "FrontInteractionDepth": 10.0,
+    "BallSpeed": 8.0,
+    "FloorBounceAcceleration": 1.2,
+    "MaximumBallSpeed": 18.0,
+    "MinimumAxisSpeed": 1.25,
+    "HandColorDuration": 5.0,
+    "RoundResetDelay": 3.0,
+    "BrickBreakPoolSize": 6,
+    "BrickBreakEffectDuration": 2.0,
+    "MirrorPoseX": false,
+    "InvertPoseY": false,
+    "MaxTrackedPeople": 4,
+    "MinimumWristConfidence": 0.35,
+    "HandContactViewportRadius": 0.1,
+    "PoseTimeout": 0.5,
+    "FloorSensorId": 0,
+    "OscMinimum": {
+        "x": 0.0,
+        "y": 0.0
+    },
+    "OscMaximum": {
+        "x": 1.0,
+        "y": 1.0
+    },
+    "InvertOscX": false,
+    "InvertOscY": false,
+    "FloorTouchViewportRadius": 0.05,
+    "FloorHeightTolerance": 10.0,
+    "FloorContactHoldDuration": 0.1,
+    "FloorTouchMergeDistance": 0.08,
+    "FloorBounceCooldown": 0.2,
+    "BrickCameraShakeDuration": 0.2,
+    "BrickCameraShakePosition": 0.12,
+    "BrickCameraShakeRotation": 1.5,
+    "ScoreboardFontSize": 110.0,
+    "ScoreboardTopOffset": 80.0,
+    "RedScoreColor": {
+        "r": 1.0,
+        "g": 0.12,
+        "b": 0.08,
+        "a": 1.0
+    },
+    "BlueScoreColor": {
+        "r": 0.05,
+        "g": 0.4,
+        "b": 1.0,
+        "a": 1.0
+    },
+    "ScoreShakeDuration": 0.28,
+    "ScoreShakeStrength": 35.0,
+    "ScorePunchScale": 0.25
+}

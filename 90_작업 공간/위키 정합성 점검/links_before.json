@@ -1,0 +1,698 @@
+{
+  "counts": {
+    "links": 196,
+    "markdown_documents": 18
+  },
+  "errors": [
+    {
+      "path": "90_Workspace/CaveSuperBall/Cave Super Ball 개요 근거 추출.md",
+      "line": 25,
+      "destination": "ref 1. 연구개발의 필요성#1-1. 연구개발의 개요",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "90_Workspace/CaveSuperBall/Cave Super Ball 개요 근거 추출.md",
+      "line": 26,
+      "destination": "ref 1. 연구개발의 필요성#1-3. 연구개발의 중요성(필요성)",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "90_Workspace/CaveSuperBall/Cave Super Ball 개요 근거 추출.md",
+      "line": 27,
+      "destination": "ref 2. 연구개발의 목표 및 내용#2-2. 단계별 연구개발 목표 및 내용",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "90_Workspace/CaveSuperBall/Cave Super Ball 개요 근거 추출.md",
+      "line": 28,
+      "destination": "ref 2. 연구개발의 목표 및 내용#2-2. 단계별 연구개발 목표 및 내용",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "90_Workspace/CaveSuperBall/Cave Super Ball 개요 근거 추출.md",
+      "line": 29,
+      "destination": "ref 2. 연구개발의 목표 및 내용#2-3. 연구개발의 창의성ㆍ혁신성 등",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "90_Workspace/CaveSuperBall/Cave Super Ball 개요 근거 추출.md",
+      "line": 30,
+      "destination": "ref 3. 연구개발의 추진전략과 방법 및 추진일정",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "90_Workspace/CaveSuperBall/Cave Super Ball 개요 근거 추출.md",
+      "line": 31,
+      "destination": "ref 3. 연구개발의 추진전략과 방법 및 추진일정#3-2. 연구개발 추진체계",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "90_Workspace/CaveSuperBall/Cave Super Ball 개요 근거 추출.md",
+      "line": 32,
+      "destination": "ref 4. 마일스톤 체계 및 수행계획#4-1. 1단계 (1차년도, 2026.04~2026.12)",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "90_Workspace/CaveSuperBall/Cave Super Ball 개요 근거 추출.md",
+      "line": 33,
+      "destination": "ref 5. 연구개발성과의 활용방안 및 기대효과#5-1. 연구개발성과의 활용방안",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "90_Workspace/CaveSuperBall/Cave Super Ball 개요 근거 추출.md",
+      "line": 34,
+      "destination": "ref 5. 연구개발성과의 활용방안 및 기대효과#5-1. 연구개발성과의 활용방안",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "03_Articles/기획서/Cave Super Ball 기획서 초안.md",
+      "line": 11,
+      "destination": "ref 4. 마일스톤 체계 및 수행계획#4-1. 1단계 (1차년도, 2026.04~2026.12)",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "03_Articles/기획서/Cave Super Ball 기획서 초안.md",
+      "line": 20,
+      "destination": "ref 2. 연구개발의 목표 및 내용#2-2. 단계별 연구개발 목표 및 내용",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "03_Articles/기획서/Cave Super Ball 기획서 초안.md",
+      "line": 20,
+      "destination": "ref 4. 마일스톤 체계 및 수행계획#4-1. 1단계 (1차년도, 2026.04~2026.12)",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "03_Articles/기획서/Cave Super Ball 기획서 초안.md",
+      "line": 21,
+      "destination": "ref 3. 연구개발의 추진전략과 방법 및 추진일정",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "03_Articles/기획서/Cave Super Ball 기획서 초안.md",
+      "line": 21,
+      "destination": "ref 4. 마일스톤 체계 및 수행계획#4-1. 1단계 (1차년도, 2026.04~2026.12)",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "03_Articles/기획서/Cave Super Ball 기획서 초안.md",
+      "line": 22,
+      "destination": "ref 1. 연구개발의 필요성#1-3. 연구개발의 중요성(필요성)",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "03_Articles/기획서/Cave Super Ball 기획서 초안.md",
+      "line": 23,
+      "destination": "ref 5. 연구개발성과의 활용방안 및 기대효과#5-1. 연구개발성과의 활용방안",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "03_Articles/기획서/Cave Super Ball 기획서.md",
+      "line": 18,
+      "destination": "../assets/예시 이미지/핵심플로우.png",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "03_Articles/기획서/Cave Super Ball 기획서.md",
+      "line": 22,
+      "destination": "../assets/예시 이미지/플레이_예시.png",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "03_Articles/기획서/Cave Super Ball 기획서.md",
+      "line": 100,
+      "destination": "../assets/예시 이미지/CaveBall 코드 기반 인터랙션 구성도.png",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "03_Articles/기획서/Cave Super Ball 기획서.md",
+      "line": 106,
+      "destination": "../assets/예시 이미지/sprite_front.png",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "03_Articles/기획서/Cave Super Ball 기획서.md",
+      "line": 112,
+      "destination": "../assets/예시 이미지/sprite_side_red.png",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "03_Articles/기획서/Cave Super Ball 기획서.md",
+      "line": 116,
+      "destination": "../assets/예시 이미지/sprite_side_blue.png",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "03_Articles/기획서/Cave Super Ball 기획서.md",
+      "line": 120,
+      "destination": "../assets/예시 이미지/sprite_floor.png",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/90_회의록/2026-07-15 컨소시엄 킥오프 회의록.md",
+      "line": 11,
+      "destination": "셀빅",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/90_회의록/2026-07-15 컨소시엄 킥오프 회의록.md",
+      "line": 11,
+      "destination": "월러스코 디자인랩",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/90_회의록/2026-07-15 컨소시엄 킥오프 회의록.md",
+      "line": 282,
+      "destination": "ref 2. 연구개발의 목표 및 내용",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/90_회의록/2026-07-15 컨소시엄 킥오프 회의록.md",
+      "line": 283,
+      "destination": "ref 3. 연구개발의 추진전략과 방법 및 추진일정",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/90_회의록/2026-07-15 컨소시엄 킥오프 회의록.md",
+      "line": 284,
+      "destination": "ref 4. 마일스톤 체계 및 수행계획",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/90_회의록/2026-07-15 컨소시엄 킥오프 회의록.md",
+      "line": 285,
+      "destination": "ref 5. 연구개발성과의 활용방안 및 기대효과",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/90_회의록/2026-07-15 컨소시엄 킥오프 회의록.md",
+      "line": 286,
+      "destination": "셀빅",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/90_회의록/2026-07-15 컨소시엄 킥오프 회의록.md",
+      "line": 287,
+      "destination": "월러스코 디자인랩",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/90_회의록/2026-07-15 컨소시엄 킥오프 회의록.md",
+      "line": 288,
+      "destination": "로블록스",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 11,
+      "destination": "KOCCA",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 24,
+      "destination": "../../assets/ref1_images/fig01_개요도.png",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 26,
+      "destination": "실감미디어",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 26,
+      "destination": "실감AX융합학과",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 26,
+      "destination": "AX",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 26,
+      "destination": "PBL",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 26,
+      "destination": "셀빅",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 26,
+      "destination": "월러스코",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 31,
+      "destination": "생성형 AI",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 33,
+      "destination": "XR",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 33,
+      "destination": "융합콘텐츠",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 34,
+      "destination": "햅틱",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 36,
+      "destination": "실감AX융합대학원",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 40,
+      "destination": "../../assets/ref1_images/fig02_교육과정_개념도.png",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 42,
+      "destination": "PBL",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 44,
+      "destination": "마이크로디그리",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 71,
+      "destination": "비교과",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 92,
+      "destination": "LiDAR",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 93,
+      "destination": "XR",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 93,
+      "destination": "MR",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 94,
+      "destination": "햅틱",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 95,
+      "destination": "생성형 AI",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 96,
+      "destination": "VR",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 100,
+      "destination": "../../assets/ref1_images/fig03_세계_실감미디어_시장.png",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 104,
+      "destination": "VR",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 104,
+      "destination": "AR",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 104,
+      "destination": "실감미디어",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 110,
+      "destination": "디지털 트윈",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 125,
+      "destination": "미디어월",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 143,
+      "destination": "../../assets/ref1_images/fig04_연구개발_기술정리.png",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 152,
+      "destination": "모션캡처",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 187,
+      "destination": "경희대학교 산학협력단",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 191,
+      "destination": "우탁",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 197,
+      "destination": "메타버스",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 203,
+      "destination": "전석희",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 218,
+      "destination": "이상민",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 226,
+      "destination": "이신영",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 237,
+      "destination": "김정현",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 248,
+      "destination": "이원구",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 261,
+      "destination": "이원희",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 272,
+      "destination": "오승재",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 283,
+      "destination": "셀빅",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 290,
+      "destination": "월러스코",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 290,
+      "destination": "디자인랩",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 294,
+      "destination": "미디어월",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 297,
+      "destination": "../../assets/ref1_images/fig05_미디어월_구축.png",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "line": 301,
+      "destination": "../../assets/ref1_images/fig06_곡면_미디어월.png",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/5_연구개발성과의 활용방안 및 기대효과.md",
+      "line": 54,
+      "destination": "../../assets/ref5_images/image1.png",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/5_연구개발성과의 활용방안 및 기대효과.md",
+      "line": 60,
+      "destination": "../../assets/ref5_images/image2.png",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/5_연구개발성과의 활용방안 및 기대효과.md",
+      "line": 116,
+      "destination": "../../assets/ref5_images/image3.png",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/5_연구개발성과의 활용방안 및 기대효과.md",
+      "line": 126,
+      "destination": "../../assets/ref5_images/image4.png",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/5_연구개발성과의 활용방안 및 기대효과.md",
+      "line": 135,
+      "destination": "../../assets/ref5_images/image5.png",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/5_연구개발성과의 활용방안 및 기대효과.md",
+      "line": 139,
+      "destination": "../../assets/ref5_images/image6.png",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/5_연구개발성과의 활용방안 및 기대효과.md",
+      "line": 156,
+      "destination": "../../assets/ref5_images/image7.png",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "01_References/00_프로젝트/02_연구개발계획서/5_연구개발성과의 활용방안 및 기대효과.md",
+      "line": 160,
+      "destination": "../../assets/ref5_images/image8.png",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 26,
+      "destination": "../02_Logs/2026-10.md",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 58,
+      "destination": "../../01_References/00_프로젝트/00_제안요청서/제안요청서.md",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 62,
+      "destination": "../../01_References/00_프로젝트/01_컨소시엄/컨소시엄%20구성.md",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 66,
+      "destination": "../../01_References/00_프로젝트/02_연구개발계획서/1%20연구개발의%20필요성.md",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 67,
+      "destination": "../../01_References/00_프로젝트/02_연구개발계획서/2.%20연구개발의%20목표%20및%20내용.md",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 68,
+      "destination": "../../01_References/00_프로젝트/02_연구개발계획서/3.%20연구개발의%20추진전략과%20방법%20및%20추진일정.md",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 69,
+      "destination": "../../01_References/00_프로젝트/02_연구개발계획서/4.%20마일스톤%20체계%20및%20수행계획.md",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 70,
+      "destination": "../../01_References/00_프로젝트/02_연구개발계획서/5.%20연구개발성과의%20활용방안%20및%20기대효과.md",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 75,
+      "destination": "../../01_References/01_남사당놀이/00_연구자료/남사당놀이/남사당놀이%20-%20버나.md",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 76,
+      "destination": "../../01_References/01_남사당놀이/00_연구자료/남사당놀이/남사당놀이%20-%20살판.md",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 77,
+      "destination": "../../01_References/01_남사당놀이/00_연구자료/남사당놀이/남사당놀이%20-%20덧뵈기.md",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 78,
+      "destination": "../../01_References/01_남사당놀이/00_연구자료/남사당놀이/남사당놀이%20-%20덜미.md",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 82,
+      "destination": "../../01_References/01_남사당놀이/01_콘텐츠%20요구사항/버나잡이%20한%20판%20핵심%20시스템%20사용자%20요구사항.md",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 86,
+      "destination": "../../01_References/90_회의록/2026-06-22_큐랩셀빅%20사전회의.md",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 87,
+      "destination": "../../01_References/90_회의록/2026-06-22_컨소시엄%20회의록.md",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 88,
+      "destination": "../../01_References/90_회의록/2026-09-30_남사당놀이보존회.md",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 94,
+      "destination": "../../03_Articles/기획서/02_버나%20-%20버나잡이%20한%20판/버나%20-%20버나잡이%20한%20판%20콘셉트%20기획.md",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 98,
+      "destination": "../../03_Articles/기획서/05_덧뵈기%20-%20탈놀음%20한바탕/덧뵈기%20-%20탈놀음%20한바탕%20기획서.md",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 99,
+      "destination": "../../03_Articles/기획서/05_덧뵈기%20-%20탈놀음%20한바탕/덧뵈기%20-%20탈놀음%20한바탕%20콘셉트%20기획서.md",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 103,
+      "destination": "../../03_Articles/기획서/06_덜미%20-%20나만의%20꼭두각시/덜미%20-%20나만의%20꼭두각시%20기획서.md",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 104,
+      "destination": "../../03_Articles/기획서/06_덜미%20-%20나만의%20꼭두각시/덜미%20-%20나만의%20꼭두각시%20콘셉트%20기획.md",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 108,
+      "destination": "../../03_Articles/발표/무형문화유산 AI 과제 킥오프.md",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 112,
+      "destination": "../../03_Articles/기획서/00_공통/디바이스 사양.md",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 118,
+      "destination": "../../04_Assets/01_Images/공통/공통%20기획%20이미지.md",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 119,
+      "destination": "../../04_Assets/01_Images/덧뵈기/탈놀음%20한바탕/덧뵈기%20-%20탈놀음%20한바탕%20기획%20이미지.md",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 120,
+      "destination": "../../04_Assets/01_Images/덜미/나만의%20꼭두각시/덜미%20-%20나만의%20꼭두각시%20기획%20이미지.md",
+      "issue": "missing_or_ambiguous"
+    },
+    {
+      "path": "00_System/00_Index/Index.md",
+      "line": 121,
+      "destination": "버나잡이%20한%20판%20이미지%20작업%20기록.md",
+      "issue": "missing_or_ambiguous"
+    }
+  ]
+}

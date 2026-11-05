@@ -1,0 +1,50 @@
+{
+  "00_System/00_Index/Index.md": {
+    "before": "01dafaf02f9654557c563d916a82f6026c4c9e446f7a05527c5297598bbbcd6e",
+    "after": "eb95a34cd02259450a6f917389ae46d4ccbe71ae6b69046a3f8ea4aaf147635c"
+  },
+  "00_System/01_Rules/위키 작업 절차.md": {
+    "before": "c6e94ce9d3f28941df2c1151c23746e3708b97dea6d5ea5895271713b5a39d2c",
+    "after": "2d2eceb6da3de1402da3bc607dbededffdb03432d6282dbec48a4aa4634fdab8"
+  },
+  "00_System/02_Logs/2026-10.md": {
+    "before": "7290258eeecd17e58d8028ddf9c9ad85a322cee853382e4e2b2591fc79f73670",
+    "after": "23eebfedde5beac8fafffc13616977100a1c4a86006daa6737e4098b89631b5d"
+  },
+  "00_System/02_Logs/log.md": {
+    "before": "dd6c9da433bff2137a781fc33efc805e5db2e6642da1f4da20d63c5d8d3dd2be",
+    "after": "7fb2a8c3c6682b3443ce123c93fed8d47e25821bccc87e8cd57db23fbe96fb15"
+  },
+  "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md": {
+    "before": "ead93677e615f90e44bba71b2d85dcd42f0d1f53e52d34734256c415739906bf",
+    "after": "6f9c8a877d018c9c71abf314bd0bd3ff305c2f8d026e3fedf01eb84cce4c963f"
+  },
+  "01_References/00_프로젝트/02_연구개발계획서/2_연구개발의 목표 및 내용.md": {
+    "before": "7b86e894aa59535d6189efa779c9c3c75a0e03b191c6f364b09c502e3bc0f2b3",
+    "after": "8c23dcd061ec2e8bd69a0fd0c23b59b5085c7d36199cb73344be8ffdf28e1192"
+  },
+  "01_References/00_프로젝트/02_연구개발계획서/3_연구개발의 추진전략과 방법 및 추진일정.md": {
+    "before": "b63a1c93c40b88e7e62e99a2da62d327333a0bff01eb0332f4ee72d7509ecfe9",
+    "after": "b481ce24a6ec346e93d87f711d198f500dcad3e935aa33a68c36552bf14f92fd"
+  },
+  "01_References/00_프로젝트/02_연구개발계획서/4_마일스톤 체계 및 수행계획.md": {
+    "before": "2202f930537c081b6df088d52092ab3c7813833792d7a707264a93d35f4a6454",
+    "after": "5a6067dec5e450d1364cc900b1cb374eeedfa9c64917678cc3b8c2e40b297a32"
+  },
+  "01_References/00_프로젝트/02_연구개발계획서/5_연구개발성과의 활용방안 및 기대효과.md": {
+    "before": "2654938430c695c0606a13355265bc5d0678ce36152cef60959a64810ab8d161",
+    "after": "600a36e37c8f7b1ceef077a48acc0e776789da6e4f1ab4c21096666927851f07"
+  },
+  "03_Articles/기획서/Cave Super Ball 기획서 초안.md": {
+    "before": "990af2f891091219d6a87fee9c3b94b897c39bcb08afc31f7a267a5d04f94645",
+    "after": "b1521c379425ad17ad05f5554214a253fba26731ff4323eb192329f0a899d993"
+  },
+  "03_Articles/기획서/Cave Super Ball 기획서.md": {
+    "before": "f9aa8eb33d75a0500f12da7d8ba33439f393a392e40f69796affccf1ea0793bd",
+    "after": "44dace71a341d2f27e788d1058d535c05ed99ffec1222213a10e298e980e40a3"
+  },
+  "90_Workspace/위키 정합성 점검/위키 정합성 점검 보고서.md": {
+    "before": "c9573e9d1cabea7a3866c79b720eaadd9a4ca45483103d348e728f4ae3da2d47",
+    "after": "84f06db65229bb7970b80415dc2aa5c5651f7403ea8fde46af18235c2e112055"
+  }
+}

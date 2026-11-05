@@ -1,0 +1,8712 @@
+[
+  {
+    "source": 3,
+    "table": 1,
+    "rows": [
+      [
+        {
+          "text": "3",
+          "border": "19",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "",
+          "border": "21",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "연구개발의 추진전략·방법 및 추진일정",
+          "border": "19",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "0"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "source": 3,
+    "table": 2,
+    "rows": [
+      [
+        {
+          "text": "대상 기술",
+          "border": "22",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "추진 방안",
+          "border": "22",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "0"
+          }
+        }
+      ],
+      [
+        {
+          "text": "다중 프로젝션 영상처리 기술 개발",
+          "border": "23",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "장애요소",
+          "border": "23",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "다중 빔프로젝터를 이용하여 다중 프로젝션 환경에서 하나의 콘텐츠를 재생할 때, 프로젝터 간의 싱크 동기화나 투사 화면이 맞지 않는 경우 전문가가 아니면 세팅이 쉽지 않음",
+          "border": "23",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "1"
+          }
+        }
+      ],
+      [
+        {
+          "text": "연구개발 추진방법",
+          "border": "23",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "전문가가 아니더라도 쉽게 다중 프로젝터 간의 동기화를 수행할 수 있도록 자동 프로젝션 정렬, 자동 엣지-블렌딩 기술 및 관심영역 지정 등의 기술을 개발",
+          "border": "23",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "2"
+          }
+        }
+      ],
+      [
+        {
+          "text": "저조도 사용자 인식 기술",
+          "border": "23",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "장애요소",
+          "border": "23",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "저조도 및 조명 변화가 심한 환경의 경우 영상에서 형상 또는 색감의 변화로 인하여 동일 사용자 인식 및 인체 정보 추출 정밀도가 낮음",
+          "border": "23",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "3"
+          }
+        }
+      ],
+      [
+        {
+          "text": "연구개발 추진방법",
+          "border": "23",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "1. 딥러닝 기반의 저조도 개선 및 영상 노이즈 제거 기술을 개발하여 조명변화가 극심한 환경에서 사용자 인식의 정확도를 개선하는 기술을 개발함2. 저조도 상황을 고려하기 위해 RGB와 IR 센서를 융합하여 사용자의 인식 성능을 개선하는 기술을 개발함",
+          "border": "23",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "4"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "source": 3,
+    "table": 3,
+    "rows": [
+      [
+        {
+          "text": "구 분",
+          "border": "26",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "장애 요소",
+          "border": "27",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "해 결 방 안",
+          "border": "28",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "0"
+          }
+        }
+      ],
+      [
+        {
+          "text": "기술적",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "대형 미디어월 환경에서 XR 콘텐츠 동기화 및 지연 문제",
+          "border": "4",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "⦁미디어월 출력·동기화 안정성에 특화된 시스템 설계 적용⦁단계별 부하 테스트 및 성능 최적화 수행",
+          "border": "8",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "1"
+          }
+        }
+      ],
+      [
+        {
+          "text": "운영적",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "다중 관람객 동시 참여 시 시스템 부하 및 반응성 저하",
+          "border": "4",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "⦁다중 사용자 대응 관람 경로 구조 연구⦁혼잡도 완화 및 동선 분산 알고리즘 적용",
+          "border": "8",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "2"
+          }
+        }
+      ],
+      [
+        {
+          "text": "사용자",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "관람객의 XR 이용 방식 차이로 인한 이해도 격차",
+          "border": "4",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "⦁직관적 UX 설계 및 단계별 관람 가이드 제공⦁연령·이용 경험 차이를 고려한 콘텐츠 난이도 조절",
+          "border": "8",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "3"
+          }
+        }
+      ],
+      [
+        {
+          "text": "실증",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "전시 공간 조건 변화에 따른 반복 검증의 어려움",
+          "border": "4",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "⦁실증 결과를 반영한 반복 개선 방식 채택⦁공간 변화에 대응 가능한 모듈형 콘텐츠 구조 유지",
+          "border": "8",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "4"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "source": 3,
+    "table": 4,
+    "rows": [
+      [
+        {
+          "text": "기관명",
+          "border": "17",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "담당 연구개발내용",
+          "border": "15",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "연구개발 역량의 우수성",
+          "border": "16",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "0"
+          }
+        }
+      ],
+      [
+        {
+          "text": "주관연구개발기관(경희대학교산학협력단)",
+          "border": "17",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "○ 마이크로디그리 수업을 통한 인재 양성○ 시촉각 실감AX융합콘텐츠의 지속적인 방문. 몰입구조 메커니즘 연구 (게이미피케이션)○ 다중사용자 기반의 멀티모달 시촉각 디바이스 연구○ 시촉각 디바이스 기반의 실감 상호작용 연구○ 공간기반 실감AX 콘텐츠에서의 관객동선을 고려한 상호작용 연구○ 다양한 분야 적용을 위한 시촉각 AX융합콘텐츠 기획. 개발 연구○ 시촉각 실감AX콘텐츠 사용자 분석 연구○ 텍스트 프롬프트를 통한 에셋 생성 기술 개발○ 스크립트를 통한 상호작용 가능한 실감미디어 콘텐츠 생성○ 절차적 레벨 디자인 자동화 툴 제작",
+          "border": "4",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "○ 시촉각 감각 인터랙션(햅틱)이 활용된 실감미디어 콘텐츠 설계 및 개발, 바이오센서를 활용한 사용성 평가[그림 23] 시촉각 인터랙션 콘텐츠/사용성 평가○ 실감미디어 기술 활용 및 평가를 위한 자체 인프라, 테스트베드 구축[그림 24] 바닥면을 포함한 미디어월 공간○ 교내 실감미디어 인프라를 활용한 최첨단 기술 교육 환경 마련[그림 25] VR 디바이스 등 첨단 기기를 보유○ 2025년도 용인특례시 미래기술학교 운영 지원 사업[그림 26] 미래기술학교 운영",
+          "border": "8",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "1"
+          }
+        }
+      ],
+      [
+        {
+          "text": "공동연구개발기관1((주)셀빅)",
+          "border": "17",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "○ 다중 센서 및 프로젝터 기반 가상 공간 구조 생성 기술 개발○ 인터랙션이 가능한 다인 공간 체험 시범 콘텐츠 개발",
+          "border": "4",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "○ 프로젝션 매핑 기반 인터랙션 실감 콘텐츠 시장의 확대를 위한 범용 센서 시스템 보유[그림 27] 범용 센서 시스템",
+          "border": "8",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "2"
+          }
+        }
+      ],
+      [
+        {
+          "text": "○ 여러명이 동시 참여가 가능한 Projection Mapping과 인터랙션을 위한 센싱 기술 기반의 실감형 교육 콘텐츠 제공[그림 28] 센싱 기술이 사용된 실감형 교육 콘텐츠",
+          "border": "8",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "3"
+          }
+        }
+      ],
+      [
+        {
+          "text": "공동연구개발기관2((주)월러스코)",
+          "border": "17",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "○ 미디어월을 활용한 XR 콘텐츠 개발○ XR 콘텐츠 기반 정시 경로 구조 개선○ 미디어월을 멀티모달 감각을 활용한 상호작용 콘텐츠 개발",
+          "border": "4",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "○ 주력 사업분야의 전문성초실감형 전시·체험 공간 기획 및 설계XR·미디어아트·몰입형 콘텐츠 기반 공간 연출 및 시스템 통합디지털 콘텐츠와 물리적 공간을 결합한 실증형 플랫폼 구축○ 관련 연구개발 및 수행 실적약 30여 공공기관의 대형 LED, 미디어파사드, 몰입형 전시 공간 성공적 구축 경험공공·문화·전시 분야에서 디지털 기술을 활용한 공간 실증 프로젝트 수행콘텐츠 제작사·기술 기업·학계와의 협업을 통한 융합형 R&D 프로젝트 수행 경험○ 보유 기술 및 강점비정형 공간을 고려한 3차원 공간 설계 및 시뮬레이션 역량대형 디스플레이 환경에서의 영상 출력·동기화·안정성 관리 노하우센서 기반 인터랙션 환경을 공간 설계 단계부터 반영하는 통합 설계 역량기술 개발 결과를 실제 공간에 구현·검증할 수 있는 실증 중심 연구 수행 능력",
+          "border": "8",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "4"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "source": 3,
+    "table": 5,
+    "rows": [
+      [
+        {
+          "text": "연구개발내용",
+          "border": "13",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "1 단계 월별 추진일정",
+          "border": "14",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "0"
+          }
+        }
+      ],
+      [
+        {
+          "text": "1",
+          "border": "11",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "2",
+          "border": "11",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "3",
+          "border": "11",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "4",
+          "border": "11",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "5",
+          "border": "11",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "6",
+          "border": "11",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "7",
+          "border": "11",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "8",
+          "border": "11",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "9",
+          "border": "11",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "10",
+          "border": "11",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "11",
+          "border": "11",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "12",
+          "border": "14",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "1"
+          }
+        }
+      ],
+      [
+        {
+          "text": "마이크로디그리 수업 진행을 통한 인재양성 및 콘텐츠 제작",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "2"
+          }
+        }
+      ],
+      [
+        {
+          "text": "시촉각 실감 AX 융합 콘텐츠의 지속적인 방문/몰입 구조 매커니즘 연구",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "10",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "3"
+          }
+        }
+      ],
+      [
+        {
+          "text": "공간기반 실감 AX 콘텐츠에서의 관객 동선을 고려한 상호작용 연구",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "4"
+          }
+        }
+      ],
+      [
+        {
+          "text": "다양한 분야 적용을 위한 시촉각 AX 융합 콘텐츠 기획/개발 연구",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "5"
+          }
+        }
+      ],
+      [
+        {
+          "text": "시촉각 실감 AX 콘텐츠 사용자 분석 연구",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "6"
+          }
+        }
+      ],
+      [
+        {
+          "text": "텍스트 프롬프트를 사용한 자동 에셋 생성 기술 개발",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "7"
+          }
+        }
+      ],
+      [
+        {
+          "text": "다중 프로젝터 콘텐츠 시뮬레이션 기술 개발",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "10",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "8"
+          }
+        }
+      ],
+      [
+        {
+          "text": "저조도 조명 다중 투사 공간에서 단순한 인터랙션이 가능한 콘텐츠 개발",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "9"
+          }
+        }
+      ],
+      [
+        {
+          "text": "미디어월을 활용한 시청각 기반 XR 콘텐츠 개발",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "10",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "10"
+          }
+        }
+      ],
+      [
+        {
+          "text": "XR 콘텐츠 기반 전시 경로 가이드 프로토타입 구축",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "18",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "11"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "source": 3,
+    "table": 6,
+    "rows": [
+      [
+        {
+          "text": "연구개발내용",
+          "border": "13",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "2 단계 월별 추진일정",
+          "border": "14",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "0"
+          }
+        }
+      ],
+      [
+        {
+          "text": "1",
+          "border": "11",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "2",
+          "border": "11",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "3",
+          "border": "11",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "4",
+          "border": "11",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "5",
+          "border": "11",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "6",
+          "border": "11",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "7",
+          "border": "11",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "8",
+          "border": "11",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "9",
+          "border": "11",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "10",
+          "border": "11",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "11",
+          "border": "11",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "12",
+          "border": "14",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "1"
+          }
+        }
+      ],
+      [
+        {
+          "text": "마이크로디그리 수업 진행을 통한 인재양성 및 콘텐츠 제작",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "2"
+          }
+        }
+      ],
+      [
+        {
+          "text": "다중사용자 기반의 멀티모달 시촉각 디바이스 연구",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "3"
+          }
+        }
+      ],
+      [
+        {
+          "text": "시촉각 디바이스 기반의 실감 상호작용 연구",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "4"
+          }
+        }
+      ],
+      [
+        {
+          "text": "다양한 분야 적용을 위한 시촉각 AX 융합 콘텐츠 기획/개발 연구",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "5"
+          }
+        }
+      ],
+      [
+        {
+          "text": "시촉각 실감 AX 콘텐츠 사용자 분석 연구",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "6"
+          }
+        }
+      ],
+      [
+        {
+          "text": "Script Copilot: 자연어로 게임 로직을 설명하여 상호작용 가능한 실감미디어 콘텐츠 생성",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "7"
+          }
+        }
+      ],
+      [
+        {
+          "text": "특정 테마, 텍스트 프롬프트를 입력하면 맵 구조를 절차적으로 생성하는 레벨 디자인 자동화 툴 제작",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "8"
+          }
+        }
+      ],
+      [
+        {
+          "text": "카메라 및 카메라-프로젝터 간 왜곡 보정 기술 개발",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "10",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "9"
+          }
+        }
+      ],
+      [
+        {
+          "text": "대형 케이브 맵핑 기반 다인 플레이를 지원하는 슈팅형 콘텐츠 개발",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "10"
+          }
+        }
+      ],
+      [
+        {
+          "text": "사용자 관람 동선에 따른 사용성 평가를 바탕으로 경로 구조 개선",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "10",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "11"
+          }
+        }
+      ],
+      [
+        {
+          "text": "AR 글래스로 사용자 관람 동선에 따른 시공간 전환형 시나리오 기획 및 개발",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "",
+          "border": "10",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "12"
+          }
+        }
+      ],
+      [
+        {
+          "text": "미디어월을 활용한 멀티모달 감각 기반 XR 콘텐츠 개발",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "13"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "source": 3,
+    "table": 7,
+    "rows": [
+      [
+        {
+          "text": "연구개발내용",
+          "border": "13",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "3 단계 월별 추진일정",
+          "border": "14",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "0"
+          }
+        }
+      ],
+      [
+        {
+          "text": "1",
+          "border": "11",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "2",
+          "border": "11",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "3",
+          "border": "11",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "4",
+          "border": "11",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "5",
+          "border": "11",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "6",
+          "border": "11",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "7",
+          "border": "11",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "8",
+          "border": "11",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "9",
+          "border": "11",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "10",
+          "border": "11",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "11",
+          "border": "11",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "12",
+          "border": "14",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "1"
+          }
+        }
+      ],
+      [
+        {
+          "text": "마이크로디그리 수업 진행을 통한 인재양성 및 콘텐츠 제작",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "2"
+          }
+        }
+      ],
+      [
+        {
+          "text": "다양한 분야 적용을 위한 시촉각 AX 융합 콘텐츠 기획/개발 연구",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "3"
+          }
+        }
+      ],
+      [
+        {
+          "text": "시촉각 실감 AX 콘텐츠 사용자 분석 연구",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "4"
+          }
+        }
+      ],
+      [
+        {
+          "text": "시촉각 AX 분야 전문 인력 배출 도입 및 취/창업 연계 성과 확산 프로그램 운영",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "5"
+          }
+        }
+      ],
+      [
+        {
+          "text": "1차년도 개발 진행한 자연어 기반 자동 생성 에셋 생성 정확도 및 생성 속도 개선",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "6"
+          }
+        }
+      ],
+      [
+        {
+          "text": "실증 평가 (ex. 만족도 등의 실제 사용자 평가)를 기반으로 시스템 고도화",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "7"
+          }
+        }
+      ],
+      [
+        {
+          "text": "현실 인터랙션 물체의 콘텐츠 동기화 기술 개발",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "",
+          "border": "10",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "8"
+          }
+        }
+      ],
+      [
+        {
+          "text": "다수의 사용자가 저조도 실내 공간에서 체험하는 사람 객체간 상호작용 프로젝션 맵핑 콘텐츠 개발",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "9"
+          }
+        }
+      ],
+      [
+        {
+          "text": "XR 콘텐츠 기반 최적화된 다중 사용자 관람 경로 매뉴얼 제작",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "10",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "",
+          "border": "10",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "10"
+          }
+        }
+      ],
+      [
+        {
+          "text": "미디어월을 활용한 멀티모달 감각을 활용한 상호작용 가능한 콘텐츠 개발",
+          "border": "12",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "8",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "9",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "10",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "11",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "",
+          "border": "20",
+          "address": {
+            "colAddr": "12",
+            "rowAddr": "11"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "source": 4,
+    "table": 1,
+    "rows": [
+      [
+        {
+          "text": "4",
+          "border": "11",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "",
+          "border": "15",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "마일스톤 체계 및 수행계획",
+          "border": "11",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "0"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "source": 4,
+    "table": 2,
+    "rows": [
+      [
+        {
+          "text": "개발 목표",
+          "border": "13",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "번호",
+          "border": "12",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "마일스톤 명",
+          "border": "12",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "목표일정",
+          "border": "12",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "핵심수행기관",
+          "border": "12",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "주요 가시적 결과물",
+          "border": "12",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "점검기준",
+          "border": "12",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "점검방법",
+          "border": "14",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "0"
+          }
+        }
+      ],
+      [
+        {
+          "text": "1. 마이크로디그리 수업 진행을 통한 인재양성 및 콘텐츠 제작",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "1.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "각 강의 주제에 따른 이론 교육",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "26.09~26.12",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "보고서,",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "보고서 1건",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "시험제품 제작 2건",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "1"
+          }
+        }
+      ],
+      [
+        {
+          "text": "1.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "콘텐츠 기획 및 설계",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "26.10~26.11",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "콘텐츠 디자인 기술서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "설계서 1건",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "2"
+          }
+        }
+      ],
+      [
+        {
+          "text": "1.3",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "프로토타입 콘텐츠 구현",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "26.10~26.12",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "시험제품 제작",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "시험제품 제작 2건",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "3"
+          }
+        }
+      ],
+      [
+        {
+          "text": "2. 시촉각 실감 AX 융합 콘텐츠의 지속적인 방문/몰입 구조 매커니즘 연구",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "2.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "지속적인 방문/몰입 구조 메커니즘에 대한 선행 연구 진행",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "26.04~26.05",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "선행연구 보고서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "보고서 1건",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "논문 1편",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "4"
+          }
+        }
+      ],
+      [
+        {
+          "text": "2.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "지속적인 방문/몰입 구조 메커니즘 분석 및 연구",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "26.05~26.07",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "분석 보고서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "보고서 1건",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "5"
+          }
+        }
+      ],
+      [
+        {
+          "text": "2.3",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "지속적인 방문/몰입 구조 메커니즘 설계",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "26.07~26.09",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "논문 KCI",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "논문 1편",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "6"
+          }
+        }
+      ],
+      [
+        {
+          "text": "3. 공간기반 실감 AX 콘텐츠에서의 관객 동선을 고려한 상호작용 연구",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "3.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "관객 동선 및 상호작용에 관한 선행연구",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "26.07~26.08",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "선행연구 보고서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "보고서 1건",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "논문 1건",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "7"
+          }
+        }
+      ],
+      [
+        {
+          "text": "3.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "관객 동선을 고려한 상호작용에 관한 본 연구 진행",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "26.08 ~ 26.12",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "연구 보고서논문 KCI",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "논문 1건",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "8"
+          }
+        }
+      ],
+      [
+        {
+          "text": "4. 다양한 분야 적용을 위한 시촉각 AX 융합 콘텐츠 기획/개발 연구",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "4.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "콘텐츠 기획 및 설계를 위한 분야별 사전 조사",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "26.04~26.05",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "사전 조사 보고서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "소프트웨어 1종",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "소프트웨어 1종",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "9"
+          }
+        }
+      ],
+      [
+        {
+          "text": "4.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "사전 조사를 통한 수요 조사, 콘텐츠 기획 및 설계",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "26.05~26.07",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "수요 조사 보고서콘텐츠 디자인 기술서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "10"
+          }
+        }
+      ],
+      [
+        {
+          "text": "4.3",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "프로토타입 콘텐츠 개발",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "26.07~26.10",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "프로토타입 콘텐츠",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "11"
+          }
+        }
+      ],
+      [
+        {
+          "text": "5. 시촉각 실감 AX 콘텐츠 사용자 분석 연구",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "5.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "프로토타입 콘텐츠 실증을 위한 방법론 설계",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "26.07~26.08",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "방법론 보고서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "보고서 1건",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "보고서 1건",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "12"
+          }
+        }
+      ],
+      [
+        {
+          "text": "5.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "프로토타입 콘텐츠 사용성 평가",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "26.08~26.12",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "경희대학교산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "사용성 평가 보고서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "13"
+          }
+        }
+      ],
+      [
+        {
+          "text": "6. 텍스트 프롬프트를 사용한 자동 에셋 생성 기술 개발",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "14"
+          }
+        },
+        {
+          "text": "6.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "14"
+          }
+        },
+        {
+          "text": "텍스트 프롬프트를 활용한 상용 엔진에서의 에셋 생성 기술 개발",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "14"
+          }
+        },
+        {
+          "text": "26.06~26.12",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "14"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "14"
+          }
+        },
+        {
+          "text": "소프트웨어 SDK",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "14"
+          }
+        },
+        {
+          "text": "소프트웨어 SDK 1종",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "14"
+          }
+        },
+        {
+          "text": "소프트웨어 SDK 1종",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "14"
+          }
+        }
+      ],
+      [
+        {
+          "text": "7. 다중 프로젝터 콘텐츠 시뮬레이션 기술 개발",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "15"
+          }
+        },
+        {
+          "text": "7.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "15"
+          }
+        },
+        {
+          "text": "가상 프로젝션 시뮬레이터 개발",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "15"
+          }
+        },
+        {
+          "text": "26.04-26.07",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "15"
+          }
+        },
+        {
+          "text": "㈜셀빅",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "15"
+          }
+        },
+        {
+          "text": "시뮬레이션 SW",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "15"
+          }
+        },
+        {
+          "text": "가상 프로젝터 배치 기능 확인",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "15"
+          }
+        },
+        {
+          "text": "SW 기능 점검",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "15"
+          }
+        }
+      ],
+      [
+        {
+          "text": "7.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "16"
+          }
+        },
+        {
+          "text": "센서-프로젝션 공간 구축 도구 개발",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "16"
+          }
+        },
+        {
+          "text": "26.05-26.08",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "16"
+          }
+        },
+        {
+          "text": "㈜셀빅",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "16"
+          }
+        },
+        {
+          "text": "시뮬레이션 SW",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "16"
+          }
+        },
+        {
+          "text": "가상 프로젝터 및 센서 배치 기능 확인",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "16"
+          }
+        },
+        {
+          "text": "SW 기능 점검",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "16"
+          }
+        }
+      ],
+      [
+        {
+          "text": "8. 저조도 조명 다중 투사 공간에서 단순한 인터랙션이 가능한 콘텐츠 개발",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "17"
+          }
+        },
+        {
+          "text": "8.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "17"
+          }
+        },
+        {
+          "text": "미디어 아트 기반 시범 콘텐츠 구현",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "17"
+          }
+        },
+        {
+          "text": "26.07-26.12",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "17"
+          }
+        },
+        {
+          "text": "㈜셀빅",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "17"
+          }
+        },
+        {
+          "text": "시범 콘텐츠 SW",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "17"
+          }
+        },
+        {
+          "text": "시범콘텐츠 1종 개발 달성",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "17"
+          }
+        },
+        {
+          "text": "콘텐츠 실행 및 기능 구현 확인",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "17"
+          }
+        }
+      ],
+      [
+        {
+          "text": "9. 미디어월을 활용한 시청각 기반 XR 콘텐츠 개발",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "18"
+          }
+        },
+        {
+          "text": "9.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "18"
+          }
+        },
+        {
+          "text": "미디어월 기반 XR 콘텐츠 콘셉트 및 기술 구조 설계",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "18"
+          }
+        },
+        {
+          "text": "26.04~26.05",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "18"
+          }
+        },
+        {
+          "text": "㈜월러스코 디자인랩",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "18"
+          }
+        },
+        {
+          "text": "콘텐츠 콘셉트 기획서, 시스템 아키텍처 설계서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "18"
+          }
+        },
+        {
+          "text": "XR 콘텐츠 시나리오 및 기술 구조 정의 완료",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "18"
+          }
+        },
+        {
+          "text": "산출물 검토 및 전문가 자문",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "18"
+          }
+        }
+      ],
+      [
+        {
+          "text": "9.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "19"
+          }
+        },
+        {
+          "text": "대형 미디어월 대응 XR 시청각 콘텐츠 시제품 개발",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "19"
+          }
+        },
+        {
+          "text": "26.05~26.07",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "19"
+          }
+        },
+        {
+          "text": "㈜월러스코 디자인랩",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "19"
+          }
+        },
+        {
+          "text": "XR 콘텐츠 시제품(SW), 미디어월 연동 영상",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "19"
+          }
+        },
+        {
+          "text": "대형 LED 환경에서 실시간 출력·동기화 안정성 확보",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "19"
+          }
+        },
+        {
+          "text": "시연 테스트 및 출력 품질 검증",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "19"
+          }
+        }
+      ],
+      [
+        {
+          "text": "9.3",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "20"
+          }
+        },
+        {
+          "text": "실증 공간 적용 및 시청각 몰입도 검증",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "20"
+          }
+        },
+        {
+          "text": "26.08",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "20"
+          }
+        },
+        {
+          "text": "㈜월러스코 디자인랩",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "20"
+          }
+        },
+        {
+          "text": "실증 결과 보고서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "20"
+          }
+        },
+        {
+          "text": "프레임 드롭·지연 없는 안정적 구동",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "20"
+          }
+        },
+        {
+          "text": "실증 환경 테스트 및 로그 분석",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "20"
+          }
+        }
+      ],
+      [
+        {
+          "text": "10. XR 콘텐츠 기반 전시 경로 프로토타입 구축",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "21"
+          }
+        },
+        {
+          "text": "10.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "21"
+          }
+        },
+        {
+          "text": "XR 기반 관람 경로 가이드 개념 설계",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "21"
+          }
+        },
+        {
+          "text": "26.08~26.09",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "21"
+          }
+        },
+        {
+          "text": "㈜월러스코 디자인랩",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "21"
+          }
+        },
+        {
+          "text": "관람 동선 설계서, UX 플로우 문서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "21"
+          }
+        },
+        {
+          "text": "관람 흐름과 XR 콘텐츠 연계 구조 정의",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "21"
+          }
+        },
+        {
+          "text": "설계 산출물 자체 검토",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "21"
+          }
+        }
+      ],
+      [
+        {
+          "text": "10.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "22"
+          }
+        },
+        {
+          "text": "관람 경로 가이드 XR 프로토타입 개발",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "22"
+          }
+        },
+        {
+          "text": "26.10~26.11",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "22"
+          }
+        },
+        {
+          "text": "㈜월러스코 디자인랩",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "22"
+          }
+        },
+        {
+          "text": "XR 경로 가이드 프로토타입",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "22"
+          }
+        },
+        {
+          "text": "경로 안내 정확도 및 반응성 확보",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "22"
+          }
+        },
+        {
+          "text": "실내 테스트 및 사용자 시나리오 검증",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "22"
+          }
+        }
+      ],
+      [
+        {
+          "text": "10.3",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "23"
+          }
+        },
+        {
+          "text": "전시 공간 적용 테스트",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "23"
+          }
+        },
+        {
+          "text": "26.12",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "23"
+          }
+        },
+        {
+          "text": "㈜월러스코 디자인랩",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "23"
+          }
+        },
+        {
+          "text": "테스트 결과 보고서관람",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "23"
+          }
+        },
+        {
+          "text": "관람객 동선 혼선 최소화",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "23"
+          }
+        },
+        {
+          "text": "시범 운영 및 관찰 분석",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "23"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "source": 4,
+    "table": 3,
+    "rows": [
+      [
+        {
+          "text": "1 단계",
+          "border": "10",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "0"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "source": 4,
+    "table": 4,
+    "rows": [
+      [
+        {
+          "text": "2 단계",
+          "border": "10",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "0"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "source": 4,
+    "table": 5,
+    "rows": [
+      [
+        {
+          "text": "개발 목표",
+          "border": "13",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "번호",
+          "border": "12",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "마일스톤 명",
+          "border": "12",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "목표일정",
+          "border": "12",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "핵심수행기관",
+          "border": "12",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "주요 가시적 결과물",
+          "border": "12",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "점검기준",
+          "border": "12",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "점검방법",
+          "border": "14",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "0"
+          }
+        }
+      ],
+      [
+        {
+          "text": "1. 마이크로디그리 수업 진행을 통한 인재양성 및 콘텐츠 제작",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "1.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "각 강의 주제에 따른 이론 교육",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "27.03 ~ 27.06",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "보고서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "보고서 1건디자인 기술서 1건설계서 1건",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "보고서 1건디자인 기술서 1건설계서 1건",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "1"
+          }
+        }
+      ],
+      [
+        {
+          "text": "1.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "분야에 따른 시장 사전조사와 본조사",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "27.03 ~ 27.04",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "사전조사 보고서본조사 보고서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "2"
+          }
+        }
+      ],
+      [
+        {
+          "text": "1.3",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "조사를 기반으로 한 콘텐츠/시스템 기획 및 설계",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "27.04 ~ 27.06",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "콘텐츠 디자인 기술서, 시스템 설계서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "3"
+          }
+        }
+      ],
+      [
+        {
+          "text": "2. 다중사용자 기반의 멀티모달 시촉각 디바이스 연구",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "2.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "콘텐츠 시나리오별 디바이스 사용 시나리오 도출",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "27.05 ~ 27.06",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "시나리오 보고서시촉각 디바이스 설계서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "보고서 1건설계서 1건",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "하드웨어 1종",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "4"
+          }
+        }
+      ],
+      [
+        {
+          "text": "2.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "시나리오 기반 멀티모달 시촉각 디바이스 설계",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "27.06 ~ 27.08",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "5"
+          }
+        }
+      ],
+      [
+        {
+          "text": "멀티모달 시촉각 디바이스",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "하드웨어 1종",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "6"
+          }
+        }
+      ],
+      [
+        {
+          "text": "2.3",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "멀티모달 시촉각 디바이스 제작",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "27.08 ~ 27.12",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "7"
+          }
+        }
+      ],
+      [
+        {
+          "text": "3. 시촉각 디바이스 기반의 실감 상호작용 연구",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "3.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "시촉각 디바이스 기반의 인터랙션 설계",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "27.05 ~ 27.09",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "인터랙션 설계서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "설계서 1건디자인 기술서 1건",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "설계서 1건디자인 기술서 1건",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "8"
+          }
+        }
+      ],
+      [
+        {
+          "text": "3.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "시촉각 인터랙션 기반 콘텐츠 기획 및 설계 연구",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "27.09 ~ 27.12",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "콘텐츠 설계서콘텐츠 디자인 기술서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "9"
+          }
+        }
+      ],
+      [
+        {
+          "text": "4. 다양한 분야 적용을 위한 시촉각 AX 융합 콘텐츠 기획/개발 연구",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "4.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "분야별 수요조사 진행",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "27.03 ~ 27.05",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "수요조서 보고서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "수요조사 보고서 1건",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "소프트웨어 1종",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "10"
+          }
+        }
+      ],
+      [
+        {
+          "text": "4.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "수요조사 기반 프로토타입 콘텐츠 기획",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "27.05 ~ 27.07",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "콘텐츠 기획서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "기획서 1건",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "11"
+          }
+        }
+      ],
+      [
+        {
+          "text": "4.3",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "프로토타입 콘텐츠 개발",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "27.07 ~ 27.12",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "프로토타입 콘텐츠",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "소프트웨어 1종디자인 기술서 1건",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "12"
+          }
+        }
+      ],
+      [
+        {
+          "text": "5. 시촉각 실감 AX 콘텐츠 사용자 분석 연구",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "5.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "사용자 분석을 위한 평가 방법론 설계",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "27.05 ~ 27.07",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "방법론 설계서사용자 분석 보고서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "보고서 1건논문 1건",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "논문 1건",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "13"
+          }
+        }
+      ],
+      [
+        {
+          "text": "5.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "14"
+          }
+        },
+        {
+          "text": "사용자 분석을 위한 실험 환경 구성",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "14"
+          }
+        },
+        {
+          "text": "27.07 ~ 27.08",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "14"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "14"
+          }
+        }
+      ],
+      [
+        {
+          "text": "5.3",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "15"
+          }
+        },
+        {
+          "text": "사용자 분석 진행 및 결과 분석",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "15"
+          }
+        },
+        {
+          "text": "27.08 ~ 27.12",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "15"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "15"
+          }
+        }
+      ],
+      [
+        {
+          "text": "6. Script Copilot: 자연어로 게임 로직을 설명하여 상호작용 가능한 실감미디어 콘텐츠 생성",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "16"
+          }
+        },
+        {
+          "text": "6.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "16"
+          }
+        },
+        {
+          "text": "1단계 기술 개선",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "16"
+          }
+        },
+        {
+          "text": "27.04 ~ 27.05",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "16"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "16"
+          }
+        },
+        {
+          "text": "텍스트 프롬프트 기반 콘텐츠 생성 기술 소프트웨어 SDK",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "16"
+          }
+        },
+        {
+          "text": "소프트웨어 1종",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "16"
+          }
+        },
+        {
+          "text": "소프트웨어 1종",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "16"
+          }
+        }
+      ],
+      [
+        {
+          "text": "6.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "17"
+          }
+        },
+        {
+          "text": "텍스트 프롬프트를 활용하여 인터랙션 가능한 콘텐츠 생성 기술 개발",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "17"
+          }
+        },
+        {
+          "text": "27.05 ~ 27.12",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "17"
+          }
+        }
+      ],
+      [
+        {
+          "text": "6.3",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "18"
+          }
+        },
+        {
+          "text": "구현 기술을 기반으로 하는 콘텐츠 프로토타입 개발",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "18"
+          }
+        },
+        {
+          "text": "27.09 ~ 27.12",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "18"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "18"
+          }
+        },
+        {
+          "text": "프로토타입 콘텐츠",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "18"
+          }
+        }
+      ],
+      [
+        {
+          "text": "7. 특정 테마, 텍스트 프롬프트를 입력하면 맵 구조를 절차적으로 생성하는 레벨 디자인 자동화 툴 제작",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "19"
+          }
+        },
+        {
+          "text": "7.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "19"
+          }
+        },
+        {
+          "text": "텍스트 프롬프트를 통해 게임 씬에 오브젝트를 생성하여 배치하는 기술 개발",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "19"
+          }
+        },
+        {
+          "text": "27.04 ~ 27.12",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "19"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "19"
+          }
+        },
+        {
+          "text": "자동화 생성 SDK",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "19"
+          }
+        },
+        {
+          "text": "소프트웨어 1종",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "19"
+          }
+        },
+        {
+          "text": "소프트웨어 1종",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "19"
+          }
+        }
+      ],
+      [
+        {
+          "text": "8. 카메라 및 카메라-프로젝터 간 왜곡 보정 기술 개발",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "20"
+          }
+        },
+        {
+          "text": "8.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "20"
+          }
+        },
+        {
+          "text": "카메라-프로젝터 왜곡 보정 기술",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "20"
+          }
+        },
+        {
+          "text": "27.01-27.05",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "20"
+          }
+        },
+        {
+          "text": "㈜셀빅",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "20"
+          }
+        },
+        {
+          "text": "카메라 왜곡 보정 SW",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "20"
+          }
+        },
+        {
+          "text": "카메라 왜곡 보정 기능 확인",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "20"
+          }
+        },
+        {
+          "text": "SW 기능 점검",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "20"
+          }
+        }
+      ],
+      [
+        {
+          "text": "9. 대형 케이브 맵핑 기반 다인 플레이를 지원하는 슈팅형 콘텐츠 개발",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "21"
+          }
+        },
+        {
+          "text": "9.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "21"
+          }
+        },
+        {
+          "text": "센싱 융합 슈팅형 인터랙션 모듈",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "21"
+          }
+        },
+        {
+          "text": "27.04-27.08",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "21"
+          }
+        },
+        {
+          "text": "㈜셀빅",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "21"
+          }
+        },
+        {
+          "text": "센서 융합 모듈",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "21"
+          }
+        },
+        {
+          "text": "인터랙션 기능 3종 달성",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "21"
+          }
+        },
+        {
+          "text": "콘텐츠 실행 및 기능 구현 확인",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "21"
+          }
+        }
+      ],
+      [
+        {
+          "text": "9.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "22"
+          }
+        },
+        {
+          "text": "대형 CAVE 맵핑 다인 플레이 콘텐츠",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "22"
+          }
+        },
+        {
+          "text": "27.07-27.12",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "22"
+          }
+        },
+        {
+          "text": "㈜셀빅",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "22"
+          }
+        },
+        {
+          "text": "CAVE 맵핑 콘텐츠",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "22"
+          }
+        },
+        {
+          "text": "시범 콘텐츠 1종 달성",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "22"
+          }
+        },
+        {
+          "text": "콘텐츠 실행 및 기능 구현 확인",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "22"
+          }
+        }
+      ],
+      [
+        {
+          "text": "10. 사용자 관람 동선에 따른 사용성 평가를 바탕으로 경로 구조 개선",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "23"
+          }
+        },
+        {
+          "text": "10.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "23"
+          }
+        },
+        {
+          "text": "관람 동선 데이터 수집 및 분석",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "23"
+          }
+        },
+        {
+          "text": "27.01",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "23"
+          }
+        },
+        {
+          "text": "㈜월러스코 디자인랩",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "23"
+          }
+        },
+        {
+          "text": "동선 분석 보고서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "23"
+          }
+        },
+        {
+          "text": "다중 사용자 동선 패턴 도출",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "23"
+          }
+        },
+        {
+          "text": "센서 데이터 분석",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "23"
+          }
+        }
+      ],
+      [
+        {
+          "text": "10.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "24"
+          }
+        },
+        {
+          "text": "XR 경로 구조 개선 설계",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "24"
+          }
+        },
+        {
+          "text": "27.02",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "24"
+          }
+        },
+        {
+          "text": "㈜월러스코 디자인랩",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "24"
+          }
+        },
+        {
+          "text": "개선 설계서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "24"
+          }
+        },
+        {
+          "text": "체류 시간·혼잡도 개선 설계 반영",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "24"
+          }
+        },
+        {
+          "text": "시뮬레이션 검증",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "24"
+          }
+        }
+      ],
+      [
+        {
+          "text": "10.3",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "25"
+          }
+        },
+        {
+          "text": "개선 경로 실증 검증",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "25"
+          }
+        },
+        {
+          "text": "27.03",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "25"
+          }
+        },
+        {
+          "text": "㈜월러스코 디자인랩",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "25"
+          }
+        },
+        {
+          "text": "실증 결과 보고서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "25"
+          }
+        },
+        {
+          "text": "기존 대비 관람 효율 향상",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "25"
+          }
+        },
+        {
+          "text": "비교 실증 테스트",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "25"
+          }
+        }
+      ],
+      [
+        {
+          "text": "11. AR 글래스로 사용자 관람 동선에 따른 동선 이동형 시나리오 기획 및 개발",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "26"
+          }
+        },
+        {
+          "text": "11.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "26"
+          }
+        },
+        {
+          "text": "AR 글래스 연계 시공간 전환 시나리오 기획",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "26"
+          }
+        },
+        {
+          "text": "27.03",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "26"
+          }
+        },
+        {
+          "text": "㈜월러스코 디자인랩",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "26"
+          }
+        },
+        {
+          "text": "시나리오 기획서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "26"
+          }
+        },
+        {
+          "text": "동선·콘텐츠 연계 논리 확보",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "26"
+          }
+        },
+        {
+          "text": "전문가 검토",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "26"
+          }
+        }
+      ],
+      [
+        {
+          "text": "11.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "27"
+          }
+        },
+        {
+          "text": "AR 글래스 연동 콘텐츠 개발",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "27"
+          }
+        },
+        {
+          "text": "27.03~27.05",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "27"
+          }
+        },
+        {
+          "text": "㈜월러스코 디자인랩",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "27"
+          }
+        },
+        {
+          "text": "AR 콘텐츠 시제품",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "27"
+          }
+        },
+        {
+          "text": "ㅍ미디어월–AR 연계 동작",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "27"
+          }
+        },
+        {
+          "text": "전문가 검토",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "27"
+          }
+        }
+      ],
+      [
+        {
+          "text": "11.3",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "28"
+          }
+        },
+        {
+          "text": "실증 환경 적용",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "28"
+          }
+        },
+        {
+          "text": "27.06",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "28"
+          }
+        },
+        {
+          "text": "㈜월러스코 디자인랩",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "28"
+          }
+        },
+        {
+          "text": "실증 결과 보고서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "28"
+          }
+        },
+        {
+          "text": "사용자 혼란 없이 시공간 전환",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "28"
+          }
+        },
+        {
+          "text": "사용자 테스트",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "28"
+          }
+        }
+      ],
+      [
+        {
+          "text": "12. 미디어월을 활용한 멀티모달 감각 기반 XR 콘텐츠 개발",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "29"
+          }
+        },
+        {
+          "text": "12.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "29"
+          }
+        },
+        {
+          "text": "멀티모달 인터랙션 요소 설계",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "29"
+          }
+        },
+        {
+          "text": "27.06~27.07",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "29"
+          }
+        },
+        {
+          "text": "㈜월러스코 디자인랩",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "29"
+          }
+        },
+        {
+          "text": "인터랙션 설계서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "29"
+          }
+        },
+        {
+          "text": "시각·청각·동작 반응 정의",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "29"
+          }
+        },
+        {
+          "text": "설계 검토",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "29"
+          }
+        }
+      ],
+      [
+        {
+          "text": "12.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "30"
+          }
+        },
+        {
+          "text": "센서 기반 멀티모달 XR 콘텐츠 구현",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "30"
+          }
+        },
+        {
+          "text": "27.08~27.12",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "30"
+          }
+        },
+        {
+          "text": "㈜월러스코 디자인랩",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "30"
+          }
+        },
+        {
+          "text": "XR 콘텐츠 시제품",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "30"
+          }
+        },
+        {
+          "text": "센서 반응 정확도 확보",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "30"
+          }
+        },
+        {
+          "text": "실시간 반응 테스트",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "30"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "source": 4,
+    "table": 6,
+    "rows": [
+      [
+        {
+          "text": "3 단계",
+          "border": "10",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "0"
+          }
+        }
+      ]
+    ]
+  },
+  {
+    "source": 4,
+    "table": 7,
+    "rows": [
+      [
+        {
+          "text": "개발 목표",
+          "border": "13",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "번호",
+          "border": "12",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "마일스톤 명",
+          "border": "12",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "목표일정",
+          "border": "12",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "핵심수행기관",
+          "border": "12",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "주요 가시적 결과물",
+          "border": "12",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "점검기준",
+          "border": "12",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "0"
+          }
+        },
+        {
+          "text": "점검방법",
+          "border": "14",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "0"
+          }
+        }
+      ],
+      [
+        {
+          "text": "1. 마이크로디그리 수업 진행을 통한 인재양성 및 콘텐츠 제작",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "1.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "각 강의 주제에 따른 이론 교육",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "28.03 ~ 27.06",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "보고서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "보고서 1건",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "1"
+          }
+        },
+        {
+          "text": "디자인 기술서 1건",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "1"
+          }
+        }
+      ],
+      [
+        {
+          "text": "1.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "분야에 따른 시장 사전조사와 본조사",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "28.03 ~ 27.04",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "사전조사 보고서본조사 보고서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "2"
+          }
+        },
+        {
+          "text": "보고서 2건",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "2"
+          }
+        }
+      ],
+      [
+        {
+          "text": "1.3",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "조사를 기반으로 한 콘텐츠/시스템 기획 및 설계",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "28.04 ~ 27.06",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "콘텐츠 디자인 기술서, 시스템 설계서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "3"
+          }
+        },
+        {
+          "text": "디자인 기술서 1건설계서 1건",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "3"
+          }
+        }
+      ],
+      [
+        {
+          "text": "2. 다양한 분야 적용을 위한 시촉각 AX 융합 콘텐츠 기획/개발 연구",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "2.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "콘텐츠 기획 및 설계를 위한 분야별 사전 조사",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "28.04~26.05",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "사전 조사 보고서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "보고서 1건",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "4"
+          }
+        },
+        {
+          "text": "소프트웨어 1종",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "4"
+          }
+        }
+      ],
+      [
+        {
+          "text": "2.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "사전 조사를 통한 수요 조사, 콘텐츠 기획 및 설계",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "28.05~26.07",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "수요 조사 보고서콘텐츠 디자인 기술서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "5"
+          }
+        },
+        {
+          "text": "보고서 1건디자인 기술서 1건",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "5"
+          }
+        }
+      ],
+      [
+        {
+          "text": "2.3",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "프로토타입 콘텐츠 개발",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "28.07~26.10",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "프로토타입 콘텐츠",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "6"
+          }
+        },
+        {
+          "text": "소프트웨어 1종",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "6"
+          }
+        }
+      ],
+      [
+        {
+          "text": "3. 시촉각 실감 AX 콘텐츠 사용자 분석 연구",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "3.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "프로토타입 콘텐츠 실증을 위한 방법론 설계",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "28.07~26.08",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "방법론 보고서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "보고서 1건",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "7"
+          }
+        },
+        {
+          "text": "보고서 1건",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "7"
+          }
+        }
+      ],
+      [
+        {
+          "text": "3.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "프로토타입 콘텐츠 사용성 평가",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "28.08~26.12",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "경희대학교산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "사용성 평가 보고서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "보고서 1건",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "8"
+          }
+        },
+        {
+          "text": "보고서 1건",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "8"
+          }
+        }
+      ],
+      [
+        {
+          "text": "4. 시촉각 AX 분야 전문 인력 배출 도입 및 취/창업 연계 성과 확산 프로그램 운영",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "4.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "기업 연계 PBL 강의 운영 및 멘토링",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "28.03 ~ 28.06",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "멘토링 보고서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "보고서 1건",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "9"
+          }
+        },
+        {
+          "text": "보고서 1건",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "9"
+          }
+        }
+      ],
+      [
+        {
+          "text": "4.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "기업 멘토링 및 PBL 강의를 통한 업계 실무 능력 교육",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "26.09 ~ 26.12",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "10"
+          }
+        },
+        {
+          "text": "교육 보고서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "10"
+          }
+        }
+      ],
+      [
+        {
+          "text": "5. 1차년도 개발 진행한 자연어 기반 자동 생성 에셋 생성 정확도 및 생성 속도 개선",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "5.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "텍스트 프롬프트 기반 생성 모델 고도화",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "28.06 ~ 28.09",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "소프트웨어 SDK",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "소프트웨어 1종",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "11"
+          }
+        },
+        {
+          "text": "소프트웨어 1종",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "11"
+          }
+        }
+      ],
+      [
+        {
+          "text": "5.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "고도화 기술 기반 프로토타입 콘텐츠 개발",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "28.09 ~ 28.12",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "12"
+          }
+        },
+        {
+          "text": "프로토타입 콘텐츠",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "12"
+          }
+        }
+      ],
+      [
+        {
+          "text": "6. 실증 평가 (ex. 만족도 등의 실제 사용자 평가)를 기반으로 시스템 고도화",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "6.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "1차년도 제작 소프트웨어에 대한 사용성 평가",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "28.06 ~ 28.10",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "사용성 평가 보고서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "보고서 1건",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "13"
+          }
+        },
+        {
+          "text": "소프트웨어 1종",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "13"
+          }
+        }
+      ],
+      [
+        {
+          "text": "6.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "14"
+          }
+        },
+        {
+          "text": "사용성 평가 및 피드백을 통한 소프트웨어 고도화",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "14"
+          }
+        },
+        {
+          "text": "28.10 ~ 28.12",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "14"
+          }
+        },
+        {
+          "text": "경희대학교 산학협력단",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "14"
+          }
+        },
+        {
+          "text": "소프트웨어 SDK",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "14"
+          }
+        },
+        {
+          "text": "소프트웨어 1종",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "14"
+          }
+        }
+      ],
+      [
+        {
+          "text": "7. 현실 인터랙션 물체의 콘텐츠 동기화 기술 개발",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "15"
+          }
+        },
+        {
+          "text": "7.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "15"
+          }
+        },
+        {
+          "text": "현실-가상 물체 실시간 동기화 기술",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "15"
+          }
+        },
+        {
+          "text": "28.01-28.07",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "15"
+          }
+        },
+        {
+          "text": "㈜셀빅",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "15"
+          }
+        },
+        {
+          "text": "동기화 SW",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "15"
+          }
+        },
+        {
+          "text": "인터랙션 4종(누적)달성",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "15"
+          }
+        },
+        {
+          "text": "콘텐츠 실행 및 기능 구현 확인",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "15"
+          }
+        }
+      ],
+      [
+        {
+          "text": "8. 다수의 사용자가 저조도 실내 공간에서 체험하는 사람 객체간 상호작용 프로젝션 맵핑 콘텐츠 개발",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "16"
+          }
+        },
+        {
+          "text": "8.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "16"
+          }
+        },
+        {
+          "text": "다인 객체 인식 기술",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "16"
+          }
+        },
+        {
+          "text": "28.04-28.09",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "16"
+          }
+        },
+        {
+          "text": "㈜셀빅",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "16"
+          }
+        },
+        {
+          "text": "객체 인식 SW",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "16"
+          }
+        },
+        {
+          "text": "공간 내 사용자 수,객체 인식률 72%이상 달성",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "16"
+          }
+        },
+        {
+          "text": "SW 기능 점검",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "16"
+          }
+        }
+      ],
+      [
+        {
+          "text": "8.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "17"
+          }
+        },
+        {
+          "text": "서비스형 인터랙션 프로젝션 플랫폼",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "17"
+          }
+        },
+        {
+          "text": "28.04-28.12",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "17"
+          }
+        },
+        {
+          "text": "㈜셀빅",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "17"
+          }
+        },
+        {
+          "text": "센싱 융합 모듈,프로젝션 콘텐츠,결과보고서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "17"
+          }
+        },
+        {
+          "text": "시범 콘텐츠 3종(누적)",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "17"
+          }
+        },
+        {
+          "text": "콘텐츠 실행 및 기능 구현 확인",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "17"
+          }
+        }
+      ],
+      [
+        {
+          "text": "9. XR 콘텐츠 기반 최적화된 다중 사용자 관람 경로 매뉴얼 제작",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "18"
+          }
+        },
+        {
+          "text": "9.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "18"
+          }
+        },
+        {
+          "text": "다중 사용자 관람 패턴 분석",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "18"
+          }
+        },
+        {
+          "text": "28.01~28.03",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "18"
+          }
+        },
+        {
+          "text": "㈜월러스코 디자인랩",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "18"
+          }
+        },
+        {
+          "text": "분석 보고서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "18"
+          }
+        },
+        {
+          "text": "동시 관람 문제점 도출",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "18"
+          }
+        },
+        {
+          "text": "데이터 분석",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "18"
+          }
+        }
+      ],
+      [
+        {
+          "text": "9.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "19"
+          }
+        },
+        {
+          "text": "최적화 관람 경로 매뉴얼 설계",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "19"
+          }
+        },
+        {
+          "text": "28.04",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "19"
+          }
+        },
+        {
+          "text": "㈜월러스코 디자인랩",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "19"
+          }
+        },
+        {
+          "text": "운영·경로 매뉴얼",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "19"
+          }
+        },
+        {
+          "text": "운영자 활용 가능 수준",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "19"
+          }
+        },
+        {
+          "text": "문서 검토",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "19"
+          }
+        }
+      ],
+      [
+        {
+          "text": "9.3",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "20"
+          }
+        },
+        {
+          "text": "실증 기반 매뉴얼 고도화",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "20"
+          }
+        },
+        {
+          "text": "28.05",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "20"
+          }
+        },
+        {
+          "text": "㈜월러스코 디자인랩",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "20"
+          }
+        },
+        {
+          "text": "최종 매뉴얼",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "20"
+          }
+        },
+        {
+          "text": "현장 적용 가능성 확보",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "20"
+          }
+        },
+        {
+          "text": "실증 운영 평가",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "20"
+          }
+        }
+      ],
+      [
+        {
+          "text": "10. 미디어월을 활용한 멀티모달 감각을 활용한 상호작용 가능한 콘텐츠 개발",
+          "border": "9",
+          "address": {
+            "colAddr": "0",
+            "rowAddr": "21"
+          }
+        },
+        {
+          "text": "10.1",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "21"
+          }
+        },
+        {
+          "text": "다중 사용자 대응 상호작용 설계",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "21"
+          }
+        },
+        {
+          "text": "28.05~28.12",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "21"
+          }
+        },
+        {
+          "text": "㈜월러스코 디자인랩",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "21"
+          }
+        },
+        {
+          "text": "상호작용 설계서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "21"
+          }
+        },
+        {
+          "text": "동시 입력 충돌 방지 구조",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "21"
+          }
+        },
+        {
+          "text": "기술 검토",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "21"
+          }
+        }
+      ],
+      [
+        {
+          "text": "10.2",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "22"
+          }
+        },
+        {
+          "text": "멀티모달 상호작용 XR 콘텐츠 완성",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "22"
+          }
+        },
+        {
+          "text": "28.07~28.11",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "22"
+          }
+        },
+        {
+          "text": "㈜월러스코 디자인랩",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "22"
+          }
+        },
+        {
+          "text": "XR 콘텐츠 최종본",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "22"
+          }
+        },
+        {
+          "text": "안정적 다중 사용자 상호작용",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "22"
+          }
+        },
+        {
+          "text": "현장 시연",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "22"
+          }
+        }
+      ],
+      [
+        {
+          "text": "10.3",
+          "border": "7",
+          "address": {
+            "colAddr": "1",
+            "rowAddr": "23"
+          }
+        },
+        {
+          "text": "통합 실증 및 성능 검증",
+          "border": "7",
+          "address": {
+            "colAddr": "2",
+            "rowAddr": "23"
+          }
+        },
+        {
+          "text": "28.12",
+          "border": "7",
+          "address": {
+            "colAddr": "3",
+            "rowAddr": "23"
+          }
+        },
+        {
+          "text": "㈜월러스코 디자인랩",
+          "border": "7",
+          "address": {
+            "colAddr": "4",
+            "rowAddr": "23"
+          }
+        },
+        {
+          "text": "최종 실증 보고서",
+          "border": "7",
+          "address": {
+            "colAddr": "5",
+            "rowAddr": "23"
+          }
+        },
+        {
+          "text": "과제 목표 성능 충족",
+          "border": "7",
+          "address": {
+            "colAddr": "6",
+            "rowAddr": "23"
+          }
+        },
+        {
+          "text": "종합 실증 평가",
+          "border": "8",
+          "address": {
+            "colAddr": "7",
+            "rowAddr": "23"
+          }
+        }
+      ]
+    ]
+  }
+]

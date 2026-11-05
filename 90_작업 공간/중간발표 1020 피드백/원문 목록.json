@@ -1,0 +1,226 @@
+[
+  {
+    "file": "01_최효범_0201.txt",
+    "original": "04_Assets/02_Records/01_최효범_0201.txt",
+    "reference": "01_References/중간발표 1020/원문/01_최효범_0201.txt",
+    "sha256": "676c26184a5bd285af7b9a270c61b341e7ebdf45f82d2565e47eede8f37e4cad",
+    "bytes": 11118,
+    "lines": 103,
+    "header": [
+      "01_최효범_0201",
+      "2026.10.23 금 오전 10:02 ・ 11분 19초",
+      "조상연 발표자"
+    ],
+    "units": 60,
+    "first_timestamp": "00:05",
+    "last_timestamp": "11:10"
+  },
+  {
+    "file": "02_박영원_0213.txt",
+    "original": "04_Assets/02_Records/02_박영원_0213.txt",
+    "reference": "01_References/중간발표 1020/원문/02_박영원_0213.txt",
+    "sha256": "56d92815b2ee1556073e84e7f0e0102e44cf28238a3f0152e942259ade599e10",
+    "bytes": 8063,
+    "lines": 78,
+    "header": [
+      "02_박영원_0213",
+      "2026.10.23 금 오전 10:02 ・ 6분 32초",
+      "조상연 발표자"
+    ],
+    "units": 43,
+    "first_timestamp": "00:00",
+    "last_timestamp": "06:29"
+  },
+  {
+    "file": "03_파라마_0220.txt",
+    "original": "04_Assets/02_Records/03_파라마_0220.txt",
+    "reference": "01_References/중간발표 1020/원문/03_파라마_0220.txt",
+    "sha256": "527e7f672010412ce5aab1588169072f021a0b73a9f3b3dd4067e560467eb625",
+    "bytes": 12612,
+    "lines": 155,
+    "header": [
+      "03_파라마_0220",
+      "2026.10.23 금 오전 10:02 ・ 13분 47초",
+      "조상연 발표자"
+    ],
+    "units": 90,
+    "first_timestamp": "00:32",
+    "last_timestamp": "13:45"
+  },
+  {
+    "file": "04_김교령_0234.txt",
+    "original": "04_Assets/02_Records/04_김교령_0234.txt",
+    "reference": "01_References/중간발표 1020/원문/04_김교령_0234.txt",
+    "sha256": "c566dfa9360c51019e01026caaaf4c21c3aa3e0a757a1d4a545643d41b2e843a",
+    "bytes": 11816,
+    "lines": 120,
+    "header": [
+      "04_김교령_0234",
+      "2026.10.23 금 오전 10:02 ・ 10분 59초",
+      "조상연 발표자"
+    ],
+    "units": 71,
+    "first_timestamp": "00:23",
+    "last_timestamp": "10:16"
+  },
+  {
+    "file": "06_김윤진_0301.txt",
+    "original": "04_Assets/02_Records/06_김윤진_0301.txt",
+    "reference": "01_References/중간발표 1020/원문/06_김윤진_0301.txt",
+    "sha256": "f1f7ce3cf0f89e8601a8812ddfa87f4ca03d2a9dbd9353bb9b5d20659625eaf8",
+    "bytes": 10861,
+    "lines": 131,
+    "header": [
+      "06_김윤진_0301",
+      "2026.10.23 금 오전 10:02 ・ 11분 7초",
+      "조상연 발표자"
+    ],
+    "units": 70,
+    "first_timestamp": "00:21",
+    "last_timestamp": "10:57"
+  },
+  {
+    "file": "07_이재우_0312.txt",
+    "original": "04_Assets/02_Records/07_이재우_0312.txt",
+    "reference": "01_References/중간발표 1020/원문/07_이재우_0312.txt",
+    "sha256": "f3120c4e35133a23f9215bb3ae0d4887cecf2b2b28bb063fd0639587f3d7fad7",
+    "bytes": 12129,
+    "lines": 89,
+    "header": [
+      "07_이재우_0312",
+      "2026.10.23 금 오전 10:02 ・ 11분 23초",
+      "조상연 발표자"
+    ],
+    "units": 46,
+    "first_timestamp": "00:22",
+    "last_timestamp": "11:20"
+  },
+  {
+    "file": "08_이웅철_0323.txt",
+    "original": "04_Assets/02_Records/08_이웅철_0323.txt",
+    "reference": "01_References/중간발표 1020/원문/08_이웅철_0323.txt",
+    "sha256": "af774edfc7ea4f29c661098135c89f94538784a94bb7133487d389016f601b72",
+    "bytes": 16731,
+    "lines": 107,
+    "header": [
+      "08_이웅철_0323",
+      "2026.10.23 금 오전 10:02 ・ 14분 57초",
+      "조상연 발표자"
+    ],
+    "units": 54,
+    "first_timestamp": "00:12",
+    "last_timestamp": "14:56"
+  },
+  {
+    "file": "09_김정훈_0338.txt",
+    "original": "04_Assets/02_Records/09_김정훈_0338.txt",
+    "reference": "01_References/중간발표 1020/원문/09_김정훈_0338.txt",
+    "sha256": "07dd7cd9d528e9f1eb2507d1fd7690dbaf559cae7ad78eb04731bb6b5c5970e0",
+    "bytes": 13238,
+    "lines": 102,
+    "header": [
+      "09_김정훈_0338",
+      "2026.10.23 금 오전 10:02 ・ 11분 19초",
+      "조상연 발표자 참석자 1"
+    ],
+    "units": 57,
+    "first_timestamp": "00:38",
+    "last_timestamp": "10:30"
+  },
+  {
+    "file": "10_김채린_0355.txt",
+    "original": "04_Assets/02_Records/10_김채린_0355.txt",
+    "reference": "01_References/중간발표 1020/원문/10_김채린_0355.txt",
+    "sha256": "5d63937707e5ff1b9139f985b1340f074334ddb7e22edabe36d9bed5d8e45995",
+    "bytes": 12778,
+    "lines": 116,
+    "header": [
+      "10_김채린_0355",
+      "2026.10.23 금 오전 10:02 ・ 10분 9초",
+      "조상연 발표자"
+    ],
+    "units": 67,
+    "first_timestamp": "00:01",
+    "last_timestamp": "09:39"
+  },
+  {
+    "file": "11_김찬희_0405.txt",
+    "original": "04_Assets/02_Records/11_김찬희_0405.txt",
+    "reference": "01_References/중간발표 1020/원문/11_김찬희_0405.txt",
+    "sha256": "af270268099be50912eb2d69f9a5cbb228af2009014c6289721162cfb7fa0a18",
+    "bytes": 6926,
+    "lines": 67,
+    "header": [
+      "11_김찬희_0405",
+      "2026.10.23 금 오전 10:02 ・ 6분 27초",
+      "조상연 김찬희"
+    ],
+    "units": 38,
+    "first_timestamp": "00:20",
+    "last_timestamp": "06:22"
+  },
+  {
+    "file": "12_최리원_0412.txt",
+    "original": "04_Assets/02_Records/12_최리원_0412.txt",
+    "reference": "01_References/중간발표 1020/원문/12_최리원_0412.txt",
+    "sha256": "45cdc8826f350921ab7ae587f763be415a9f75f2ff958447b1ca2e17ef66e1cb",
+    "bytes": 11932,
+    "lines": 137,
+    "header": [
+      "12_최리원_0412",
+      "2026.10.23 금 오전 10:02 ・ 11분 44초",
+      "조상연 최리원"
+    ],
+    "units": 74,
+    "first_timestamp": "00:13",
+    "last_timestamp": "11:43"
+  },
+  {
+    "file": "13_한경은_0424.txt",
+    "original": "04_Assets/02_Records/13_한경은_0424.txt",
+    "reference": "01_References/중간발표 1020/원문/13_한경은_0424.txt",
+    "sha256": "0b463ade7355068d49db3b29440898665ff727079e91a8ff4ac7ba6cc39083bd",
+    "bytes": 7413,
+    "lines": 78,
+    "header": [
+      "13_한경은_0424",
+      "2026.10.23 금 오전 10:02 ・ 8분 13초",
+      "조상연 한경은"
+    ],
+    "units": 39,
+    "first_timestamp": "00:23",
+    "last_timestamp": "08:03"
+  },
+  {
+    "file": "14_홍정민_0432.txt",
+    "original": "04_Assets/02_Records/14_홍정민_0432.txt",
+    "reference": "01_References/중간발표 1020/원문/14_홍정민_0432.txt",
+    "sha256": "e17c240a5285db8996b854494c7eebe7e2e55263ba785d860cb2fee7fa35f419",
+    "bytes": 8684,
+    "lines": 87,
+    "header": [
+      "14_홍정민_0432",
+      "2026.10.23 금 오전 10:02 ・ 9분 5초",
+      "조상연 홍정민"
+    ],
+    "units": 52,
+    "first_timestamp": "00:09",
+    "last_timestamp": "08:57"
+  },
+  {
+    "file": "15_이애리_0442.txt",
+    "original": "04_Assets/02_Records/15_이애리_0442.txt",
+    "reference": "01_References/중간발표 1020/원문/15_이애리_0442.txt",
+    "sha256": "19463cd634f0260fee4323ed7bc76ef29bb03750d6a40d1d12687a596b77b876",
+    "bytes": 12712,
+    "lines": 108,
+    "header": [
+      "15_이애리_0442",
+      "2026.10.23 금 오전 10:02 ・ 12분 51초",
+      "조상연 이애리"
+    ],
+    "units": 61,
+    "first_timestamp": "00:03",
+    "last_timestamp": "12:22"
+  }
+]

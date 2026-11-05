@@ -1,0 +1,793 @@
+{
+  "sealed_at": "2026-11-04T17:03:10+09:00",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "411e3f9616592e52915fa56c5ae74b59a4f965d849e5279a53fb49d9ef67fcdf"
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "3a06f4a2bce55a48a013fa77190290221e0cfb9f7194fa0cc692520c8f1c01e4"
+    },
+    {
+      "path": "01_프로젝트/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "02_기획 근거/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "03_기반 기획/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "06_자산/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "07_프로토타입/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "08_산출물/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "90_작업 공간/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "90_작업 공간/CaveSuperBall/Cave Super Ball 개요 근거 추출.md",
+      "sha256": "6441e2bd6130017da6c63e42597cf7b349db1991d4a349de4eee0c8e47eb60a6"
+    },
+    {
+      "path": "90_작업 공간/발표 피드백/피드백.md",
+      "sha256": "4474c7b2f4854c13ceef1884190f083af425e6066269d2f57e2f95cc6c1d5cbe"
+    },
+    {
+      "path": "90_작업 공간/위키 구조 전환/AX 위키 구조 전환 실행 계획.md",
+      "sha256": "343c7a88d9f59b3214807635ef64a63a81ef3f52ddd0afb040574cc2f82c8a19"
+    },
+    {
+      "path": "90_작업 공간/위키 구조 전환/검증 결과.json",
+      "sha256": "7d51c96dc8879f05abc0a1cd29e80109ec950e061bb5f4a366851b6084a62e0c"
+    },
+    {
+      "path": "90_작업 공간/위키 구조 전환/검증 결과.md",
+      "sha256": "494396424bc2cce14e59bf14db75e90a7637fc080f7a353ef1d8ccbf0ff541ae"
+    },
+    {
+      "path": "90_작업 공간/위키 구조 전환/검증.py",
+      "sha256": "f3af6f2d5d2ffcc4a991b08349e9ce2c565846b5b00034f746357edd66a8ce90"
+    },
+    {
+      "path": "90_작업 공간/위키 구조 전환/규정 변경 대조.md",
+      "sha256": "6ea46b57d0b8117b67083e0ed564a7399254c36a59e2980bd51ee5d0752fb300"
+    },
+    {
+      "path": "90_작업 공간/위키 구조 전환/기준 목록.json",
+      "sha256": "8e74ebf16cf1b28d3cd2e528ca74772f958beb8ef5cc9a4e88964f2a83e6e5f8"
+    },
+    {
+      "path": "90_작업 공간/위키 구조 전환/복구 절차.md",
+      "sha256": "109d96569b3d9f21e56421b7910d9c0a19a1076cbdfdefb53ab154267a0e100a"
+    },
+    {
+      "path": "90_작업 공간/위키 구조 전환/전환.py",
+      "sha256": "9067d765e80d9f11db685cb89c7d6e8ecd51da89cf051cf44c4b28feeb354f81"
+    },
+    {
+      "path": "90_작업 공간/위키 구조 전환/파일별 이관 목록.json",
+      "sha256": "35c5bfbb60d7906df07cd7baff1d67843f38225899b9a02607cab1279614983a"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/applied_changes.json",
+      "sha256": "92c4d5f63a08090d70f0441979b97b8d2acefcb4d1351bbee2e0d8a872b6bddd"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/audit.py",
+      "sha256": "155c9e3b67739b2687894d984087cacbf07a0040e5e3a4c307be4b4f69c9e9fe"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/before.json",
+      "sha256": "4d8e7c25642770acb7e02ade217344bc32520fa71756bcf51d848468d8e911f4"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/external_sources.json",
+      "sha256": "9452f5db2ccfff004fe3ef6a58183bf271eb6f9b7cd8283489bf39ea26bbbce7"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/inventory_before.json",
+      "sha256": "5df66435152cef13ebbb11b22633cd62163d1256f9088236cf67c4a06ba55e16"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/links_before.json",
+      "sha256": "8ce8b03e620c2c2ff4e3e1ef30176053dce9ee0bd624f90009a17f9e542509e7"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/original_1.txt",
+      "sha256": "33988d8842b163094ef6679f826d58caa29220d4240e8a49da774c639ac0fbef"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/original_2.txt",
+      "sha256": "38a8455c3f51f5effcf7a55b4bf9065bfe1e202cc6fff4d394391d23ad78c407"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/original_3.txt",
+      "sha256": "d8e39ecac840ad93ab70fff0fd9a9fde9063e630edab1290775fc40f57e613c1"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/original_4.txt",
+      "sha256": "a657e8505ac6a2275d9df4f7c1b4b5adcebdd5689d2ea7e3e79d35c9965be9ff"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/original_5.txt",
+      "sha256": "beac7dd553825fce10dd2c0335412016f2666020ebf1dd16bf086faa226a9eaa"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/original_transcript.txt",
+      "sha256": "02fb4d2db8675a244bceb977508c9467e54234ecf53c138c04d9e53cca156a2f"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/probe_sources.py",
+      "sha256": "7c9f108beb5cee58e7549eae90cd105f2246206dedb3fae7afd6fb93bd3a8396"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/recheck.py",
+      "sha256": "5c88777c3e7d5bd2bd25c1626c90f25c0b80b19fe2fe3eca36fe69de7c3e21bf"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/recheck_before.json",
+      "sha256": "8ffaf5449f035a0d00ba3b261818000f13e791df92690e8e609827d1bba8283c"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/recheck_changes.json",
+      "sha256": "669977f0f4270f24250c712b4809612d1f33e237e32e3ba3341bbc25f6c58aec"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/recheck_validation.json",
+      "sha256": "a281f7857588650b3090deea09a1c80f138a2a01a9668acd375daccbaafede79"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/reconcile.py",
+      "sha256": "275369e4fb14c7f72c740ff1fdb41485b261d498f94c8db451ec4979d980bcf6"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/source_tables.json",
+      "sha256": "bb7a281bddb20d8cd5521c061a44a1ea9d368327158041fbb93d14f5ece7d94b"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/stage.py",
+      "sha256": "e7ea83b5e0d63b32edd53fedc96f862cfa986a79ce4e7ec118ab160624a2c516"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/stage_manifest.json",
+      "sha256": "eee2f700be4b930dbe64c24ea3ed0503887ff2130e48122a7ff327297c1ba221"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/validation.json",
+      "sha256": "386a5b21729d11a3c0879ac911e2817f365abc19dcaee28fdb25503b1229a60d"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/verify_and_apply.py",
+      "sha256": "43a7d0d74996df42e619c4149849d3ff00cbdad7f59aa182d9c48b131c0c84d9"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/위키 정합성 점검 보고서.md",
+      "sha256": "a4b8701b3916e96283ac111d014e369dc3d7b6f7f708eb03166e2b235181988b"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/build_documents.py",
+      "sha256": "bd9979d4cb816a92f12b229dac790f4a7ccebafdf268e62d7a658e04a845db20"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/prepare_sources.py",
+      "sha256": "af2600a840db3f66d120aa061e43281899498236d4f16b0c0d72c1ccf7f06cb8"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/publish.py",
+      "sha256": "7c26507673f61424a16fd50cb5b1562c58038d3e6c10e16ece13baa48b6c69c6"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/verify.py",
+      "sha256": "83bc2c2cf1debe5c9c289b5e5202f6c6119a13d69117a2bee0fa980bd59f5385"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/검증 결과.json",
+      "sha256": "3d2333c31b1d9fd80dab5f61037282e119c6fa8fb4de35f0283f9bd4f543ab83"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/수정 전 상태.json",
+      "sha256": "0b3def38087ab50888c455d38fd0275c1d44d2ea57068e11141dd5c03dbeb72e"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/원문 대응표.json",
+      "sha256": "0328b50287a806aa5396fc923fe9a979333c31c750f48d0802c459e78501818d"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/원문 목록.json",
+      "sha256": "4bf5d3637cd40ed7aef8352f07b263254f3965ea23a0a1b7803d0541f90c2f8b"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/중간발표 1020.md",
+      "sha256": "fd7d66808e591b7c93a82929ca7c3a481da368cf178257bd6f0ec61e213f0282"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/최초 추출표.json",
+      "sha256": "9d22ede1d14e4d4de23b29786dc47641f1eef0e0af2af88381ce066a7be66856"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/피드백 구성.json",
+      "sha256": "605b76b2318b05989c26126bc97b4f53ef5bbc371b1a687a48ea45931a60f0d7"
+    },
+    {
+      "path": "90_작업 공간/피드백 어투 퇴고/퇴고.py",
+      "sha256": "34050993fbac6e7e9920841dae44c135fcefe1ca9fa8b85c41e12c69999b7832"
+    },
+    {
+      "path": "90_작업 공간/피드백 어투 퇴고/피드백 원문.txt",
+      "sha256": "d758637c6d57c86538a9aa41b6313ba3886ce43d50a227c9b9cae800b625f717"
+    },
+    {
+      "path": "90_작업 공간/피드백 어투 퇴고/피드백.md",
+      "sha256": "063de87bc7d7ce89e1e0c30276587f01a9feb63155d269dab8ddcafa48f126e7"
+    },
+    {
+      "path": "90_작업 공간/회의록/2026-10-13 실무 미팅/2026-10-13 실무 미팅 녹취록.md",
+      "sha256": "3f020c7b36f1c825750f127ef6a7ce402fcb6cfc5d192be6c78146fa35e3a9ec"
+    },
+    {
+      "path": "90_작업 공간/회의록/2026-10-13 실무 미팅/2026-10-13 실무 미팅 원자료.md",
+      "sha256": "fdda43159a407690753e535d9b1a6120881b7799e0f6850cb321bebc877d9968"
+    },
+    {
+      "path": "90_작업 공간/회의록/2026-10-13 실무 미팅/원문/인력양성 1013_직접 작성.txt",
+      "sha256": "f33240743e6ea76d8fd5680184b3af224680d90031e8ef80c25d2aa4511c9d21"
+    },
+    {
+      "path": "90_작업 공간/회의록/2026-10-13 실무 미팅/원문/인력양성_1013_클로바노트.txt",
+      "sha256": "896fcf7ec8a4188d342f298cc41d9d42c87a265145accbfbefa370a18c3d9970"
+    },
+    {
+      "path": "90_작업 공간/피드백 어투 퇴고/2026-10-27 교체본/퇴고.py",
+      "sha256": "671ef896beb8397bc58d8c7766c9ca10e998656688c51f29fa9adb4a91fa44b4"
+    },
+    {
+      "path": "90_작업 공간/피드백 어투 퇴고/2026-10-27 교체본/피드백 원문.txt",
+      "sha256": "4a419edd8ba69382eb18bb480e1d5d21e9075597b9680a6859af627fab5b4863"
+    },
+    {
+      "path": "90_작업 공간/피드백 어투 퇴고/2026-10-27 교체본/피드백.md",
+      "sha256": "2932a0ac02a95cab2c0632ae7ea78558d5b614c3ecf8f232ff7691e626192a48"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/기획자 관점 재작성/검증 결과.json",
+      "sha256": "ac2688f8b4099db492c31949a8c6a2a10bfd38c304b0576cba67131e60942a61"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/기획자 관점 재작성/반영과 검증.py",
+      "sha256": "0d4ee37254626da12c01d64beb0b4504222d53bfa2f295d2e70211fd4e797447"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/기획자 관점 재작성/수정 전 상태.json",
+      "sha256": "3827e1c84eaf1311d962872b186baef7ebd5c30c30983ee5cce4b54afb6428ff"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/기획자 관점 재작성/중간발표 1020.md",
+      "sha256": "f323c6568fa014529f9fb8fce25dc988b7ccad02b0f0cc1fec3ea5e6ea30911d"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/등록안/중간발표 1020 발표 원자료.md",
+      "sha256": "a80f92f9b036ce5025c0007312397dc80f853d9fa964f91455072d2c104db978"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/제공 원본/01_최효범_0201.txt",
+      "sha256": "676c26184a5bd285af7b9a270c61b341e7ebdf45f82d2565e47eede8f37e4cad"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/제공 원본/02_박영원_0213.txt",
+      "sha256": "56d92815b2ee1556073e84e7f0e0102e44cf28238a3f0152e942259ade599e10"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/제공 원본/03_파라마_0220.txt",
+      "sha256": "527e7f672010412ce5aab1588169072f021a0b73a9f3b3dd4067e560467eb625"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/제공 원본/04_김교령_0234.txt",
+      "sha256": "c566dfa9360c51019e01026caaaf4c21c3aa3e0a757a1d4a545643d41b2e843a"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/제공 원본/05_이세연_김다인_0245.txt",
+      "sha256": "5275d5ab2d240d5e635a94d70cfb25598da14ff91d8dba9b9bc9f07358540945"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/제공 원본/06_김윤진_0301.txt",
+      "sha256": "f1f7ce3cf0f89e8601a8812ddfa87f4ca03d2a9dbd9353bb9b5d20659625eaf8"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/제공 원본/07_이재우_0312.txt",
+      "sha256": "f3120c4e35133a23f9215bb3ae0d4887cecf2b2b28bb063fd0639587f3d7fad7"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/제공 원본/08_이웅철_0323.txt",
+      "sha256": "af774edfc7ea4f29c661098135c89f94538784a94bb7133487d389016f601b72"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/제공 원본/09_김정훈_0338.txt",
+      "sha256": "07dd7cd9d528e9f1eb2507d1fd7690dbaf559cae7ad78eb04731bb6b5c5970e0"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/제공 원본/10_김채린_0355.txt",
+      "sha256": "5d63937707e5ff1b9139f985b1340f074334ddb7e22edabe36d9bed5d8e45995"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/제공 원본/11_김찬희_0405.txt",
+      "sha256": "af270268099be50912eb2d69f9a5cbb228af2009014c6289721162cfb7fa0a18"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/제공 원본/12_최리원_0412.txt",
+      "sha256": "45cdc8826f350921ab7ae587f763be415a9f75f2ff958447b1ca2e17ef66e1cb"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/제공 원본/13_한경은_0424.txt",
+      "sha256": "0b463ade7355068d49db3b29440898665ff727079e91a8ff4ac7ba6cc39083bd"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/제공 원본/14_홍정민_0432.txt",
+      "sha256": "e17c240a5285db8996b854494c7eebe7e2e55263ba785d860cb2fee7fa35f419"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/제공 원본/15_이애리_0442.txt",
+      "sha256": "19463cd634f0260fee4323ed7bc76ef29bb03750d6a40d1d12687a596b77b876"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/현재 정본/중간발표 1020.md",
+      "sha256": "cefc893c15842ad7a059b191fa2b1fdd0a752beb0c28e30257b336cfeaa9ead7"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/등록안/원문/01_최효범_0201.txt",
+      "sha256": "676c26184a5bd285af7b9a270c61b341e7ebdf45f82d2565e47eede8f37e4cad"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/등록안/원문/02_박영원_0213.txt",
+      "sha256": "56d92815b2ee1556073e84e7f0e0102e44cf28238a3f0152e942259ade599e10"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/등록안/원문/03_파라마_0220.txt",
+      "sha256": "527e7f672010412ce5aab1588169072f021a0b73a9f3b3dd4067e560467eb625"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/등록안/원문/04_김교령_0234.txt",
+      "sha256": "c566dfa9360c51019e01026caaaf4c21c3aa3e0a757a1d4a545643d41b2e843a"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/등록안/원문/06_김윤진_0301.txt",
+      "sha256": "f1f7ce3cf0f89e8601a8812ddfa87f4ca03d2a9dbd9353bb9b5d20659625eaf8"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/등록안/원문/07_이재우_0312.txt",
+      "sha256": "f3120c4e35133a23f9215bb3ae0d4887cecf2b2b28bb063fd0639587f3d7fad7"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/등록안/원문/08_이웅철_0323.txt",
+      "sha256": "af774edfc7ea4f29c661098135c89f94538784a94bb7133487d389016f601b72"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/등록안/원문/09_김정훈_0338.txt",
+      "sha256": "07dd7cd9d528e9f1eb2507d1fd7690dbaf559cae7ad78eb04731bb6b5c5970e0"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/등록안/원문/10_김채린_0355.txt",
+      "sha256": "5d63937707e5ff1b9139f985b1340f074334ddb7e22edabe36d9bed5d8e45995"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/등록안/원문/11_김찬희_0405.txt",
+      "sha256": "af270268099be50912eb2d69f9a5cbb228af2009014c6289721162cfb7fa0a18"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/등록안/원문/12_최리원_0412.txt",
+      "sha256": "45cdc8826f350921ab7ae587f763be415a9f75f2ff958447b1ca2e17ef66e1cb"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/등록안/원문/13_한경은_0424.txt",
+      "sha256": "0b463ade7355068d49db3b29440898665ff727079e91a8ff4ac7ba6cc39083bd"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/등록안/원문/14_홍정민_0432.txt",
+      "sha256": "e17c240a5285db8996b854494c7eebe7e2e55263ba785d860cb2fee7fa35f419"
+    },
+    {
+      "path": "90_작업 공간/중간발표 1020 피드백/등록안/원문/15_이애리_0442.txt",
+      "sha256": "19463cd634f0260fee4323ed7bc76ef29bb03750d6a40d1d12687a596b77b876"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/.recheck_stage/03_Articles/기획서/Cave Super Ball 기획서 초안.md",
+      "sha256": "b1521c379425ad17ad05f5554214a253fba26731ff4323eb192329f0a899d993"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/.recheck_stage/03_Articles/기획서/Cave Super Ball 기획서.md",
+      "sha256": "44dace71a341d2f27e788d1058d535c05ed99ffec1222213a10e298e980e40a3"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/.recheck_stage/01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+      "sha256": "6f9c8a877d018c9c71abf314bd0bd3ff305c2f8d026e3fedf01eb84cce4c963f"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/.recheck_stage/01_References/00_프로젝트/02_연구개발계획서/2_연구개발의 목표 및 내용.md",
+      "sha256": "8c23dcd061ec2e8bd69a0fd0c23b59b5085c7d36199cb73344be8ffdf28e1192"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/.recheck_stage/01_References/00_프로젝트/02_연구개발계획서/3_연구개발의 추진전략과 방법 및 추진일정.md",
+      "sha256": "b481ce24a6ec346e93d87f711d198f500dcad3e935aa33a68c36552bf14f92fd"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/.recheck_stage/01_References/00_프로젝트/02_연구개발계획서/4_마일스톤 체계 및 수행계획.md",
+      "sha256": "5a6067dec5e450d1364cc900b1cb374eeedfa9c64917678cc3b8c2e40b297a32"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/.recheck_stage/01_References/00_프로젝트/02_연구개발계획서/5_연구개발성과의 활용방안 및 기대효과.md",
+      "sha256": "600a36e37c8f7b1ceef077a48acc0e776789da6e4f1ab4c21096666927851f07"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/.recheck_stage/00_System/00_Index/Index.md",
+      "sha256": "eb95a34cd02259450a6f917389ae46d4ccbe71ae6b69046a3f8ea4aaf147635c"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/.recheck_stage/00_System/01_Rules/위키 작업 절차.md",
+      "sha256": "2d2eceb6da3de1402da3bc607dbededffdb03432d6282dbec48a4aa4634fdab8"
+    },
+    {
+      "path": "90_작업 공간/위키 정합성 점검/.recheck_stage/00_System/02_Logs/log.md",
+      "sha256": "7fb2a8c3c6682b3443ce123c93fed8d47e25821bccc87e8cd57db23fbe96fb15"
+    },
+    {
+      "path": "90_작업 공간/위키 구조 전환/이전 빈 폴더 표식/00_Localization.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "06_자산/이미지/이관 이미지 관리 기록.md",
+      "sha256": "de38d3e95e5406fe29994f2eca2e15059ace2befdac500ce319c12606c011a0c"
+    },
+    {
+      "path": "06_자산/이미지/ref1_images/fig01_개요도.png",
+      "sha256": "806746ca8f53ebc54f2e4161f27ff7f9329f282bcb282815122a6e06bcc06ed0"
+    },
+    {
+      "path": "06_자산/이미지/ref1_images/fig02_교육과정_개념도.png",
+      "sha256": "ea3744ca8c09116c2524fd651d2dd6c41c23f1821f051533f1865b3ac2f7757b"
+    },
+    {
+      "path": "06_자산/이미지/ref1_images/fig03_세계_실감미디어_시장.png",
+      "sha256": "12ff47a00833dfb7642fc91af1ff4eac3dee681b0b1dfa13eaa9f7b7fe048c68"
+    },
+    {
+      "path": "06_자산/이미지/ref1_images/fig04_연구개발_기술정리.png",
+      "sha256": "b65c9e99000ea3dc9a5de48b50d035be0abafdd5c48d7d0c1fc52e2e04bed814"
+    },
+    {
+      "path": "06_자산/이미지/ref1_images/fig05_미디어월_구축.png",
+      "sha256": "15d57d2a03e9ce3f13412eabba6a9731bbe1bda056abc37ac341df2115711cd0"
+    },
+    {
+      "path": "06_자산/이미지/ref1_images/fig06_곡면_미디어월.png",
+      "sha256": "f7bd16a8321e395919949ac0e106112dd044ed62532ea1d69e9ac72554889047"
+    },
+    {
+      "path": "06_자산/이미지/ref5_images/image1.png",
+      "sha256": "c60c18b8bc03c232665a59316d2e4955e3b4bba979eebd26bb95f817f4132150"
+    },
+    {
+      "path": "06_자산/이미지/ref5_images/image2.png",
+      "sha256": "ef7b4c540c7e32cab476a3a6ec09f01bbc8bb3c85627de5cbcc55f420472d0c2"
+    },
+    {
+      "path": "06_자산/이미지/ref5_images/image3.png",
+      "sha256": "426deace4a04c71076f607ccafc92b21f1f41dc57e8584b8b47c0662805d6986"
+    },
+    {
+      "path": "06_자산/이미지/ref5_images/image4.png",
+      "sha256": "e245e65fc3a5a9489729ba09b2d722d382d3d0883429ff65f11bacf0986af499"
+    },
+    {
+      "path": "06_자산/이미지/ref5_images/image5.png",
+      "sha256": "9c01007ee2aec381c72861e9dbdaa6aa3336510bcdeaa7ee50732ef9be63e1ff"
+    },
+    {
+      "path": "06_자산/이미지/ref5_images/image6.png",
+      "sha256": "11301643e45a288259d5b4b8d733c4f04f4e1741917904cd103664766acf9554"
+    },
+    {
+      "path": "06_자산/이미지/ref5_images/image7.png",
+      "sha256": "0ecb67b0fad630d690516096f2528a0ce62c39f8e461b6d1c975cd9d16f7da63"
+    },
+    {
+      "path": "06_자산/이미지/ref5_images/image8.png",
+      "sha256": "79e97993d0e56d8b5f8233a3efd36a2d78b1e037a5cff027e2ace65442b90296"
+    },
+    {
+      "path": "06_자산/이미지/예시 이미지/cave.png",
+      "sha256": "28f0e5d577a9195211fdd2c7f27bf77ea0e6bad5356c8f839b3d6879d1d55908"
+    },
+    {
+      "path": "06_자산/이미지/예시 이미지/CaveBall P-FLOOR 바닥 입력 처리.png",
+      "sha256": "12d1c5f3e6c88f5c79dedb651d45f13d72647a803943686c9dbe70a344ec37ac"
+    },
+    {
+      "path": "06_자산/이미지/예시 이미지/CaveBall P-HAND 손 입력 처리.png",
+      "sha256": "76b84e60f4b362e1e167b65b8e12928298ca34da0acf9737587ce50735408fdd"
+    },
+    {
+      "path": "06_자산/이미지/예시 이미지/CaveBall P-INIT 콘텐츠 준비.png",
+      "sha256": "5fc491cfc073d4d897163e283e1facbb36a4646969fabc68f7914f94cb6eaf80"
+    },
+    {
+      "path": "06_자산/이미지/예시 이미지/CaveBall 코드 기반 인터랙션 구성도.png",
+      "sha256": "bf0e98d40df6eb4f8d4ef0dca962bf77c41e6f8d362a47ef461bed151153a7d7"
+    },
+    {
+      "path": "06_자산/이미지/예시 이미지/CaveBall 핵심 게임 플로우.png",
+      "sha256": "e30347a4b17632c44bfc2c8e9d205b439184d1022d490a737f042e797aec9593"
+    },
+    {
+      "path": "06_자산/이미지/예시 이미지/cave_floor_plan.png",
+      "sha256": "6187b13955401b5ae062b8c50123088b0964aabd441f0a7a9bdf6f153e15541a"
+    },
+    {
+      "path": "06_자산/이미지/예시 이미지/sprite_floor.png",
+      "sha256": "f93248e83300fdb4e5aa002093bf3d16897ef1e6f581e4f9a25bce23561be412"
+    },
+    {
+      "path": "06_자산/이미지/예시 이미지/sprite_front.png",
+      "sha256": "8946bb84f13b186d47f8f7ea831a18f36107e986234763ccbe60c97e3c83beab"
+    },
+    {
+      "path": "06_자산/이미지/예시 이미지/sprite_side_blue.png",
+      "sha256": "7f251fadbfe383e2419c856b08fcecef17c926f92f24631cd1f7a27a0d74f217"
+    },
+    {
+      "path": "06_자산/이미지/예시 이미지/sprite_side_red.png",
+      "sha256": "a04b642787b67963b0aa8bdeba26b98f9ab0a845b04eda7c783e0347736292e0"
+    },
+    {
+      "path": "06_자산/이미지/예시 이미지/케이브구성.png",
+      "sha256": "5165f05a3ba8221d0789e67307e3e24c0308e6535d80bd8b73afdd9224774e3a"
+    },
+    {
+      "path": "06_자산/이미지/예시 이미지/플레이_예시.png",
+      "sha256": "768a8259ca03886bce54f12fc295930e72016e6d7e33b80a0da27ce4e5e60340"
+    },
+    {
+      "path": "06_자산/이미지/예시 이미지/핵심플로우.png",
+      "sha256": "996f2815920c5893dcdd1026be76f0c49a04e40a51033cee8a159c9db1efe26e"
+    },
+    {
+      "path": "05_참고 자료/분석 자료/CaveBall 계층형 플로우.md",
+      "sha256": "aefb2d6d65fe7f3af162f31c281b3b7b4a4d0a8a643c1775037a4cd27f92b53b"
+    },
+    {
+      "path": "05_참고 자료/분석 자료/CaveBall 클라이언트 코드 구조 분석.md",
+      "sha256": "673a2304027f66cbbc128aa3877f25a6a43efe93b8ff5027d39b794097f6bca7"
+    },
+    {
+      "path": "04_상세 기획/Cave Super Ball/Cave Super Ball 기획서.md",
+      "sha256": "1980bbafc829144734694a86ac785f479fb777d64db4fb77465f493efbe56600"
+    },
+    {
+      "path": "03_기반 기획/콘셉트/Cave Super Ball 기획서 초안.md",
+      "sha256": "12cb89ef53ad1c7daa780e5f1edfb45d778b9500135d83b32c6bcd177eb6153d"
+    },
+    {
+      "path": "01_프로젝트/연구개발계획서/1 연구개발의 필요성.md",
+      "sha256": "a1011764084940cf2faa82427b1456ffde1d3833436694e937100527940f7655"
+    },
+    {
+      "path": "01_프로젝트/연구개발계획서/2 연구개발의 목표 및 내용.md",
+      "sha256": "e66824a12b3a82a0f92b1a55db4520e7a00c1ed2184634b8eb370b13ffc24a0f"
+    },
+    {
+      "path": "01_프로젝트/연구개발계획서/3 연구개발의 추진전략과 방법 및 추진일정.md",
+      "sha256": "e21891fef7bc0d8a2cfa46999e826c058cff9bba3077ad51dfbb69955434c2f6"
+    },
+    {
+      "path": "01_프로젝트/연구개발계획서/4 마일스톤 체계 및 수행계획.md",
+      "sha256": "920b8e9c644521903a0f22d421047e09393858f5a7b8d2b4e18a012eb9388d70"
+    },
+    {
+      "path": "01_프로젝트/연구개발계획서/5 연구개발성과의 활용방안 및 기대효과.md",
+      "sha256": "0e91ec27951648c1a4751d95fde53bd712fdbafe301c45e85aa554686842002e"
+    },
+    {
+      "path": "01_프로젝트/회의 및 검토/2026-07-15 컨소시엄 킥오프 회의록.md",
+      "sha256": "94ffba317eec0265307dd4970c91bd7369f4babe9c9af4f24882c9f2e628fb75"
+    },
+    {
+      "path": "01_프로젝트/회의 및 검토/2026-10-13 실무 미팅 회의록.md",
+      "sha256": "be2247836222c449d5b0bcd27bed6f2985bc9780426718faa4bb7682db3268ad"
+    },
+    {
+      "path": "01_프로젝트/회의 및 검토/중간발표 1020/중간발표 1020 발표 원자료.md",
+      "sha256": "dc96b365cac6e8799f48ccad364e6408101a0bb9a68de22e3e555dcd29f2e41e"
+    },
+    {
+      "path": "01_프로젝트/회의 및 검토/중간발표 1020/원문/01_최효범_0201.txt",
+      "sha256": "676c26184a5bd285af7b9a270c61b341e7ebdf45f82d2565e47eede8f37e4cad"
+    },
+    {
+      "path": "01_프로젝트/회의 및 검토/중간발표 1020/원문/02_박영원_0213.txt",
+      "sha256": "56d92815b2ee1556073e84e7f0e0102e44cf28238a3f0152e942259ade599e10"
+    },
+    {
+      "path": "01_프로젝트/회의 및 검토/중간발표 1020/원문/03_파라마_0220.txt",
+      "sha256": "527e7f672010412ce5aab1588169072f021a0b73a9f3b3dd4067e560467eb625"
+    },
+    {
+      "path": "01_프로젝트/회의 및 검토/중간발표 1020/원문/04_김교령_0234.txt",
+      "sha256": "c566dfa9360c51019e01026caaaf4c21c3aa3e0a757a1d4a545643d41b2e843a"
+    },
+    {
+      "path": "01_프로젝트/회의 및 검토/중간발표 1020/원문/06_김윤진_0301.txt",
+      "sha256": "f1f7ce3cf0f89e8601a8812ddfa87f4ca03d2a9dbd9353bb9b5d20659625eaf8"
+    },
+    {
+      "path": "01_프로젝트/회의 및 검토/중간발표 1020/원문/07_이재우_0312.txt",
+      "sha256": "f3120c4e35133a23f9215bb3ae0d4887cecf2b2b28bb063fd0639587f3d7fad7"
+    },
+    {
+      "path": "01_프로젝트/회의 및 검토/중간발표 1020/원문/08_이웅철_0323.txt",
+      "sha256": "af774edfc7ea4f29c661098135c89f94538784a94bb7133487d389016f601b72"
+    },
+    {
+      "path": "01_프로젝트/회의 및 검토/중간발표 1020/원문/09_김정훈_0338.txt",
+      "sha256": "07dd7cd9d528e9f1eb2507d1fd7690dbaf559cae7ad78eb04731bb6b5c5970e0"
+    },
+    {
+      "path": "01_프로젝트/회의 및 검토/중간발표 1020/원문/10_김채린_0355.txt",
+      "sha256": "5d63937707e5ff1b9139f985b1340f074334ddb7e22edabe36d9bed5d8e45995"
+    },
+    {
+      "path": "01_프로젝트/회의 및 검토/중간발표 1020/원문/11_김찬희_0405.txt",
+      "sha256": "af270268099be50912eb2d69f9a5cbb228af2009014c6289721162cfb7fa0a18"
+    },
+    {
+      "path": "01_프로젝트/회의 및 검토/중간발표 1020/원문/12_최리원_0412.txt",
+      "sha256": "45cdc8826f350921ab7ae587f763be415a9f75f2ff958447b1ca2e17ef66e1cb"
+    },
+    {
+      "path": "01_프로젝트/회의 및 검토/중간발표 1020/원문/13_한경은_0424.txt",
+      "sha256": "0b463ade7355068d49db3b29440898665ff727079e91a8ff4ac7ba6cc39083bd"
+    },
+    {
+      "path": "01_프로젝트/회의 및 검토/중간발표 1020/원문/14_홍정민_0432.txt",
+      "sha256": "e17c240a5285db8996b854494c7eebe7e2e55263ba785d860cb2fee7fa35f419"
+    },
+    {
+      "path": "01_프로젝트/회의 및 검토/중간발표 1020/원문/15_이애리_0442.txt",
+      "sha256": "19463cd634f0260fee4323ed7bc76ef29bb03750d6a40d1d12687a596b77b876"
+    },
+    {
+      "path": "01_프로젝트/개발 자료/CaveBall/CaveBall 클라이언트 코드 원자료.md",
+      "sha256": "698c0b2482696746e4f865c1860b647a3a171abaebdf308dc67a6b664569712f"
+    },
+    {
+      "path": "01_프로젝트/개발 자료/CaveBall/원문 코드/CaveBall.cs",
+      "sha256": "9bd308f4511d57c61e55c4c1ad006b7bc04e79ca42740bc06fd5eb4a24f6f9a3"
+    },
+    {
+      "path": "01_프로젝트/개발 자료/CaveBall/원문 코드/CaveBallBrick.cs",
+      "sha256": "987277fa5617b58abaf5a66501cb9c5335ff677d3656555d05f7768ab923cd18"
+    },
+    {
+      "path": "01_프로젝트/개발 자료/CaveBall/원문 코드/CaveBallCameraShake.cs",
+      "sha256": "8bd13840ab984b0f3eb13379e8f81180c16cb7f448e493e599bc137e3fbbf668"
+    },
+    {
+      "path": "01_프로젝트/개발 자료/CaveBall/원문 코드/CaveBallContent.cs",
+      "sha256": "2b53c90711c433b0815ce29ccda6f8295f866405e82ac390b1c118b6d60bb503"
+    },
+    {
+      "path": "01_프로젝트/개발 자료/CaveBall/원문 코드/CaveBallDialog.cs",
+      "sha256": "3528755ac7b34557f3d23c251934b836079b6a72ec97ce66079f0abe81a6c169"
+    },
+    {
+      "path": "01_프로젝트/개발 자료/CaveBall/원문 코드/CaveBallDisplayRig.cs",
+      "sha256": "ca18ff0110ef4b8ddde76280f42dbaaf062b471d011fc14835d7b87a96b9281b"
+    },
+    {
+      "path": "01_프로젝트/개발 자료/CaveBall/원문 코드/CaveBallEffectPool.cs",
+      "sha256": "7f2110fada16f478b02da107c79491c0d2614470cc0ff27e17b34908b9b5f3f7"
+    },
+    {
+      "path": "01_프로젝트/개발 자료/CaveBall/원문 코드/CaveBallFloorInteraction.cs",
+      "sha256": "eca64efbfc0162fc80777a91432a225c9a2399454265b818b38cc34b776ea7a6"
+    },
+    {
+      "path": "01_프로젝트/개발 자료/CaveBall/원문 코드/CaveBallGameManager.cs",
+      "sha256": "16dca9ac1a5ace3b0d2b44159abcb051c545038a049d50b04f5ad28c72738b6a"
+    },
+    {
+      "path": "01_프로젝트/개발 자료/CaveBall/원문 코드/CaveBallMLInteraction.cs",
+      "sha256": "40529d6deb51f1e4a07f8e53c146181f4b48091ed994f57895e980994bd6f9b1"
+    },
+    {
+      "path": "01_프로젝트/개발 자료/CaveBall/원문 코드/CaveballScene.cs",
+      "sha256": "5db77fdd40b894028a0d6a29e859828f2c1e1db6b540b45936afeb42a5969047"
+    },
+    {
+      "path": "01_프로젝트/개발 자료/CaveBall/원문 코드/CaveBallScoreboard.cs",
+      "sha256": "a868e8d02e7795aa2dd7f0fe50bd9ff3483cc56f277a1be5b73ca83864c147fd"
+    },
+    {
+      "path": "01_프로젝트/개발 자료/CaveBall/원문 코드/CaveBallSetting.cs",
+      "sha256": "18316c22eb277688aea26afc5cbbeb70e1bb06ee822689e2d52af3ba410730db"
+    },
+    {
+      "path": "01_프로젝트/개발 자료/CaveBall/원문 코드/CaveBallSilhouetteView.cs",
+      "sha256": "78c00cd178ffc0d730f058c24e11c19c157e86c5f304c49d119864d81f026841"
+    },
+    {
+      "path": "01_프로젝트/개발 자료/CaveBall/원문 코드/PrimaryUserPoseSelector.cs",
+      "sha256": "cc8988bac5809b2cdfffdf0ae71af8ca24815960658136d4d738c9f68a0bde32"
+    },
+    {
+      "path": "01_프로젝트/개발 자료/CaveBall/원문 코드/Core/CaveBall.Core.asmdef",
+      "sha256": "be5659209cea00517d4d44b5ac9c9e5e710a012b0f76bbbd3ba8d365ec4cf7d1"
+    },
+    {
+      "path": "01_프로젝트/개발 자료/CaveBall/원문 코드/Core/CaveBallRules.cs",
+      "sha256": "276a9f5174301ad4abb1ddceeee9e7493727f9a410f90aba5ba74be176bc5cef"
+    },
+    {
+      "path": "00_시스템/00_색인/산출물 색인.md",
+      "sha256": "6c09069314bea4b8c2cc287cf8d53c8340281fe7b31316033f140f0d39035c53"
+    },
+    {
+      "path": "00_시스템/00_색인/위키 색인.md",
+      "sha256": "ccc8dba9aab9835e0f5125d5422b7db8aa35907b3a7d531522a6edc834739e0b"
+    },
+    {
+      "path": "00_시스템/01_규정/문서 형식.md",
+      "sha256": "4f5c66f762422461d6e19520e6b609a3cea3615b687c74b00b9e7a2a39d98bca"
+    },
+    {
+      "path": "00_시스템/01_규정/이미지 생성 규칙.md",
+      "sha256": "fcb4909ae09ba83800927a4246cefcb11d49fb2defaa5d4a9dd590232b2781ae"
+    },
+    {
+      "path": "00_시스템/01_규정/작성 규칙.md",
+      "sha256": "32e762660f34a889c166e5f09577cfa7796f558c7507963e3feeeb2a28a27511"
+    },
+    {
+      "path": "00_시스템/01_규정/작업 절차.md",
+      "sha256": "9c3fdeaa4616aa13ec283782f1e4aa527f792c282b55ca8d9b1b488190e9109c"
+    },
+    {
+      "path": "00_시스템/01_규정/회의록 작성 규칙.md",
+      "sha256": "3c5ae8972bc7e8f10fc15c691b37694b17fa2d30259cb101439f7fe0cc596147"
+    },
+    {
+      "path": "00_시스템/02_작업 기록/2026-10.md",
+      "sha256": "f86f2218ec1056508133f6dc86bb3c374640fa13ea679396d5b573c9794492ba"
+    },
+    {
+      "path": "00_시스템/02_작업 기록/2026-11.md",
+      "sha256": "b829b79dafd09d7dd212ec776fd6d5a015c2ff1fa87b02a30273f24861a1799f"
+    },
+    {
+      "path": "00_시스템/02_작업 기록/log.md",
+      "sha256": "7fb2a8c3c6682b3443ce123c93fed8d47e25821bccc87e8cd57db23fbe96fb15"
+    },
+    {
+      "path": "00_시스템/03_도구/heading_numbers.py",
+      "sha256": "305e104db3415f3f8b90b771f23396378beff24cd7a1075415503a9a4b6ca143"
+    },
+    {
+      "path": "00_시스템/03_도구/image_record_check.py",
+      "sha256": "522d697f0cd1661695246523fb6434377ad041ba38f5af16fb8ccd5347fc295d"
+    },
+    {
+      "path": "00_시스템/03_도구/test_heading_numbers.py",
+      "sha256": "9d5f15930dbdb644b071f273f1f9cc61e00e5397c904266cb254f27ba1571a71"
+    }
+  ]
+}

@@ -1,4 +1,12 @@
+# Obsidian session state
+.obsidian/workspace*.json
+
+# Python bytecode
 __pycache__/
 *.py[cod]
-*.hwpx
-export/
+
+# Local archive
+/99_보관소/
+
+# Temporary verification work
+/90_작업 공간/위키 구조 전환/검증용 위키/

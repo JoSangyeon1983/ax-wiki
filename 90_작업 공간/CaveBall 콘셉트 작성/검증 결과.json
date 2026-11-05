@@ -1,0 +1,20 @@
+{
+  "concepts": [
+    {
+      "path": "03_기반 기획/콘셉트/Cave Super Ball 기획서 초안.md",
+      "h1_count": 3,
+      "status": "draft",
+      "approval_status": "pending"
+    },
+    {
+      "path": "03_기반 기획/콘셉트/Cave Action 콘셉트 기획서.md",
+      "h1_count": 3,
+      "status": "draft",
+      "approval_status": "pending"
+    }
+  ],
+  "evidence_units_mapped": 35,
+  "source_files_verified": 19,
+  "existing_file_links_checked": 105,
+  "scope": "Document structure, source trace, local file links and source-copy bytes. No Unity execution."
+}

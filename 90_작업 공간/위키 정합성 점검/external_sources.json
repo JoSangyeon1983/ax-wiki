@@ -1,0 +1,52 @@
+[
+  {
+    "path": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\00_KOCCA_AX_Wiki\\assets\\1.hwpx",
+    "size": 4887982,
+    "sha256": "376dc566e6dd7e46a3623f50eec472ee65cf3b753dad93d1e892ad9def86827d",
+    "sections": [
+      "Contents/section0.xml"
+    ],
+    "text_characters": 11477
+  },
+  {
+    "path": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\00_KOCCA_AX_Wiki\\assets\\2.hwpx",
+    "size": 175500898,
+    "sha256": "5e29b5bc71aeb930578622e38a6f9edabd1e2f92c582766fe32319466673b79d",
+    "sections": [
+      "Contents/section0.xml"
+    ],
+    "text_characters": 17176
+  },
+  {
+    "path": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\00_KOCCA_AX_Wiki\\assets\\3.hwpx",
+    "size": 48352101,
+    "sha256": "516ea7db40ded2d845cbdf2fe9e3b6d7c5622399ff90a92310c81344b6a08ecb",
+    "sections": [
+      "Contents/section0.xml"
+    ],
+    "text_characters": 4863
+  },
+  {
+    "path": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\00_KOCCA_AX_Wiki\\assets\\4.hwpx",
+    "size": 113292,
+    "sha256": "b0488666cd3d532400848e90beb85005266af03f093a538fceac18d50d4e5ef3",
+    "sections": [
+      "Contents/section0.xml"
+    ],
+    "text_characters": 7278
+  },
+  {
+    "path": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\00_KOCCA_AX_Wiki\\assets\\5.hwpx",
+    "size": 6444135,
+    "sha256": "f5e92633de24e98d10e6ca155c772d55ec6cf809280ce85122393ed2ae938fe9",
+    "sections": [
+      "Contents/section0.xml"
+    ],
+    "text_characters": 4741
+  },
+  {
+    "path": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\인력양성 컨소회의 회의록.txt",
+    "size": 52175,
+    "sha256": "7ec236d4b79f1e40cb02eb3b1bd8302b942f2bbc6d81c6016792b8d6d75130bc"
+  }
+]

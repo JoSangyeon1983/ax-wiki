@@ -1,0 +1,192 @@
+[
+  {
+    "path": "AGENTS.md",
+    "before_sha256": "47da5ec0529c954c0a799568f58f285c746053454237224e22d52ecb4fe9d886",
+    "after_sha256": "52ebeaa510758dcc2ad66113d723e31053f0c75977dfe89001d376ed8b75e184"
+  },
+  {
+    "path": "02_Syntheses/CaveBall 계층형 플로우.md",
+    "before_sha256": "83c6458f2a39e9b70f1a73850704513d7bbd1f3d73970a25c8d9a2129ce07337",
+    "after_sha256": "352946ecc6b535f604056610d4704e416406923c4510b6ab13367daca19a2400"
+  },
+  {
+    "path": "02_Syntheses/CaveBall 클라이언트 코드 구조 분석.md",
+    "before_sha256": "445ed07dd8525cfe2817b456ea0159a88acdd05d0f5029a9e1fb36e77ad98cef",
+    "after_sha256": "46f15b2adb9de117822d6195e5c9338b766201b3a132165d5c0b0890818e9acf"
+  },
+  {
+    "path": "90_Workspace/CaveSuperBall/Cave Super Ball 개요 근거 추출.md",
+    "before_sha256": "050a5baeb910846d6f68fdd64c328ea4ccd64158d78f5ba00743caadef9f36e8",
+    "after_sha256": "55b6734c79bb2c6724e977deb98e3081275b5d41ba43b9472af470aec26123e6"
+  },
+  {
+    "path": "90_Workspace/위키 정합성 점검/위키 정합성 점검 보고서.md",
+    "before_sha256": "e8f6548ed9fdba5bcf83fca4fa49530705ff94fa5032852a2b02014d2662817e",
+    "after_sha256": "c9573e9d1cabea7a3866c79b720eaadd9a4ca45483103d348e728f4ae3da2d47"
+  },
+  {
+    "path": "04_Assets/01_Images/이관 이미지 관리 기록.md",
+    "before_sha256": null,
+    "after_sha256": "7cef01a5dd544799c2917de393a39b6fe829a15c676d318aae98196404817ee3"
+  },
+  {
+    "path": "03_Articles/기획서/Cave Super Ball 기획서 초안.md",
+    "before_sha256": "1bdeb303337bdbcfe564701744e80661a4f8caa3cd09fd024930d055fb063c86",
+    "after_sha256": "990af2f891091219d6a87fee9c3b94b897c39bcb08afc31f7a267a5d04f94645"
+  },
+  {
+    "path": "03_Articles/기획서/Cave Super Ball 기획서.md",
+    "before_sha256": "1a634469b69aa9e8782043f4a2a18efb0dadf914a500bcaa79d81f6dbe62c588",
+    "after_sha256": "f9aa8eb33d75a0500f12da7d8ba33439f393a392e40f69796affccf1ea0793bd"
+  },
+  {
+    "path": "01_References/01_CaveBall/CaveBall 클라이언트 코드 원자료.md",
+    "before_sha256": null,
+    "after_sha256": "c1d4fc065068b5a16e0059e2155af8e744681fd547a4e5f338703d698e6aa159"
+  },
+  {
+    "path": "01_References/90_회의록/2026-07-15 컨소시엄 킥오프 회의록.md",
+    "before_sha256": "71e6cb269561f2b098f40caa582fb10681eec944a159ba19f250d3769cf8f83f",
+    "after_sha256": "106486c5073764bca25321a47df1af72a321c9affa043f8be981d57b65e1dffc"
+  },
+  {
+    "path": "01_References/01_CaveBall/원문 코드/CaveBall.cs",
+    "before_sha256": null,
+    "after_sha256": "9bd308f4511d57c61e55c4c1ad006b7bc04e79ca42740bc06fd5eb4a24f6f9a3"
+  },
+  {
+    "path": "01_References/01_CaveBall/원문 코드/CaveBallBrick.cs",
+    "before_sha256": null,
+    "after_sha256": "987277fa5617b58abaf5a66501cb9c5335ff677d3656555d05f7768ab923cd18"
+  },
+  {
+    "path": "01_References/01_CaveBall/원문 코드/CaveBallCameraShake.cs",
+    "before_sha256": null,
+    "after_sha256": "8bd13840ab984b0f3eb13379e8f81180c16cb7f448e493e599bc137e3fbbf668"
+  },
+  {
+    "path": "01_References/01_CaveBall/원문 코드/CaveBallContent.cs",
+    "before_sha256": null,
+    "after_sha256": "2b53c90711c433b0815ce29ccda6f8295f866405e82ac390b1c118b6d60bb503"
+  },
+  {
+    "path": "01_References/01_CaveBall/원문 코드/CaveBallDialog.cs",
+    "before_sha256": null,
+    "after_sha256": "3528755ac7b34557f3d23c251934b836079b6a72ec97ce66079f0abe81a6c169"
+  },
+  {
+    "path": "01_References/01_CaveBall/원문 코드/CaveBallDisplayRig.cs",
+    "before_sha256": null,
+    "after_sha256": "ca18ff0110ef4b8ddde76280f42dbaaf062b471d011fc14835d7b87a96b9281b"
+  },
+  {
+    "path": "01_References/01_CaveBall/원문 코드/CaveBallEffectPool.cs",
+    "before_sha256": null,
+    "after_sha256": "7f2110fada16f478b02da107c79491c0d2614470cc0ff27e17b34908b9b5f3f7"
+  },
+  {
+    "path": "01_References/01_CaveBall/원문 코드/CaveBallFloorInteraction.cs",
+    "before_sha256": null,
+    "after_sha256": "eca64efbfc0162fc80777a91432a225c9a2399454265b818b38cc34b776ea7a6"
+  },
+  {
+    "path": "01_References/01_CaveBall/원문 코드/CaveBallGameManager.cs",
+    "before_sha256": null,
+    "after_sha256": "16dca9ac1a5ace3b0d2b44159abcb051c545038a049d50b04f5ad28c72738b6a"
+  },
+  {
+    "path": "01_References/01_CaveBall/원문 코드/CaveBallMLInteraction.cs",
+    "before_sha256": null,
+    "after_sha256": "40529d6deb51f1e4a07f8e53c146181f4b48091ed994f57895e980994bd6f9b1"
+  },
+  {
+    "path": "01_References/01_CaveBall/원문 코드/CaveballScene.cs",
+    "before_sha256": null,
+    "after_sha256": "5db77fdd40b894028a0d6a29e859828f2c1e1db6b540b45936afeb42a5969047"
+  },
+  {
+    "path": "01_References/01_CaveBall/원문 코드/CaveBallScoreboard.cs",
+    "before_sha256": null,
+    "after_sha256": "a868e8d02e7795aa2dd7f0fe50bd9ff3483cc56f277a1be5b73ca83864c147fd"
+  },
+  {
+    "path": "01_References/01_CaveBall/원문 코드/CaveBallSetting.cs",
+    "before_sha256": null,
+    "after_sha256": "18316c22eb277688aea26afc5cbbeb70e1bb06ee822689e2d52af3ba410730db"
+  },
+  {
+    "path": "01_References/01_CaveBall/원문 코드/CaveBallSilhouetteView.cs",
+    "before_sha256": null,
+    "after_sha256": "78c00cd178ffc0d730f058c24e11c19c157e86c5f304c49d119864d81f026841"
+  },
+  {
+    "path": "01_References/01_CaveBall/원문 코드/PrimaryUserPoseSelector.cs",
+    "before_sha256": null,
+    "after_sha256": "cc8988bac5809b2cdfffdf0ae71af8ca24815960658136d4d738c9f68a0bde32"
+  },
+  {
+    "path": "01_References/01_CaveBall/원문 코드/Core/CaveBall.Core.asmdef",
+    "before_sha256": null,
+    "after_sha256": "be5659209cea00517d4d44b5ac9c9e5e710a012b0f76bbbd3ba8d365ec4cf7d1"
+  },
+  {
+    "path": "01_References/01_CaveBall/원문 코드/Core/CaveBallRules.cs",
+    "before_sha256": null,
+    "after_sha256": "276a9f5174301ad4abb1ddceeee9e7493727f9a410f90aba5ba74be176bc5cef"
+  },
+  {
+    "path": "01_References/00_프로젝트/02_연구개발계획서/1_연구개발의 필요성.md",
+    "before_sha256": "d5f36d468cf275eb9ce39d850db01ce190df0975ccbf0f82a964a54e30506322",
+    "after_sha256": "ead93677e615f90e44bba71b2d85dcd42f0d1f53e52d34734256c415739906bf"
+  },
+  {
+    "path": "01_References/00_프로젝트/02_연구개발계획서/2_연구개발의 목표 및 내용.md",
+    "before_sha256": "81ac3c12878cc3fb5a543d38a3a56f29076c476281f5edf66e7fa164ace9636e",
+    "after_sha256": "7b86e894aa59535d6189efa779c9c3c75a0e03b191c6f364b09c502e3bc0f2b3"
+  },
+  {
+    "path": "01_References/00_프로젝트/02_연구개발계획서/3_연구개발의 추진전략과 방법 및 추진일정.md",
+    "before_sha256": "aeca95c1544872a816dc91964b68e1366f01530795ab5707f4a1d30c961b2235",
+    "after_sha256": "b63a1c93c40b88e7e62e99a2da62d327333a0bff01eb0332f4ee72d7509ecfe9"
+  },
+  {
+    "path": "01_References/00_프로젝트/02_연구개발계획서/4_마일스톤 체계 및 수행계획.md",
+    "before_sha256": "f4f0063373ebc57f87ae8583f16b774abba61cd533821bede27c8611aa2ddd2f",
+    "after_sha256": "2202f930537c081b6df088d52092ab3c7813833792d7a707264a93d35f4a6454"
+  },
+  {
+    "path": "01_References/00_프로젝트/02_연구개발계획서/5_연구개발성과의 활용방안 및 기대효과.md",
+    "before_sha256": "4941b81e093708d147b32443b3771906e9c465b0843b25aae1bc8e21049b2f1a",
+    "after_sha256": "2654938430c695c0606a13355265bc5d0678ce36152cef60959a64810ab8d161"
+  },
+  {
+    "path": "00_System/00_Index/Index.md",
+    "before_sha256": "49426d39d0d127683333c58eb72760e64d6ff451015618d2fba325e5c7aeb454",
+    "after_sha256": "248a0b769e820f9f431b95e42bc161ea24cf4731e33474ef753b872f42684da8"
+  },
+  {
+    "path": "00_System/01_Rules/문서 작성 규칙.md",
+    "before_sha256": "126f611a6756b0785ddd2fed0c9b13f53769893d8fe634e36b6f643b623e84d6",
+    "after_sha256": "717763df1c348131710b213bb3d949fef1388aec498faaad11787e1b905b2775"
+  },
+  {
+    "path": "00_System/01_Rules/문서 형식.md",
+    "before_sha256": "1c46a11c6bdc4bea53d79a32356f1324c325faaad8f0d7d7961a8267e94229d1",
+    "after_sha256": "81028a0346c9571b9ef4b005259d2ed58e299c81855c8cea1118660cd6c6805b"
+  },
+  {
+    "path": "00_System/01_Rules/위키 작업 절차.md",
+    "before_sha256": "323fccc98c78e02b9ebd88810101b39709707bb347a6732a5c6e7f492e2b872a",
+    "after_sha256": "3e8b900a9a535e1567ec65c6dc1bf6793b6f451b823b88ee28571d6822f9f5d3"
+  },
+  {
+    "path": "00_System/01_Rules/이미지 생성 규칙.md",
+    "before_sha256": "06c824d69e76fefb75deabc4f510cca65d65c3acc433270365e785768a26c2bd",
+    "after_sha256": "3dd59f226c792112b4644c7bc5800a058b6fc2bac24285f524e2b5e4b572e737"
+  },
+  {
+    "path": "00_System/02_Logs/2026-10.md",
+    "before_sha256": null,
+    "after_sha256": "88bfe8396b2b24dbb5515f4b019159de3e9a5e8ced375d6efc617214cf434ac8"
+  }
+]
