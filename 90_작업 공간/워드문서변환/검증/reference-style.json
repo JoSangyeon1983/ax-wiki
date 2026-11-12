@@ -1,0 +1,12 @@
+{
+  "input": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\90_\uc791\uc5c5 \uacf5\uac04\\\uc6cc\ub4dc\ubb38\uc11c\ubcc0\ud658\\\ubb34\ud615\ubb38\ud654\uc720\uc0b0 \uc804\uc2b9_\uae30\ud68d\uc11c \uc591\uc2dd_ver.0.0.2_20260721.docx",
+  "fonts_by_char_count": {},
+  "direct_run_formatting_runs": 0,
+  "direct_paragraph_formatting_paragraphs": 0,
+  "heading_like_paragraphs_not_heading_style": [],
+  "examples": {},
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}

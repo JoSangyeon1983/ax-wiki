@@ -1,13 +1,15 @@
 ---
-title: "Cave Super Ball 기획서"
+title: Cave Super Ball 기획서
 type: article
-created: "2026-09-08"
-updated: "2026-11-04"
+created: 2026-09-08
+updated: 2026-11-04
 status: draft
-tags: [기획서, Cave Super Ball]
+tags:
+  - 기획서
+  - Cave Super Ball
 sources:
-  - "[[03_기반 기획/콘셉트/Cave Super Ball 기획서 초안]]"
-related_documents: 
+  - "[[Cave Super Ball 콘셉트 기획서]]"
+related_documents:
   - "[[05_참고 자료/분석 자료/CaveBall 클라이언트 코드 구조 분석]]"
   - "[[05_참고 자료/분석 자료/CaveBall 계층형 플로우]]"
 planning_role: detail
@@ -24,7 +26,7 @@ approval_status: unverified
 - **개발 목적**
 	- 다면 영상 출력과 손 및 바닥 입력의 통합 상호작용을 검증할 시범 콘텐츠 개발
 
-근거: [Cave Super Ball 기획서 초안: 개요](<../../03_기반 기획/콘셉트/Cave Super Ball 기획서 초안.md#1-개요>).
+근거: [Cave Super Ball 기획서 초안: 개요](<Cave Super Ball 콘셉트 기획서.md#1-개요>).
 
 # 2 핵심 게임 플로우
 

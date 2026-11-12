@@ -1,0 +1,67 @@
+{
+  "input": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\08_\uc0b0\ucd9c\ubb3c\\\uc6cc\ub4dc \ubb38\uc11c \ubcc0\ud658\\Cave Super Ball \ucf58\uc149\ud2b8 \uae30\ud68d\uc11c.docx",
+  "fonts_by_char_count": {},
+  "direct_run_formatting_runs": 5,
+  "direct_paragraph_formatting_paragraphs": 72,
+  "heading_like_paragraphs_not_heading_style": [],
+  "examples": {
+    "direct_run_formatting": [
+      {
+        "para_index": 9,
+        "run_text": "Cave Super Ball",
+        "style": "Normal"
+      },
+      {
+        "para_index": 13,
+        "run_text": "\uac1c\ubc1c \ubaa9\uc801",
+        "style": "Normal"
+      },
+      {
+        "para_index": 14,
+        "run_text": "\uc0c9\uc744 \uc815\ud558\ub294 \uc190",
+        "style": "Normal"
+      },
+      {
+        "para_index": 15,
+        "run_text": "\ubc29\ud5a5\uc744 \ubc14\uafb8\ub294 \ubc1c",
+        "style": "Normal"
+      },
+      {
+        "para_index": 16,
+        "run_text": "\uacf5\uc744 \ud568\uaed8 \uc8fc\uc2dc\ud558\ub294 \ud50c\ub808\uc774",
+        "style": "Normal"
+      }
+    ],
+    "direct_paragraph_formatting": [
+      {
+        "para_index": 25,
+        "text": "",
+        "style": "Normal"
+      },
+      {
+        "para_index": 29,
+        "text": "",
+        "style": "Normal"
+      },
+      {
+        "para_index": 39,
+        "text": "",
+        "style": "Normal"
+      },
+      {
+        "para_index": 54,
+        "text": "",
+        "style": "Normal"
+      },
+      {
+        "para_index": 61,
+        "text": "",
+        "style": "Normal"
+      }
+    ]
+  },
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}

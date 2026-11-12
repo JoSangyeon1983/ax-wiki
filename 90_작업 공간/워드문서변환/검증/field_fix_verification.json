@@ -1,0 +1,8 @@
+{
+  "page_count": 11,
+  "all_pixels_identical_to_visually_reviewed_output": true,
+  "word_open_with_alerts_enabled": "passed",
+  "parts_changed": [
+    "word/settings.xml"
+  ]
+}

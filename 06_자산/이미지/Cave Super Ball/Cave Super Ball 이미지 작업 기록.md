@@ -2,12 +2,12 @@
 title: "Cave Super Ball 이미지 작업 기록"
 type: asset
 created: "2026-11-05"
-updated: "2026-11-05"
+updated: "2026-11-12"
 status: review
 reviewed: "2026-11-05"
-review_note: "4:3 비율, 직접 시각 검수, 별도 컨텍스트의 블라인드 전사와 문자열 대조 완료. 개요용 콘셉트 시각화이며 기획 승인과 실제 구현 화면 검증은 포함하지 않음."
+review_note: 4:3 비율, 직접 시각 검수, 별도 컨텍스트의 블라인드 전사와 문자열 대조 완료. 개요용 콘셉트 시각화이며 기획 승인과 실제 구현 화면 검증은 포함하지 않음.
 sources:
-  - "[[03_기반 기획/콘셉트/Cave Super Ball 기획서 초안]]"
+  - "[[03_기반 기획/콘셉트/Cave Super Ball 콘셉트 기획서]]"
 asset_files:
   - "06_자산/이미지/Cave Super Ball/Cave Super Ball 개요.png"
 ---
@@ -15,7 +15,7 @@ asset_files:
 # 1 용도와 입력
 
 - 요청: 콘텐츠 개요에 사용할 가로 세로 4:3 이미지 생성과 HTML 삽입.
-- 입력: [Cave Super Ball 기획서 초안](<../../../03_기반 기획/콘셉트/Cave Super Ball 기획서 초안.md>)의 2026-11-05 본문.
+- 입력: [Cave Super Ball 기획서 초안](<../../../03_기반 기획/콘셉트/Cave Super Ball 콘셉트 기획서.md>)의 2026-11-05 본문.
 - 핵심 메시지: 손과 바닥 입력으로 하나의 공을 조작하여 벽돌을 파괴하는 다면 공간 게임.
 - 입력 대응: 손 색 변경: 1.1 콘텐츠 정의, 1.2 개발 목적과 핵심 경험 및 3.2 참여자 인식과 입력. 바닥 반사와 벽돌 파괴: 1.1 콘텐츠 정의와 1.2 개발 목적과 핵심 경험. 4면 공간과 양측 벽돌: 3.1 공간과 화면.
 - 제외 범위: 진영 배정과 승패, 권장 인원 및 세부 수치는 미정이므로 표시하지 않음. 두 인물은 다중 참여의 예시임.
@@ -86,7 +86,7 @@ In the bottom-left annotation, add a compact full-color illustration of a red le
 ```json
 {
   "schema": "image-work-record-v1",
-  "article_path": "03_기반 기획/콘셉트/Cave Super Ball 기획서 초안.md",
+  "article_path": "03_기반 기획/콘셉트/Cave Super Ball 콘셉트 기획서.md",
   "article_sha256": "8FD827316CA3108E49EAE99C9B6FA785555BA3A3F4624A404B5F144A2A2714B2",
   "source_article_sha256_before_insertion": "203FC67F7834D0950CF79FCD7E3968EC54D688D697B4AC6A22CDB216A5A9DC96",
   "other_article_images": [

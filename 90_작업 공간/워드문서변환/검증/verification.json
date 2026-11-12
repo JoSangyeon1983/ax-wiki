@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "source_unchanged": true,
+  "reference_unchanged": true,
+  "body_blocks_compared": 103,
+  "preserve_only_parts": 21,
+  "source_section_count": 2,
+  "output_section_count": 2,
+  "headings": 26,
+  "toc_entries": 15,
+  "images": 2,
+  "body_tables": 4,
+  "output_sha256": "02d4128d4c39341b5a76825be1bc9f4665bb656d2d65c41acd46a690da71c1d0"
+}

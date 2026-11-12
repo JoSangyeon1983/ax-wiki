@@ -1,0 +1,725 @@
+{
+  "source": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\03_기반 기획\\콘셉트\\Cave Super Ball 콘셉트 기획서.md",
+  "source_sha256": "8fd827316ca3108e49eae99c9b6fa785555ba3a3f4624a404b5f144a2a2714b2",
+  "template": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\90_작업 공간\\워드문서변환\\무형문화유산 전승_기획서 양식_ver.0.0.2_20260721.docx",
+  "template_sha256": "87ee90072eca5faa41d5712b5b753b9f3e38d545f9a01861e2977b113e7907ea",
+  "output": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\08_산출물\\워드 문서 변환\\Cave Super Ball 콘셉트 기획서.docx",
+  "frontmatter_included": false,
+  "counts": {
+    "bullet": 36,
+    "heading": 21,
+    "image": 2,
+    "ordered": 4,
+    "paragraph": 3,
+    "table": 6
+  },
+  "headings": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "개요",
+      "source": "1 개요",
+      "bookmark": "_CaveHeading001"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "콘텐츠 정의",
+      "source": "1.1 콘텐츠 정의",
+      "bookmark": "_CaveHeading002"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "개발 목적과 핵심 경험",
+      "source": "1.2 개발 목적과 핵심 경험",
+      "bookmark": "_CaveHeading003"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "적용 범위",
+      "source": "1.3 적용 범위",
+      "bookmark": "_CaveHeading004"
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "전체 플로우",
+      "source": "2 전체 플로우",
+      "bookmark": "_CaveHeading005"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "시작",
+      "source": "2.1 시작",
+      "bookmark": "_CaveHeading006"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "플레이 반복",
+      "source": "2.2 플레이 반복",
+      "bookmark": "_CaveHeading007"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "라운드 재시작",
+      "source": "2.3 라운드 재시작",
+      "bookmark": "_CaveHeading008"
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "주요 시스템",
+      "source": "3 주요 시스템",
+      "bookmark": "_CaveHeading009"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "공간과 화면",
+      "source": "3.1 공간과 화면",
+      "bookmark": "_CaveHeading010"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "참여자 인식과 입력",
+      "source": "3.2 참여자 인식과 입력",
+      "bookmark": "_CaveHeading011"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "손 입력",
+      "source": "3.2.1 손 입력",
+      "bookmark": "_CaveHeading012"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "바닥 입력",
+      "source": "3.2.2 바닥 입력",
+      "bookmark": "_CaveHeading013"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "공의 색과 반사",
+      "source": "3.3 공의 색과 반사",
+      "bookmark": "_CaveHeading014"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "색 상태",
+      "source": "3.3.1 색 상태",
+      "bookmark": "_CaveHeading015"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "이동과 반사",
+      "source": "3.3.2 이동과 반사",
+      "bookmark": "_CaveHeading016"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "벽돌과 점수",
+      "source": "3.4 벽돌과 점수",
+      "bookmark": "_CaveHeading017"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "진행과 피드백",
+      "source": "3.5 진행과 피드백",
+      "bookmark": "_CaveHeading018"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "상태 전달",
+      "source": "3.5.1 상태 전달",
+      "bookmark": "_CaveHeading019"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "현재 구현의 기준값",
+      "source": "3.5.2 현재 구현의 기준값",
+      "bookmark": "_CaveHeading020"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "미정 사항",
+      "source": "3.5.3 미정 사항",
+      "bookmark": "_CaveHeading021"
+    }
+  ],
+  "images": [
+    {
+      "path": "06_자산\\이미지\\Cave Super Ball\\Cave Super Ball 개요.png",
+      "media": "word/media/cave_action_1.png",
+      "sha256": "ae37517ce13cef9f88276de9e8b47433960def91d99021397491387add527bed",
+      "pixels": [
+        1448,
+        1086
+      ],
+      "extent": [
+        6188710,
+        4641532
+      ]
+    },
+    {
+      "path": "06_자산\\도표\\CaveBall 전체 플로우\\Cave Super Ball 전체 플로우.png",
+      "media": "word/media/cave_action_2.png",
+      "sha256": "e8ffc0642c4475f160eb463dd47fc97b7fc25e32a5f7b6017207d9ddf1dd09ce",
+      "pixels": [
+        1680,
+        1600
+      ],
+      "extent": [
+        6188710,
+        5894010
+      ]
+    }
+  ],
+  "changed_parts": [
+    "docProps/core.xml",
+    "customXml/item1.xml",
+    "word/document.xml",
+    "word/_rels/document.xml.rels",
+    "word/numbering.xml",
+    "[Content_Types].xml"
+  ],
+  "added_parts": [
+    "word/media/cave_action_1.png",
+    "word/media/cave_action_2.png"
+  ],
+  "preserved_parts": [
+    "_rels/.rels",
+    "word/footnotes.xml",
+    "word/endnotes.xml",
+    "word/footer1.xml",
+    "word/theme/theme1.xml",
+    "word/settings.xml",
+    "word/glossary/document.xml",
+    "word/glossary/settings.xml",
+    "word/glossary/_rels/document.xml.rels",
+    "customXml/itemProps1.xml",
+    "customXml/item2.xml",
+    "customXml/itemProps2.xml",
+    "word/styles.xml",
+    "word/webSettings.xml",
+    "word/fontTable.xml",
+    "word/glossary/styles.xml",
+    "word/glossary/webSettings.xml",
+    "word/glossary/fontTable.xml",
+    "docProps/app.xml",
+    "customXml/_rels/item1.xml.rels",
+    "customXml/_rels/item2.xml.rels"
+  ],
+  "blocks": [
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "개요",
+      "source": "1 개요"
+    },
+    {
+      "kind": "image",
+      "path": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\06_자산\\이미지\\Cave Super Ball\\Cave Super Ball 개요.png",
+      "alt": "Cave Super Ball의 핵심 경험을 표현한 4:3 콘셉트 이미지"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "콘텐츠 정의",
+      "source": "1.1 콘텐츠 정의"
+    },
+    {
+      "kind": "bullet",
+      "text": "**Cave Super Ball**은 여러 참여자가 손으로 공의 색을 바꾸고 바닥 접촉으로 공을 반사시켜 양쪽 벽면의 벽돌을 파괴하는 4면 공간형 실감 게임임.",
+      "number": null
+    },
+    {
+      "kind": "bullet",
+      "text": "코드상 콘텐츠명은 `CaveBall`이며, 하나의 공에 여러 참여자의 입력이 함께 영향을 주는 방식임.",
+      "number": null
+    },
+    {
+      "kind": "bullet",
+      "text": "왼쪽 벽은 빨간 벽돌, 오른쪽 벽은 파란 벽돌로 구성하며, 공과 같은 색의 벽돌을 파괴하면 반대 색 진영에 점수를 부여함.",
+      "number": null
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "개발 목적과 핵심 경험",
+      "source": "1.2 개발 목적과 핵심 경험"
+    },
+    {
+      "kind": "bullet",
+      "text": "**개발 목적**: 다면 영상 출력, 손 인식과 바닥 접촉을 하나의 공 조작에 연결하는 공간형 게임 구현.",
+      "number": null
+    },
+    {
+      "kind": "bullet",
+      "text": "**색을 정하는 손**: 흰 공에 왼손 또는 오른손을 겹쳐 파괴할 벽돌의 색을 정하는 경험.",
+      "number": null
+    },
+    {
+      "kind": "bullet",
+      "text": "**방향을 바꾸는 발**: 바닥의 공 위치에 맞춰 이동하고 접촉하여 공의 진행 방향을 바꾸는 경험.",
+      "number": null
+    },
+    {
+      "kind": "bullet",
+      "text": "**공을 함께 주시하는 플레이**: 여러 참여자가 공의 위치와 색을 보고 연속으로 개입하며 벽돌 파괴와 점수 변화를 만드는 경험.",
+      "number": null
+    },
+    {
+      "kind": "paragraph",
+      "text": "개발 목적과 핵심 경험은 채택한 구현 규칙을 바탕으로 정리한 기획상 해석임."
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "적용 범위",
+      "source": "1.3 적용 범위"
+    },
+    {
+      "kind": "bullet",
+      "text": "본 문서는 2026-11-05 구현 자료를 바탕으로 작성한 콘셉트 초안이며 승인 대기 상태임.",
+      "number": null
+    },
+    {
+      "kind": "bullet",
+      "text": "플레이 인원은 다중 참여로 설정함. 현재 코드의 최대 4명 손 처리 설정은 참고값이며 현장 권장 인원은 미정임.",
+      "number": null
+    },
+    {
+      "kind": "bullet",
+      "text": "개인별 진영 배정, 최종 승패와 누적 랭킹은 본 콘셉트의 확정 규칙에 포함하지 않음.",
+      "number": null
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "전체 플로우",
+      "source": "2 전체 플로우"
+    },
+    {
+      "kind": "image",
+      "path": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\06_자산\\도표\\CaveBall 전체 플로우\\Cave Super Ball 전체 플로우.png",
+      "alt": "Cave Super Ball 전체 플로우: 라운드 준비, 플레이, 전체 벽돌 파괴 확인과 재시작"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "시작",
+      "source": "2.1 시작"
+    },
+    {
+      "kind": "table",
+      "rows": [
+        [
+          "순서",
+          "진행",
+          "참여자가 확인하는 내용"
+        ],
+        [
+          "1",
+          "콘텐츠 진입 시 화면, 공, 벽돌, 점수와 입력 준비",
+          "정면, 측면과 바닥에 구성된 경기 공간"
+        ],
+        [
+          "2",
+          "벽돌 복원, 두 색 점수 초기화, 흰 공 이동 시작",
+          "새로운 라운드와 이동하는 공"
+        ]
+      ]
+    },
+    {
+      "kind": "bullet",
+      "text": "현재 흐름은 콘텐츠 진입에 따라 시작함. 별도의 참가 등록이나 인원 충족 대기 단계는 미정임.",
+      "number": null
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "플레이 반복",
+      "source": "2.2 플레이 반복"
+    },
+    {
+      "kind": "paragraph",
+      "text": "공이 이동하는 동안 손 입력과 바닥 입력을 각각 처리함. 손 접촉 이후에만 바닥 입력을 받을 수 있는 순서형 조작은 아님."
+    },
+    {
+      "kind": "table",
+      "rows": [
+        [
+          "상황",
+          "처리",
+          "다음 상태"
+        ],
+        [
+          "흰 공과 왼손 접촉",
+          "빨간색 부여",
+          "빨간 벽돌을 파괴할 수 있는 상태"
+        ],
+        [
+          "흰 공과 오른손 접촉",
+          "파란색 부여",
+          "파란 벽돌을 파괴할 수 있는 상태"
+        ],
+        [
+          "공의 바닥 투영 영역과 바닥 접촉이 겹침",
+          "높이와 입력 간격 조건을 확인한 뒤 반사 및 가속",
+          "바뀐 방향으로 공 이동"
+        ],
+        [
+          "같은 색 벽돌과 충돌",
+          "벽돌 제거, 반대 색 점수 증가, 파괴 피드백",
+          "남은 벽돌을 대상으로 계속 진행"
+        ],
+        [
+          "손 색 유지 시간 만료",
+          "흰색 복귀",
+          "다시 손 색을 받을 수 있는 상태"
+        ]
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "라운드 재시작",
+      "source": "2.3 라운드 재시작"
+    },
+    {
+      "kind": "ordered",
+      "text": "모든 벽돌이 파괴되면 공의 이동을 멈춤.",
+      "number": 1
+    },
+    {
+      "kind": "ordered",
+      "text": "재시작 대기 시간을 둠.",
+      "number": 2
+    },
+    {
+      "kind": "ordered",
+      "text": "벽돌, 두 색 점수와 공을 초기화함.",
+      "number": 3
+    },
+    {
+      "kind": "ordered",
+      "text": "흰 공을 다시 이동시키고 다음 라운드를 시작함.",
+      "number": 4
+    },
+    {
+      "kind": "bullet",
+      "text": "이전 라운드 점수는 다음 라운드에 누적하지 않음.",
+      "number": null
+    },
+    {
+      "kind": "bullet",
+      "text": "콘텐츠 이탈 시 입력과 공의 움직임을 중지함. 별도의 체험 종료 조건과 결과 화면은 미정임.",
+      "number": null
+    },
+    {
+      "kind": "heading",
+      "level": 1,
+      "text": "주요 시스템",
+      "source": "3 주요 시스템"
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "공간과 화면",
+      "source": "3.1 공간과 화면"
+    },
+    {
+      "kind": "table",
+      "rows": [
+        [
+          "화면",
+          "주요 역할"
+        ],
+        [
+          "정면",
+          "참여자 실루엣, 손 색 효과와 점수 표시"
+        ],
+        [
+          "좌측 벽",
+          "빨간 벽돌과 해당 벽돌의 파괴 피드백"
+        ],
+        [
+          "우측 벽",
+          "파란 벽돌과 해당 벽돌의 파괴 피드백"
+        ],
+        [
+          "바닥",
+          "공의 위치를 보고 접촉을 시도하는 공간"
+        ]
+      ]
+    },
+    {
+      "kind": "bullet",
+      "text": "벽면과 바닥을 함께 사용하여 참여자의 시선과 이동을 경기 공간 전체로 확장함.",
+      "number": null
+    },
+    {
+      "kind": "bullet",
+      "text": "바닥의 복수 출력은 블렌딩 설정으로 연결함. 실제 화면 크기와 장비 대수는 설치 조건에 따라 별도 결정함.",
+      "number": null
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "참여자 인식과 입력",
+      "source": "3.2 참여자 인식과 입력"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "손 입력",
+      "source": "3.2.1 손 입력"
+    },
+    {
+      "kind": "bullet",
+      "text": "카메라의 자세 추정 결과에서 인물별 왼손목과 오른손목을 사용함.",
+      "number": null
+    },
+    {
+      "kind": "bullet",
+      "text": "왼손은 빨간 효과, 오른손은 파란 효과로 표시함.",
+      "number": null
+    },
+    {
+      "kind": "bullet",
+      "text": "손과 공이 정면 화면에서 겹치면 공에 해당 색을 요청함.",
+      "number": null
+    },
+    {
+      "kind": "bullet",
+      "text": "동일 참여자가 양손을 모두 사용할 수 있으며, 손의 색을 사람별 소속 진영으로 해석하지 않음.",
+      "number": null
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "바닥 입력",
+      "source": "3.2.2 바닥 입력"
+    },
+    {
+      "kind": "bullet",
+      "text": "바닥 센서의 접촉 좌표를 화면 좌표에 맞춰 보정하고, 가까운 접촉점과 짧은 입력 누락을 정리함.",
+      "number": null
+    },
+    {
+      "kind": "bullet",
+      "text": "공의 바닥 투영 영역과 겹치는 접촉점을 찾아 반사를 요청함.",
+      "number": null
+    },
+    {
+      "kind": "bullet",
+      "text": "접촉점이 여럿이면 공 중심과 가장 가까운 점을 반사 기준으로 사용함.",
+      "number": null
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "공의 색과 반사",
+      "source": "3.3 공의 색과 반사"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "색 상태",
+      "source": "3.3.1 색 상태"
+    },
+    {
+      "kind": "table",
+      "rows": [
+        [
+          "공의 상태",
+          "손 접촉 처리",
+          "벽돌 파괴"
+        ],
+        [
+          "흰색",
+          "빨강 또는 파랑으로 변경 가능",
+          "불가"
+        ],
+        [
+          "빨강",
+          "추가 색 변경을 받지 않음. 유지 시간 후 흰색 복귀",
+          "빨간 벽돌 파괴 가능"
+        ],
+        [
+          "파랑",
+          "추가 색 변경을 받지 않음. 유지 시간 후 흰색 복귀",
+          "파란 벽돌 파괴 가능"
+        ]
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "이동과 반사",
+      "source": "3.3.2 이동과 반사"
+    },
+    {
+      "kind": "bullet",
+      "text": "공은 경기 공간 안에서 물리 충돌에 따라 이동함.",
+      "number": null
+    },
+    {
+      "kind": "bullet",
+      "text": "바닥 반사는 접촉점에서 공 중심으로 향하는 수평 방향을 기준으로 하며 위쪽 속도를 함께 부여함.",
+      "number": null
+    },
+    {
+      "kind": "bullet",
+      "text": "반사 시 가속을 적용하고, 속도 보정과 최소 축 속도로 이동을 유지함.",
+      "number": null
+    },
+    {
+      "kind": "bullet",
+      "text": "바닥 접촉은 공의 색을 바꾸지 않음.",
+      "number": null
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "벽돌과 점수",
+      "source": "3.4 벽돌과 점수"
+    },
+    {
+      "kind": "table",
+      "rows": [
+        [
+          "대상",
+          "파괴 조건",
+          "득점"
+        ],
+        [
+          "좌측 빨간 벽돌",
+          "빨간 공과 충돌",
+          "파랑 점수 1 증가"
+        ],
+        [
+          "우측 파란 벽돌",
+          "파란 공과 충돌",
+          "빨강 점수 1 증가"
+        ]
+      ]
+    },
+    {
+      "kind": "bullet",
+      "text": "공과 다른 색의 벽돌은 해당 충돌로 파괴하지 않음.",
+      "number": null
+    },
+    {
+      "kind": "bullet",
+      "text": "파괴된 벽돌은 라운드 재시작 전까지 제거 상태를 유지함.",
+      "number": null
+    },
+    {
+      "kind": "bullet",
+      "text": "모든 벽돌의 제거 여부를 라운드 완료 기준으로 사용함.",
+      "number": null
+    },
+    {
+      "kind": "heading",
+      "level": 2,
+      "text": "진행과 피드백",
+      "source": "3.5 진행과 피드백"
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "상태 전달",
+      "source": "3.5.1 상태 전달"
+    },
+    {
+      "kind": "bullet",
+      "text": "정면의 실루엣과 양손 효과로 참여자의 입력 위치를 보여줌.",
+      "number": null
+    },
+    {
+      "kind": "bullet",
+      "text": "공 색으로 현재 파괴 가능한 벽돌을 구분함.",
+      "number": null
+    },
+    {
+      "kind": "bullet",
+      "text": "벽돌 파괴 시 시각 효과, 소리, 해당 측면의 화면 흔들림과 점수 변화로 결과를 전달함.",
+      "number": null
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "현재 구현의 기준값",
+      "source": "3.5.2 현재 구현의 기준값"
+    },
+    {
+      "kind": "paragraph",
+      "text": "아래 값은 초안 검토의 출발점이며 최종 운영값은 현장 시험 후 결정함."
+    },
+    {
+      "kind": "table",
+      "rows": [
+        [
+          "항목",
+          "현재 값"
+        ],
+        [
+          "손 색 유지",
+          "5초"
+        ],
+        [
+          "전체 벽돌 파괴 후 재시작 대기",
+          "3초"
+        ],
+        [
+          "손 입력 처리 슬롯",
+          "최대 4명"
+        ]
+      ]
+    },
+    {
+      "kind": "heading",
+      "level": 3,
+      "text": "미정 사항",
+      "source": "3.5.3 미정 사항"
+    },
+    {
+      "kind": "bullet",
+      "text": "현장 권장 인원, 개인별 역할과 진영 배정 여부.",
+      "number": null
+    },
+    {
+      "kind": "bullet",
+      "text": "체험 1회의 종료 조건, 최종 승패와 결과 표시 방식.",
+      "number": null
+    },
+    {
+      "kind": "bullet",
+      "text": "바닥 반사 높이와 접촉 판정 범위. 현재 허용 높이가 경기장 높이와 같아 공중 반사 가능성 확인 필요.",
+      "number": null
+    },
+    {
+      "kind": "bullet",
+      "text": "실제 설치에서의 인식 안정성, 화면 정렬과 플레이 균형. 외부 모듈 복원 후 실행 검증 필요.",
+      "number": null
+    }
+  ],
+  "page_cache_updated": true
+}

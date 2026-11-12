@@ -1,0 +1,14 @@
+{
+  "output": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\08_산출물\\워드 문서 변환\\Cave Action 콘셉트 기획서.docx",
+  "before_sha256": "fe8f47c2c14b91784f9af8c247216ed2434988d2348ae87e94028eaacc45a480",
+  "after_sha256": "02d4128d4c39341b5a76825be1bc9f4665bb656d2d65c41acd46a690da71c1d0",
+  "removed_update_fields": [
+    {
+      "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}val": "true"
+    }
+  ],
+  "only_changed_part": "word/settings.xml",
+  "all_other_parts_identical": true,
+  "settings_matches_reference": true,
+  "reference_sha256": "87ee90072eca5faa41d5712b5b753b9f3e38d545f9a01861e2977b113e7907ea"
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "path": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\90_작업 공간\\워드문서변환\\무형문화유산 전승_기획서 양식_ver.0.0.2_20260721.docx",
+    "sha256": "87ee90072eca5faa41d5712b5b753b9f3e38d545f9a01861e2977b113e7907ea",
+    "fields": {
+      "word/document.xml": [
+        " TOC \\o \"2-2\" \\h \\z \\t \"제목 1,1\" ",
+        " PAGEREF _Toc234852306 \\h "
+      ],
+      "word/footer1.xml": [
+        "PAGE   \\* MERGEFORMAT"
+      ]
+    },
+    "external_relationships": [],
+    "update_fields": []
+  },
+  {
+    "path": "D:\\Sangyeon\\02_Task\\2026\\03_KOCCA\\AX\\01_Wiki\\08_산출물\\워드 문서 변환\\Cave Action 콘셉트 기획서.docx",
+    "sha256": "02d4128d4c39341b5a76825be1bc9f4665bb656d2d65c41acd46a690da71c1d0",
+    "fields": {
+      "word/document.xml": [
+        " TOC \\o \"2-2\" \\h \\z \\t \"제목 1,1\" ",
+        " PAGEREF _CaveHeading001 \\h ",
+        " PAGEREF _CaveHeading002 \\h ",
+        " PAGEREF _CaveHeading003 \\h ",
+        " PAGEREF _CaveHeading004 \\h ",
+        " PAGEREF _CaveHeading005 \\h ",
+        " PAGEREF _CaveHeading006 \\h ",
+        " PAGEREF _CaveHeading007 \\h ",
+        " PAGEREF _CaveHeading008 \\h ",
+        " PAGEREF _CaveHeading009 \\h ",
+        " PAGEREF _CaveHeading010 \\h ",
+        " PAGEREF _CaveHeading011 \\h ",
+        " PAGEREF _CaveHeading012 \\h ",
+        " PAGEREF _CaveHeading015 \\h ",
+        " PAGEREF _CaveHeading020 \\h ",
+        " PAGEREF _CaveHeading023 \\h "
+      ],
+      "word/footer1.xml": [
+        "PAGE   \\* MERGEFORMAT"
+      ]
+    },
+    "external_relationships": [],
+    "update_fields": []
+  }
+]

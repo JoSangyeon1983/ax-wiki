@@ -24,14 +24,19 @@ def digest(path):
     return hashlib.sha256(path.read_bytes()).hexdigest().upper()
 
 
-def validate_article_targets(root, managed_paths, article_targets, other_images):
-    """Keep exact coverage while allowing explicitly listed, separately managed images."""
+def validate_article_targets(root, managed_paths, article_targets, other_images, standalone_images=()):
+    """Keep exact coverage and allow explicitly listed assets not inserted in the article."""
+    standalone = [inside(root, value) for value in standalone_images]
+    if (len(set(standalone)) != len(standalone)
+            or not set(standalone).issubset(managed_paths)
+            or set(standalone) & article_targets):
+        raise ValueError("Invalid standalone image list")
     others = [inside(root, value) for value in other_images]
     if len(set(others)) != len(others) or set(others) & set(managed_paths):
         raise ValueError("Duplicate or overlapping other article image")
     if any(not path.is_file() or path.is_relative_to(root / "99_보관소") for path in others):
         raise ValueError("Invalid other article image")
-    if set(managed_paths) | set(others) != article_targets:
+    if (set(managed_paths) - set(standalone)) | set(others) != article_targets:
         raise ValueError("Article image targets do not match record")
 
 
@@ -97,7 +102,8 @@ def validate(record_path, root, include_archive=False):
     article_images = re.findall(r'<img\b[^>]*\bsrc="([^"]+)"', article)
     article_targets = {inside(root, str((article_path.parent / unquote(ref)).relative_to(root)))
                        for ref in article_images}
-    validate_article_targets(root, paths, article_targets, data.get("other_article_images", []))
+    validate_article_targets(root, paths, article_targets, data.get("other_article_images", []),
+                             data.get("standalone_images", []))
     visible = re.sub(r"(?ms)^```[^\n]*\n.*?^```\s*$", "", body)
     refs = re.findall(r"\[[^\]\n]*\]\(([^)]+)\)", visible)
     refs += re.findall(r'<img\b[^>]*\bsrc="([^"]+)"', visible)

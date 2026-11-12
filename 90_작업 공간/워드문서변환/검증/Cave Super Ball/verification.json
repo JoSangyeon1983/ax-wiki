@@ -1,0 +1,21 @@
+{
+  "passed": true,
+  "source_unchanged": true,
+  "reference_unchanged": true,
+  "body_blocks_compared": 72,
+  "preserve_only_parts": 21,
+  "source_section_count": 2,
+  "output_section_count": 2,
+  "headings": 21,
+  "toc_entries": 14,
+  "images": 2,
+  "body_tables": 6,
+  "output_sha256": "c70b1eb753651249045ac16c155b60b42b35fcc7ed1c3335d62c195a9597924f",
+  "auto_field_update": false,
+  "external_relationships": 0,
+  "field_commands": [
+    "PAGE",
+    "PAGEREF",
+    "TOC"
+  ]
+}

@@ -22,6 +22,18 @@ class ArticleImageCoverageTest(unittest.TestCase):
     def test_explicit_separate_image(self):
         validate_article_targets(self.root, [self.managed], {self.managed, self.other}, ["flow.png"])
 
+    def test_standalone_asset_without_article_insertion(self):
+        validate_article_targets(self.root, [self.managed, self.other], {self.managed}, [], ["flow.png"])
+
+    def test_invalid_standalone_declarations_rejected(self):
+        for values in (["flow.png", "flow.png"], ["unknown.png"], ["overview.png"]):
+            with self.subTest(values=values), self.assertRaisesRegex(ValueError, "Invalid standalone"):
+                validate_article_targets(self.root, [self.managed, self.other], {self.managed}, [], values)
+
+    def test_standalone_outside_path_rejected(self):
+        with self.assertRaisesRegex(ValueError, "outside wiki"):
+            validate_article_targets(self.root, [self.managed], {self.managed}, [], ["../outside.png"])
+
     def test_unlisted_extra_image_rejected(self):
         with self.assertRaisesRegex(ValueError, "do not match"):
             validate_article_targets(self.root, [self.managed], {self.managed, self.other}, [])

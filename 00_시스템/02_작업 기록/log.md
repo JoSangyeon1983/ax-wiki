@@ -42,7 +42,7 @@ updated: "2026-10-13"
 - 분석 범위, 분절 기준, 최초 근거 추출표와 초안 구조 대응표를 임시 작업 문서에 기록함
 - 자동 정비: 헤딩 넘버링 어긋남 0건, 인용 어긋남 0건. 전체 위키 lint는 사용자 집필 중인 `05_Articles/Cave Super Ball 기획서.md`의 기존 이미지 상대경로 오류 7건 때문에 실패했으며 이번 변경 파일에서는 오류가 발견되지 않음
 - 생성/수정 파일: `90_Temp/Cave Super Ball 개요 근거 추출.md`, `04_Syntheses/Cave Super Ball 기획서 초안.md`, `00_Index/MOC.md`, `99_Logs/log.md`
-- 새 wikilink: [[Cave Super Ball 기획서 초안]]
+- 새 wikilink: [[Cave Super Ball 콘셉트 기획서]]
 
 ## [2026-09-08] create | CaveBall 계층형 Mermaid 플로우 작성
 
